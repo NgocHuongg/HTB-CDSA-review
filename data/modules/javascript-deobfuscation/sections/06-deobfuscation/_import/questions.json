@@ -1,0 +1,29 @@
+{
+  "module": 41,
+  "section": {
+    "id": 442,
+    "title": "Deobfuscation",
+    "page": 6,
+    "group": "Obfuscation",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "06-deobfuscation"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 95,
+      "question": "Using what you learned in this section, try to deobfuscate 'secret.js' in order to get the content of the flag. What is the flag?",
+      "hint": "Don't just beautify it, deobfuscate it!",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "HTB{1_4m_7h3_53r14l_g3n3r470r!}"
+    }
+  ]
+}

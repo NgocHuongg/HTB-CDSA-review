@@ -1,0 +1,22 @@
+[
+  {
+    "n": 1,
+    "question": "Việc đội CTI cung cấp cho đội SOC một địa chỉ IP đơn lẻ không kèm ngữ cảnh là hữu ích. Answer format: True, False.",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Khi một sự cố xảy ra trên mạng và đội CTI được thông báo, họ nên làm gì? Chọn một trong các đáp án sau: \"Do Nothing\", \"Reach out to the Incident Handler/Incident Responder\", \"Provide IOCs on all research being conducted, regardless if the IOC is verified\".",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Khi một sự cố xảy ra trên mạng và đội CTI được thông báo, họ nên làm gì? Chọn một trong các đáp án sau: \"Provide IOCs on all research being conducted, regardless if the IOC is verified\", \"Do Nothing\", \"Provide further IOCs and TTPs associated with the incident\".",
+    "hint": null
+  },
+  {
+    "n": 4,
+    "question": "Cyber Threat Intelligence, nếu được tuyển chọn và phân tích đúng cách, có thể ... ? Chọn một trong các đáp án sau: \"be used for security awareness\", \"be used for fine-tuning network segmentation\", \"provide insight into adversary operations\".",
+    "hint": null
+  }
+]

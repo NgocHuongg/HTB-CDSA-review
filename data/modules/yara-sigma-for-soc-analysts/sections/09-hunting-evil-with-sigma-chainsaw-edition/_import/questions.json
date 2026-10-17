@@ -1,0 +1,29 @@
+{
+  "module": 234,
+  "section": {
+    "id": 2572,
+    "title": "Hunting Evil with Sigma (Chainsaw Edition)",
+    "page": 9,
+    "group": "Leveraging Sigma",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "09-hunting-evil-with-sigma-chainsaw-edition"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2021,
+      "question": "Use Chainsaw with the \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\powershell\\powershell_script\\ posh_ps_win_defender_exclusions_added.yml\" Sigma rule to hunt for suspicious Defender exclusions inside \"C:\\Events\\YARASigma\\lab_events_5.evtx\". Enter the excluded directory as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "c:\\document\\virus\\"
+    }
+  ]
+}

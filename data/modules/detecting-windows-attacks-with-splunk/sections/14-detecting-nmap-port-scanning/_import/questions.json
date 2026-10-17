@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2556,
+    "title": "Detecting Nmap Port Scanning",
+    "page": 14,
+    "group": "Leveraging Zeek Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "14-detecting-nmap-port-scanning"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1995,
+      "question": "Use the \"cobaltstrike_beacon\" index and the \"bro:conn:json\" sourcetype. Did the attacker scan port 505? Answer format: Yes, No",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Yes"
+    }
+  ]
+}

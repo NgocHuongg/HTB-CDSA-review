@@ -1,0 +1,89 @@
+{
+  "module": 81,
+  "section": {
+    "id": 775,
+    "title": "Analysis with Wireshark",
+    "page": 10,
+    "group": "Wireshark",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "10-analysis-with-wireshark"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 483,
+      "question": "True or False: Wireshark can run on both Windows and Linux.",
+      "hint": "Wireshark is FOSS, and capable of running on many different Operating Systems",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "True"
+    },
+    {
+      "n": 2,
+      "id": 484,
+      "question": "Which Pane allows a user to see a summary of each packet grabbed during the capture?",
+      "hint": "There are three panes; Packet l__ , Packet b___ , and Packet d______.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Packet List"
+    },
+    {
+      "n": 3,
+      "id": 485,
+      "question": "Which pane provides you insight into the traffic you captured and displays it in both ASCII and Hex?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Packet Bytes"
+    },
+    {
+      "n": 4,
+      "id": 601,
+      "question": "What switch is used with TShark to list possible interfaces to capture on?",
+      "hint": "Similar to TCPDump",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "-d"
+    },
+    {
+      "n": 5,
+      "id": 602,
+      "question": "What switch allows us to apply filters in TShark?",
+      "hint": "this is a unique Filter switch for TShark.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "-f"
+    },
+    {
+      "n": 6,
+      "id": 603,
+      "question": "Is a capture filter applied before the capture starts or after? (answer before or after)",
+      "hint": "its to capture, not display",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Before"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Construct a Splunk query targeting the \"ssh_bruteforce\" index and the \"bro:ssh:json\" sourcetype. The resulting output should display the time bucket, source IP, destination IP, client, and server, together with the cumulative count of authentication attempts where the total number of attempts surpasses 30 within a 5-minute time window. Enter the IP of the client that performed the SSH brute attack as your answer.",
+      "vi": "Xây dựng một Splunk query nhắm vào index \"ssh_bruteforce\" và sourcetype \"bro:ssh:json\". Kết quả đầu ra phải hiển thị time bucket, IP nguồn, IP đích, client và server, cùng với tổng số lần thử xác thực cộng dồn, trong đó tổng số lần thử vượt quá 30 trong một khung thời gian 5 phút. Nhập IP của client đã thực hiện tấn công brute force SSH làm câu trả lời."
+    },
+    "answer": "192.168.152.140"
+  }
+]

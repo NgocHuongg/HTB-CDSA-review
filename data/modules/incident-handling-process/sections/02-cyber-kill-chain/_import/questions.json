@@ -1,0 +1,41 @@
+{
+  "module": 148,
+  "section": {
+    "id": 1363,
+    "title": "Cyber Kill Chain",
+    "page": 2,
+    "group": "Introduction",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "02-cyber-kill-chain"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 941,
+      "question": "In which stage of the Cyber Kill Chain is malware developed?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Weaponize"
+    },
+    {
+      "n": 2,
+      "id": 3422,
+      "question": "Check the alert with reference 67c202 (LSASS Access) in TheHive, and provide the MITRE rule ID as the answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "Authenticate",
+      "username": "htb-analyst",
+      "password": "P3n#31337@LOG",
+      "answer": "T1003.001"
+    }
+  ]
+}

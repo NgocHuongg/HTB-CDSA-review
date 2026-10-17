@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and find through SPL searches against all data the password utilized during the PsExec activity. Enter it as your answer.",
+      "vi": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua các tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm mật khẩu đã được sử dụng trong hoạt động PsExec. Nhập mật khẩu đó làm đáp án."
+    },
+    "answer": "Password@123"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Using sigmac translate the \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\builtin\\windefend\\win_defender_threat.yml\" Sigma rule into the equivalent PowerShell command. Then, execute the PowerShell command against \"C:\\Events\\YARASigma\\lab_events_4.evtx\" and enter the malicious driver as your answer. Answer format: _.sys RDP to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Dùng sigmac để chuyển Sigma rule \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\builtin\\windefend\\win_defender_threat.yml\" thành lệnh PowerShell tương đương. Sau đó, chạy lệnh PowerShell đó trên \"C:\\Events\\YARASigma\\lab_events_4.evtx\" và nhập tên driver độc hại làm đáp án. Answer format: _.sys RDP tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "mimidrv.sys"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2464,
+    "title": "Strange HTTP Headers",
+    "page": 13,
+    "group": "Application Layer Attacks",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "13-strange-http-headers"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1927,
+      "question": "Inspect the CRLF_and_host_header_manipulation.pcapng file, part of this module's resources, and enter the total number of HTTP packets with response code 400  as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "7"
+    }
+  ]
+}

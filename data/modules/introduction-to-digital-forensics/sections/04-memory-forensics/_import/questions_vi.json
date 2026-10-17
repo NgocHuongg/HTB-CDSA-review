@@ -1,0 +1,17 @@
+[
+  {
+    "n": 1,
+    "question": "Phân tích file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" bằng Volatility. Nhập tên process cha (parent process) của @WanaDecryptor (Pid 1060) làm đáp án. Answer format: _.exe",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Phân tích file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" bằng Volatility. tasksche.exe (Pid 1792) đang mở nhiều file handle. Nhập tên file trông đáng ngờ có đuôi .WNCRYT làm đáp án. Answer format: _.WNCRYT",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Phân tích file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" bằng Volatility. Nhập Pid của process đã nạp zlib1.dll làm đáp án.",
+    "hint": null
+  }
+]

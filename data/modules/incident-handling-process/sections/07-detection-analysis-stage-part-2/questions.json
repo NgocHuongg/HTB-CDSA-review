@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "During an investigation, we discovered a malicious file with an MD5 hash value of 'b40f6b2c167239519fcfb2028ab2524a'. What do we usually call such a hash value in investigations? Answer format: Abbreviation",
+      "vi": "Trong một cuộc điều tra, ta phát hiện một file độc hại có giá trị MD5 là 'b40f6b2c167239519fcfb2028ab2524a'. Trong điều tra, giá trị hash như vậy thường được gọi là gì? Định dạng đáp án: viết tắt."
+    },
+    "answer": "IOC"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "In TheHive, check the alert with rule=92153 related to the VaultCli.dll module. What is the MD5 hash value mentioned in the alert? Authenticate to TARGET_IP with user \"htb-analyst\" and password \"P3n#31337@LOG\".",
+      "vi": "Trong TheHive, kiểm tra alert có rule=92153 liên quan tới module VaultCli.dll. Giá trị MD5 được nêu trong alert là gì? Đăng nhập vào TARGET_IP với user \"htb-analyst\" và mật khẩu \"P3n#31337@LOG\"."
+    },
+    "answer": "FCDE97D37B7C0CADB3BC71267BEB5405"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "True/False: As an analyst, you detected lateral movement attempts to systems owned by another department (e.g., finance). As it belongs to another department, you will not perform escalation internally.",
+      "vi": "Đúng/Sai: Là analyst, bạn phát hiện các nỗ lực lateral movement tới hệ thống thuộc phòng ban khác (vd: finance). Vì hệ thống thuộc phòng ban khác nên bạn sẽ không escalate nội bộ."
+    },
+    "answer": "False"
+  }
+]

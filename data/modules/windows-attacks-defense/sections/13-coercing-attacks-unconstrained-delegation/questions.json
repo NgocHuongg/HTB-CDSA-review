@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Repeat the example shown in the section, and type DONE as the answer when you are finished. RDP to TARGET_IP with user \"kali\" and password \"kali\".",
+      "vi": "Lặp lại ví dụ được trình bày trong phần này, và gõ DONE làm câu trả lời khi bạn hoàn thành. RDP tới TARGET_IP với user \"kali\" và mật khẩu \"kali\"."
+    },
+    "answer": "DONE"
+  }
+]

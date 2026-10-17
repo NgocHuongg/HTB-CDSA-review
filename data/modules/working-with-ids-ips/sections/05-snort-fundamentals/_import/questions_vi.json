@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Có một file tên wannamine.pcap trong thư mục /home/htb-student/pcaps. Hãy chạy Snort trên file PCAP này và nhập số lần rule có sid 1000001 được kích hoạt làm câu trả lời.",
+    "hint": null
+  }
+]

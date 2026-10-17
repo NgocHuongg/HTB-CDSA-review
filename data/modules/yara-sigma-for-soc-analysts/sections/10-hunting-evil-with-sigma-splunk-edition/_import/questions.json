@@ -1,0 +1,29 @@
+{
+  "module": 234,
+  "section": {
+    "id": 2516,
+    "title": "Hunting Evil with Sigma (Splunk Edition)",
+    "page": 10,
+    "group": "Leveraging Sigma",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "10-hunting-evil-with-sigma-splunk-edition"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2022,
+      "question": "Using sigmac translate the \"C:\\Rules\\sigma\\file_event_win_app_dropping_archive.yml\" Sigma rule into the equivalent Splunk search. Then, navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and submit the Splunk search sigmac provided. Enter the TargetFilename value of the returned event as your answer.",
+      "hint": "You can find sigmac inside the previous section's target, if you don't have it readily available.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "C:\\Users\\waldo\\Downloads\\20221108112718_BloodHound.zip"
+    }
+  ]
+}

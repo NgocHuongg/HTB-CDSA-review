@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Connect to the target and run the Powersploit Get-GPPPassword function. What is the password of the svc-iis user? RDP to TARGET_IP with user \"bob\" and password \"Slavi123\".",
+      "vi": "Kết nối tới target và chạy hàm Get-GPPPassword của Powersploit. Mật khẩu của user svc-iis là gì? RDP tới TARGET_IP với user \"bob\" và mật khẩu \"Slavi123\"."
+    },
+    "hint": {
+      "en": "In order to run powershell scripts, we might have to bypass the execution policy.",
+      "vi": "Để chạy được các script powershell, ta có thể phải bypass execution policy."
+    },
+    "answer": "abcd@123"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "After running the previous attack, connect to DC1 (172.16.18.3) as 'htb-student:HTB_@cademy_stdnt!' and look at the logs in Event Viewer. What is the Access Mask of the generated events?",
+      "vi": "Sau khi chạy cuộc tấn công trước đó, kết nối tới DC1 (172.16.18.3) với tư cách 'htb-student:HTB_@cademy_stdnt!' và xem các log trong Event Viewer. Access Mask của các event được sinh ra là gì?"
+    },
+    "hint": {
+      "en": "Filter for Event ID 4663.",
+      "vi": "Lọc theo Event ID 4663."
+    },
+    "answer": "0x80"
+  }
+]

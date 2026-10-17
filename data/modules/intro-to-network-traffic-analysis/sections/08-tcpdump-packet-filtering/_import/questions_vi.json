@@ -1,0 +1,5 @@
+[
+  {"n": 1, "question": "Filter nào cho phép tôi xem traffic xuất phát từ hoặc đi tới host có IP 10.10.20.1?", "hint": "chỉ cần filter và biến cần thiết. (Không phải toàn bộ lệnh)"},
+  {"n": 2, "question": "Filter nào cho phép tôi capture dựa trên một trong hai lựa chọn?", "hint": "cái này OR cái kia."},
+  {"n": 3, "question": "Đúng hay Sai (True or False): Mặc định, TCPDump sẽ phân giải IP thành hostname.", "hint": "hãy chạy thử một bản capture, bạn thấy gì?"}
+]

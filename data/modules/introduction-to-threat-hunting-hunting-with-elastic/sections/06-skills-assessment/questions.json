@@ -1,0 +1,34 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Enter your answer for Hunt 1.",
+      "vi": "Nhập câu trả lời của bạn cho Hunt 1."
+    },
+    "answer": "svc-sql1"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Enter your answer for Hunt 2.",
+      "vi": "Nhập câu trả lời của bạn cho Hunt 2."
+    },
+    "hint": {
+      "en": "Leverage event.code 13 and make sure that your query matches the case of the registry.path field.",
+      "vi": "Tận dụng event.code 13 và đảm bảo query của bạn khớp chữ hoa/chữ thường với field registry.path."
+    },
+    "answer": "LgvHsviAUVTsIN"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Enter your answer for Hunt 3.",
+      "vi": "Nhập câu trả lời của bạn cho Hunt 3."
+    },
+    "hint": {
+      "en": "Leverage event.code 4104 and the powershell.file.script_block_text field.",
+      "vi": "Tận dụng event.code 4104 và field powershell.file.script_block_text."
+    },
+    "answer": "svc-sql1"
+  }
+]

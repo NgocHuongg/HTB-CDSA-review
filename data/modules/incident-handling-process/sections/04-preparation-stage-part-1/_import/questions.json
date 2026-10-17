@@ -1,0 +1,18 @@
+{
+  "path": "/app/module/148/section/1365",
+  "title": "Preparation Stage (Part 1)",
+  "questions": [
+    {
+      "n": 1,
+      "text": "What should we have prepared and always ready to 'grab and go'?",
+      "extra": [],
+      "answer": "Jump bag"
+    },
+    {
+      "n": 2,
+      "text": "True or False: Using baselines, we can discover deviations from the golden image, which aids us in discovering suspicious or unwanted changes to the configuration.",
+      "extra": [],
+      "answer": "True"
+    }
+  ]
+}

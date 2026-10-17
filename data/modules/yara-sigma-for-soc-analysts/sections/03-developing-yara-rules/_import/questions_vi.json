@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Thực hiện phân tích chuỗi (string analysis) trên sample \"DirectX.dll\" nằm trong thư mục  \"/home/htb-student/Samples/YARASigma\" trên target của section này. Sau đó, nghiên cứu rule YARA \"apt_apt17_mal_sep17_1.yar\" nằm trong thư mục \"/home/htb-student/Rules/yara\" và thay \"X.dll\" bằng tên DLL đúng để đảm bảo rule sẽ nhận diện được \"DirectX.dll\". Nhập tên DLL đúng làm câu trả lời. Answer format: _.dll",
+    "hint": null
+  }
+]

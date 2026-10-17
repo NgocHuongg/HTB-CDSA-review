@@ -1,0 +1,41 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1790,
+    "title": "PKI - ESC1",
+    "page": 15,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "15-pki-esc1"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1642,
+      "question": "Connect to the Kali host first, then RDP to WS001 as 'bob:Slavi123' and practice the techniques shown in this section. What is the flag value located at \\\\dc1\\c$\\scripts?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "kali",
+      "password": "kali",
+      "answer": "Pk1_Vuln3r@b!litY"
+    },
+    {
+      "n": 2,
+      "id": 1663,
+      "question": "After performing the ESC1 attack, connect to PKI (172.16.18.15) as 'htb-student:HTB_@cademy_stdnt!' and look at the logs. On what date was the very first certificate requested and issued?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "12/19/2022"
+    }
+  ]
+}

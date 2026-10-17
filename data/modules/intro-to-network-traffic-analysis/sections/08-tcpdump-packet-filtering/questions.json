@@ -1,0 +1,38 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What filter will allow me to see traffic coming from or destined to the host with an ip of 10.10.20.1?",
+      "vi": "Filter nào cho phép tôi xem traffic xuất phát từ hoặc đi tới host có IP 10.10.20.1?"
+    },
+    "hint": {
+      "en": "only the filter and the variable needed. (Not full command)",
+      "vi": "chỉ cần filter và biến cần thiết. (Không phải toàn bộ lệnh)"
+    },
+    "answer": "host 10.10.20.1"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "What filter will allow me to capture based on either of two options?",
+      "vi": "Filter nào cho phép tôi capture dựa trên một trong hai lựa chọn?"
+    },
+    "hint": {
+      "en": "this OR that.",
+      "vi": "cái này OR cái kia."
+    },
+    "answer": "or"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "True or False: TCPDump will resolve IPs to hostnames by default.",
+      "vi": "Đúng hay Sai (True or False): Mặc định, TCPDump sẽ phân giải IP thành hostname."
+    },
+    "hint": {
+      "en": "run a capture, what do you see?",
+      "vi": "hãy chạy thử một bản capture, bạn thấy gì?"
+    },
+    "answer": "True"
+  }
+]

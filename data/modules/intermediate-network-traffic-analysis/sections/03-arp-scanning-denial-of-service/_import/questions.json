@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2447,
+    "title": "ARP Scanning & Denial-of-Service",
+    "page": 3,
+    "group": "Link Layer Attacks",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "03-arp-scanning-denial-of-service"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1918,
+      "question": "Inspect the ARP_Poison.pcapng file, part of this module's resources, and submit the first MAC address that was linked with the IP 192.168.10.1 as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "2c:30:33:e2:d5:c3"
+    }
+  ]
+}

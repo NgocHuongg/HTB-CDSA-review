@@ -1,0 +1,29 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1789,
+    "title": "Object ACLs",
+    "page": 14,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "14-object-acls"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1641,
+      "question": "Repeat the example in the section and type DONE as the answer when you are finished",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "bob",
+      "password": "Slavi123",
+      "answer": "DONE"
+    }
+  ]
+}

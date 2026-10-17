@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "There is a file named log4shell.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to log4shell exploitation attempts, where the payload is embedded within the user agent. Enter the keyword that should be specified right before the content keyword of the rule with sid 10000098 within the local.rules file so that an alert is triggered as your answer. Answer format: [keyword]; SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Trong thư mục /home/htb-student/pcaps có một file tên log4shell.pcap, chứa lưu lượng mạng liên quan tới các nỗ lực khai thác log4shell, trong đó payload được nhúng trong user agent. Hãy nhập keyword cần được chỉ định ngay trước keyword content của rule có sid 10000098 trong file local.rules để alert được kích hoạt. Answer format: [keyword]; SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "http_header;"
+  }
+]

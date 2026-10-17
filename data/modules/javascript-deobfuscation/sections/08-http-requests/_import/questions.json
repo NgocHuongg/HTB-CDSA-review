@@ -1,0 +1,29 @@
+{
+  "module": 41,
+  "section": {
+    "id": 444,
+    "title": "HTTP Requests",
+    "page": 8,
+    "group": "Deobfuscation Examples",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "08-http-requests"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 98,
+      "question": "Try applying what you learned in this section by sending a 'POST' request to '/serial.php'. What is the response you get?",
+      "hint": "It should start with 'N' and end with 'z'",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "N2gxNV8xNV9hX3MzY3IzN19tMzU1NGcz"
+    }
+  ]
+}

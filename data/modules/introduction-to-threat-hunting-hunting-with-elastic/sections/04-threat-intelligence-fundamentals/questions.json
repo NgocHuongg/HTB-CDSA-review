@@ -1,0 +1,34 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "It’s useful for the CTI team to provide a single IP with no context to the SOC team. Answer format: True, False.",
+      "vi": "Việc đội CTI cung cấp cho đội SOC một địa chỉ IP đơn lẻ không kèm ngữ cảnh là hữu ích. Answer format: True, False."
+    },
+    "answer": "False"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "When an incident occurs on the network and the CTI team is made aware, what should they do? Choose one of the following as your answer: \"Do Nothing\", \"Reach out to the Incident Handler/Incident Responder\", \"Provide IOCs on all research being conducted, regardless if the IOC is verified\".",
+      "vi": "Khi một sự cố xảy ra trên mạng và đội CTI được thông báo, họ nên làm gì? Chọn một trong các đáp án sau: \"Do Nothing\", \"Reach out to the Incident Handler/Incident Responder\", \"Provide IOCs on all research being conducted, regardless if the IOC is verified\"."
+    },
+    "answer": "Reach out to the Incident Handler/Incident Responder"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "When an incident occurs on the network and the CTI team is made aware, what should they do? Choose one of the following as your answer: \"Provide IOCs on all research being conducted, regardless if the IOC is verified\", \"Do Nothing\", \"Provide further IOCs and TTPs associated with the incident\".",
+      "vi": "Khi một sự cố xảy ra trên mạng và đội CTI được thông báo, họ nên làm gì? Chọn một trong các đáp án sau: \"Provide IOCs on all research being conducted, regardless if the IOC is verified\", \"Do Nothing\", \"Provide further IOCs and TTPs associated with the incident\"."
+    },
+    "answer": "Provide further IOCs and TTPs associated with the incident"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "Cyber Threat Intelligence, if curated and analyzed properly, can ... ? Choose one of the following as your answer: \"be used for security awareness\", \"be used for fine-tuning network segmentation\", \"provide insight into adversary operations\".",
+      "vi": "Cyber Threat Intelligence, nếu được tuyển chọn và phân tích đúng cách, có thể ... ? Chọn một trong các đáp án sau: \"be used for security awareness\", \"be used for fine-tuning network segmentation\", \"provide insight into adversary operations\"."
+    },
+    "answer": "provide insight into adversary operations"
+  }
+]

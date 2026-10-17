@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What user account was used to initiate the RDP connection?",
+      "vi": "User account nào đã được dùng để khởi tạo kết nối RDP?"
+    },
+    "hint": {
+      "en": "His name can be seen when you look for the cookie in ASCII.",
+      "vi": "Có thể thấy tên của anh ta khi bạn tìm cookie trong phần ASCII."
+    },
+    "answer": "bucky"
+  }
+]

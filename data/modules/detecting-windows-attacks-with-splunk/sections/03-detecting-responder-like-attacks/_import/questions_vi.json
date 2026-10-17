@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Hãy chỉnh sửa và sử dụng câu search Splunk dựa trên Sysmon Event 22 được cung cấp, trên toàn bộ dữ liệu đã ingest (All time), để xác định tất cả tên share có vị trí bị 10.10.0.221 spoof. Nhập tên share còn thiếu trong danh sách sau làm câu trả lời. myshare, myfileshar3, _",
+    "hint": null
+  }
+]

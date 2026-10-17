@@ -1,0 +1,12 @@
+{
+  "order": 2,
+  "htb_id": 211,
+  "title": {
+    "en": "Security Monitoring & SIEM Fundamentals",
+    "vi": "Security Monitoring & SIEM Fundamentals"
+  },
+  "description": {
+    "en": "This module provides a concise yet comprehensive overview of Security Information and Event Management (SIEM) and the Elastic Stack. It demystifies the essential workings of a Security Operation Center (SOC), explores the application of the MITRE ATT&CK framework within SOCs, and introduces SIEM (KQL) query development. With a focus on practical skills, students will learn how to develop SIEM use cases and visualizations using the Elastic Stack.",
+    "vi": "Module này cung cấp cái nhìn tổng quan ngắn gọn nhưng toàn diện về Security Information and Event Management (SIEM) và Elastic Stack. Module làm sáng tỏ cách vận hành cốt lõi của một Security Operation Center (SOC), tìm hiểu việc ứng dụng framework MITRE ATT&CK trong SOC, và giới thiệu cách xây dựng query SIEM (KQL). Với trọng tâm là kỹ năng thực hành, học viên sẽ học cách xây dựng các SIEM use case và visualization bằng Elastic Stack."
+  }
+}

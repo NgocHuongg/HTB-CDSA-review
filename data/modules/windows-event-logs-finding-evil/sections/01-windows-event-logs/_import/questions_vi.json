@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Phân tích event có ID 4624, xảy ra vào 8/3/2022 lúc 10:23:25. Thực hiện một cuộc điều tra tương tự như đã trình bày trong section này và đưa ra tên file thực thi (executable) chịu trách nhiệm sửa đổi các cài đặt audit làm câu trả lời. Answer format: T_W_____.exe",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Xây dựng một XML query để xác định liệu file thực thi nêu trên có sửa đổi các cài đặt audit của C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\WPF\\wpfgfx_v0400.dll hay không. Nhập thời điểm của event tìm được theo định dạng HH:MM:SS làm câu trả lời.",
+    "hint": null
+  }
+]

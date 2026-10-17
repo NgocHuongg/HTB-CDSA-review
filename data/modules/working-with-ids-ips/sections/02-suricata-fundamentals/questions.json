@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Filter out only HTTP events from /var/log/suricata/old_eve.json using the the jq command-line JSON processor. Enter the flow_id that you will come across as your answer. SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Chỉ lọc ra các HTTP event từ /var/log/suricata/old_eve.json bằng công cụ xử lý JSON dòng lệnh jq. Nhập flow_id mà bạn tìm thấy làm đáp án. SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "1252204100696793"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Enable the http-log output in suricata.yaml and run Suricata against /home/htb-student/pcaps/suspicious.pcap. Enter the requested PHP page as your answer. Answer format: _.php SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Bật output http-log trong suricata.yaml và chạy Suricata trên /home/htb-student/pcaps/suspicious.pcap. Nhập trang PHP được request làm đáp án. Answer format: _.php SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "app.php"
+  }
+]

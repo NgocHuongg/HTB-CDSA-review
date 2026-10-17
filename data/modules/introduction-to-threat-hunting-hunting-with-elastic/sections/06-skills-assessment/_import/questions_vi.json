@@ -1,0 +1,17 @@
+[
+  {
+    "n": 1,
+    "question": "Nhập câu trả lời của bạn cho Hunt 1.",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Nhập câu trả lời của bạn cho Hunt 2.",
+    "hint": "Tận dụng event.code 13 và đảm bảo query của bạn khớp chữ hoa/chữ thường với field registry.path."
+  },
+  {
+    "n": 3,
+    "question": "Nhập câu trả lời của bạn cho Hunt 3.",
+    "hint": "Tận dụng event.code 4104 và field powershell.file.script_block_text."
+  }
+]

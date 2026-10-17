@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Kết nối tới target và chạy hàm Get-GPPPassword của Powersploit. Mật khẩu của user svc-iis là gì?",
+    "hint": "Để chạy được các script powershell, ta có thể phải bypass execution policy."
+  },
+  {
+    "n": 2,
+    "question": "Sau khi chạy cuộc tấn công trước đó, kết nối tới DC1 (172.16.18.3) với tư cách 'htb-student:HTB_@cademy_stdnt!' và xem các log trong Event Viewer. Access Mask của các event được sinh ra là gì?",
+    "hint": "Lọc theo Event ID 4663."
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2466,
+    "title": "SSL Renegotiation Attacks",
+    "page": 15,
+    "group": "Application Layer Attacks",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "15-ssl-renegotiation-attacks"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1940,
+      "question": "Inspect the SSL_renegotiation_edited.pcapng file, part of this module's resources, and enter the total count of \"Client Hello\" requests as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "16"
+    }
+  ]
+}

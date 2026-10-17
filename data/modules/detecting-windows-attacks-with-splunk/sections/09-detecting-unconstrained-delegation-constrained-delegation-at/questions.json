@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Employ the Splunk search provided at the \"Detecting Unconstrained Delegation Attacks With Splunk\" part of this section on all ingested data (All time). Enter the name of the other computer on which there are traces of reconnaissance related to Unconstrained Delegation as your answer. Answer format: _.corp.local",
+      "vi": "Dùng search Splunk được cung cấp ở phần \"Detecting Unconstrained Delegation Attacks With Splunk\" của section này trên toàn bộ dữ liệu đã ingest (All time). Nhập tên của computer còn lại có dấu vết reconnaissance liên quan đến Unconstrained Delegation làm câu trả lời. Answer format: _.corp.local"
+    },
+    "answer": "DC01.corp.local"
+  }
+]

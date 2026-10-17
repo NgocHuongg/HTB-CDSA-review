@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "There is a file named printnightmare.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to the PrintNightmare (https://labs.jumpsec.com/printnightmare-network-analysis/) vulnerability. Enter the zeek log that can help us identify the suspicious spooler functions as your answer. Answer format: _.log SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Có một file tên printnightmare.pcap trong thư mục /home/htb-student/pcaps, chứa lưu lượng mạng liên quan đến lỗ hổng PrintNightmare (https://labs.jumpsec.com/printnightmare-network-analysis/). Hãy nhập tên log của Zeek có thể giúp ta nhận diện các hàm spooler đáng ngờ làm đáp án. Answer format: _.log SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "dce_rpc.log"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "There is a file named revilkaseya.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to the REvil ransomware Kaseya supply chain attack. Enter the total number of bytes that the victim has transmitted to the IP address 178.23.155.240 as your answer. SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Có một file tên revilkaseya.pcap trong thư mục /home/htb-student/pcaps, chứa lưu lượng mạng liên quan đến cuộc tấn công chuỗi cung ứng (supply chain attack) Kaseya của ransomware REvil. Hãy nhập tổng số byte mà nạn nhân đã truyền tới địa chỉ IP 178.23.155.240 làm đáp án. SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "2311"
+  }
+]

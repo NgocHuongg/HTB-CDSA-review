@@ -1,0 +1,29 @@
+{
+  "module": 211,
+  "section": {
+    "id": 2276,
+    "title": "SIEM Visualization Example 4: Users Added Or Removed From A Local Group (Within A Specific Timeframe)",
+    "page": 9,
+    "group": "SIEM Visualization Development",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "09-siem-visualization-example-4-users-added-or-removed-from-a-l"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1712,
+      "question": "Navigate to http://[Target IP]:5601, click on the side navigation toggle, and click on \"Dashboard\". Extend the visualization we created or the \"User added or removed from a local group\" visualization, if it is available, and enter the common date on which all returned events took place as your answer. Answer format: 20XX-0X-0X",
+      "hint": "Use the absolute time range from March 1st to March 31st, 2023.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "2023-03-05"
+    }
+  ]
+}

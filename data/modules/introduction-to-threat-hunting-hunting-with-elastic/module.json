@@ -1,0 +1,12 @@
+{
+  "order": 4,
+  "htb_id": 214,
+  "title": {
+    "en": "Introduction to Threat Hunting & Hunting With Elastic",
+    "vi": "Introduction to Threat Hunting & Hunting With Elastic"
+  },
+  "description": {
+    "en": "This module initially lays the groundwork for understanding Threat Hunting, ranging from its basic definition, to the structure of a threat hunting team. The module also dives into the threat hunting process, highlighting the interrelationships between threat hunting, risk assessment, and incident handling. Furthermore, the module elucidates the fundamentals of Cyber Threat Intelligence (CTI). It expands on the different types of threat intelligence and offers guidance on effectively interpreting a threat intelligence report. Finally, the module puts theory into practice, showcasing how to conduct threat hunting using the Elastic stack. This practical segment uses real-world logs to provide learners with hands-on experience.",
+    "vi": "Module này trước hết đặt nền móng để hiểu về Threat Hunting, từ định nghĩa cơ bản cho đến cơ cấu của một đội threat hunting. Module cũng đi sâu vào quy trình threat hunting, làm nổi bật mối quan hệ qua lại giữa threat hunting, risk assessment (đánh giá rủi ro) và incident handling (xử lý sự cố). Bên cạnh đó, module làm rõ các kiến thức nền tảng về Cyber Threat Intelligence (CTI). Module mở rộng sang các loại threat intelligence khác nhau và hướng dẫn cách diễn giải hiệu quả một báo cáo threat intelligence. Cuối cùng, module đưa lý thuyết vào thực hành, minh hoạ cách tiến hành threat hunting bằng Elastic stack. Phần thực hành này sử dụng log thực tế để mang lại cho người học trải nghiệm thực hành trực tiếp."
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Try applying what you learned in this section by sending a 'POST' request to '/serial.php'. What is the response you get?",
+      "vi": "Hãy thử áp dụng những gì đã học trong phần này bằng cách gửi một request 'POST' tới '/serial.php'. Response bạn nhận được là gì?"
+    },
+    "hint": {
+      "en": "It should start with 'N' and end with 'z'",
+      "vi": "Nó sẽ bắt đầu bằng 'N' và kết thúc bằng 'z'"
+    },
+    "answer": "N2gxNV8xNV9hX3MzY3IzN19tMzU1NGcz"
+  }
+]

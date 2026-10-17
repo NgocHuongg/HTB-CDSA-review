@@ -1,0 +1,16 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2445,
+    "title": "Intermediate Network Traffic Analysis Overview",
+    "page": 1,
+    "group": "Introduction",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "01-intermediate-network-traffic-analysis-overview"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "n": 1,
+    "question": "Xem xét các log nằm trong thư mục \"C:\\Logs\\DLLHijack\", xác định process chịu trách nhiệm thực hiện cuộc tấn công DLL hijacking. Nhập tên process làm câu trả lời. Answer format: _.exe",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Xem xét các log nằm trong thư mục \"C:\\Logs\\PowershellExec\", xác định process đã thực thi unmanaged PowerShell code. Nhập tên process làm câu trả lời. Answer format: _.exe",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Xem xét các log nằm trong thư mục \"C:\\Logs\\PowershellExec\", xác định process đã inject vào process thực thi unmanaged PowerShell code. Nhập tên process làm câu trả lời. Answer format: _.exe",
+    "hint": null
+  },
+  {
+    "n": 4,
+    "question": "Xem xét các log nằm trong thư mục \"C:\\Logs\\Dump\", xác định process đã thực hiện LSASS dump. Nhập tên process làm câu trả lời. Answer format: _.exe",
+    "hint": null
+  },
+  {
+    "n": 5,
+    "question": "Xem xét các log nằm trong thư mục \"C:\\Logs\\Dump\", xác định xem có lần đăng nhập (login) mang ý đồ xấu nào diễn ra sau LSASS dump hay không. Answer format: Yes or No",
+    "hint": null
+  },
+  {
+    "n": 6,
+    "question": "Xem xét các log nằm trong thư mục \"C:\\Logs\\StrangePPID\", xác định một process đã được dùng để tạm thời thực thi code, dựa trên một quan hệ parent-child bất thường. Nhập tên process làm câu trả lời. Answer format: _.exe",
+    "hint": null
+  }
+]

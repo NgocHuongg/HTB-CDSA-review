@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Hãy thử áp dụng những gì đã học trong phần này bằng cách gửi một request 'POST' tới '/serial.php'. Response bạn nhận được là gì?",
+    "hint": "Nó sẽ bắt đầu bằng 'N' và kết thúc bằng 'z'"
+  }
+]

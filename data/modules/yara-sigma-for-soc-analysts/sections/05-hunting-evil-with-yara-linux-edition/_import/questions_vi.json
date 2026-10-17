@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Nghiên cứu tài liệu sau https://blogs.vmware.com/security/2022/09/threat-report-illuminating-volume-shadow-deletion.html để tìm hiểu cách WannaCry thực hiện xoá shadow volume. Sau đó, dùng yarascan khi phân tích \"/home/htb-student/MemoryDumps/compromised_system.raw\" để xác định process chịu trách nhiệm xoá các shadow copy. Nhập tên của process làm đáp án.",
+    "hint": null
+  }
+]

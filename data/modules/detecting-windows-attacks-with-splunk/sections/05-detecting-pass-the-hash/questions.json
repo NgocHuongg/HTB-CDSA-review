@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "A Pass-the-Hash attack took place during the following timeframe earliest=1690543380 latest=1690545180. Enter the involved ComputerName as your answer.",
+      "vi": "Một cuộc tấn công Pass-the-Hash đã diễn ra trong khung thời gian sau earliest=1690543380 latest=1690545180. Nhập ComputerName liên quan làm câu trả lời."
+    },
+    "answer": "BLUE.corp.local"
+  }
+]

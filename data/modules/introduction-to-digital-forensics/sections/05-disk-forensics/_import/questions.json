@@ -1,0 +1,16 @@
+{
+  "module": 237,
+  "section": {
+    "id": 2611,
+    "title": "Disk Forensics",
+    "page": 5,
+    "group": "Evidence Examination & Analysis",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "05-disk-forensics"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

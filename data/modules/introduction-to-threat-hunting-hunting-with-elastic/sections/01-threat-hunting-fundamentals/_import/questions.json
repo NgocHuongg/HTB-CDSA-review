@@ -1,0 +1,53 @@
+{
+  "module": 214,
+  "section": {
+    "id": 2280,
+    "title": "Threat Hunting Fundamentals",
+    "page": 1,
+    "group": "Threat Hunting & Threat Intelligence Fundamentals",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "01-threat-hunting-fundamentals"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1721,
+      "question": "Threat hunting is used ... Choose one of the following as your answer: \"proactively\", \"reactively\", \"proactively and reactively\".",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "proactively and reactively"
+    },
+    {
+      "n": 2,
+      "id": 1722,
+      "question": "Threat hunting and incident handling are two processes that always function independently. Answer format: True, False.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "False"
+    },
+    {
+      "n": 3,
+      "id": 1723,
+      "question": "Threat hunting and incident response can be conducted simultaneously. Answer format: True, False.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "True"
+    }
+  ]
+}

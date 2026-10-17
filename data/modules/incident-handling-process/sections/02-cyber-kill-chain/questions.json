@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "In which stage of the Cyber Kill Chain is malware developed?",
+      "vi": "Malware được phát triển ở giai đoạn nào của Cyber Kill Chain?"
+    },
+    "answer": "Weaponize"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Check the alert with reference 67c202 (LSASS Access) in TheHive, and provide the MITRE rule ID as the answer.",
+      "vi": "Kiểm tra alert có reference 67c202 (LSASS Access) trong TheHive và cho biết MITRE rule ID."
+    },
+    "answer": "T1003.001"
+  }
+]

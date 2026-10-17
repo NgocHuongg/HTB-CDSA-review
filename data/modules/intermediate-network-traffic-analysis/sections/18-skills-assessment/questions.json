@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Inspect the funky_dns.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: \"DNS Flooding\", \"DNS Amplification\", \"DNS Tunneling\"",
+      "vi": "Hãy kiểm tra file funky_dns.pcap (thuộc tài nguyên của module này) và nhập kiểu tấn công liên quan làm câu trả lời. Answer format: \"DNS Flooding\", \"DNS Amplification\", \"DNS Tunneling\""
+    },
+    "answer": "DNS Tunneling"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Inspect the funky_icmp.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: \"ICMP Flooding\", \"ICMP Tunneling\", \"ICMP SMURF Attack\"",
+      "vi": "Hãy kiểm tra file funky_icmp.pcap (thuộc tài nguyên của module này) và nhập kiểu tấn công liên quan làm câu trả lời. Answer format: \"ICMP Flooding\", \"ICMP Tunneling\", \"ICMP SMURF Attack\""
+    },
+    "answer": "ICMP Tunneling"
+  }
+]

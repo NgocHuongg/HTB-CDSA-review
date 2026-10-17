@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Use the \"dns_exf\" index and the \"bro:dns:json\" sourcetype. Enter the attacker-controlled domain as your answer. Answer format: _._",
+      "vi": "Dùng index \"dns_exf\" và sourcetype \"bro:dns:json\". Nhập domain do kẻ tấn công kiểm soát làm đáp án. Answer format: _._"
+    },
+    "answer": "letsgohunt.online"
+  }
+]

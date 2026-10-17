@@ -1,0 +1,17 @@
+[
+  {
+    "n": 1,
+    "question": "Trong quá trình xem xét USN Journal bằng Timeline Explorer, ta đã thấy \"uninstall.exe\". Sau đó kẻ tấn công đã đổi tên file này. Hãy dùng thông tin Zone.Identifier để xác định tên mới của nó và nhập làm đáp án.",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Hãy xem xét file tại \"C:\\Users\\johndoe\\Desktop\\forensic_data\\kape_output\\D\\Windows\\System32\\winevt\\logs\\Microsoft-Windows-Sysmon%4Operational.evtx\" bằng Timeline Explorer. File này ghi lại việc tạo hai scheduled task. Hãy nhập tên của scheduled task bắt đầu bằng \"M\" và kết thúc bằng \"r\" làm đáp án.",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Hãy xem xét nội dung của file nằm tại \"C:\\Users\\johndoe\\Desktop\\forensic_data\\APMX64\\discord.apmx64\" bằng API Monitor. \"discord.exe\" cũng đã thực hiện process injection vào một process khác. Hãy xác định tên process đó và nhập làm đáp án.",
+    "hint": null
+  }
+]

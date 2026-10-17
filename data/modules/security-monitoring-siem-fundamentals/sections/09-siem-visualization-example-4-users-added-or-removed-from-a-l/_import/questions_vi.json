@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Mở rộng visualization mà ta đã tạo hoặc visualization \"User added or removed from a local group\" (nếu có), và nhập ngày chung mà tất cả các event trả về đều diễn ra làm câu trả lời. Answer format: 20XX-0X-0X",
+    "hint": "Dùng khoảng thời gian tuyệt đối (absolute time range) từ ngày 1 tháng 3 tới ngày 31 tháng 3 năm 2023."
+  }
+]

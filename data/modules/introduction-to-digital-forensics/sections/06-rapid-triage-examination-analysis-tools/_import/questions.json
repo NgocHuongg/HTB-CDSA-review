@@ -1,0 +1,53 @@
+{
+  "module": 237,
+  "section": {
+    "id": 2612,
+    "title": "Rapid Triage Examination & Analysis Tools",
+    "page": 6,
+    "group": "Evidence Examination & Analysis",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "06-rapid-triage-examination-analysis-tools"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2053,
+      "question": "During our examination of the USN Journal within Timeline Explorer, we observed \"uninstall.exe\". The attacker subsequently renamed this file. Use Zone.Identifier information to determine its new name and enter it as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "johndoe",
+      "password": "password",
+      "answer": "microsoft.windowskits.feedback.exe"
+    },
+    {
+      "n": 2,
+      "id": 2054,
+      "question": "Review the file at \"C:\\Users\\johndoe\\Desktop\\forensic_data\\kape_output\\D\\Windows\\System32\\winevt\\logs\\Microsoft-Windows-Sysmon%4Operational.evtx\" using Timeline Explorer. It documents the creation of two scheduled tasks. Enter the name of the scheduled task that begins with \"M\" and concludes with \"r\" as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "johndoe",
+      "password": "password",
+      "answer": "Microsoft-Windows-DiagnosticDataCollector"
+    },
+    {
+      "n": 3,
+      "id": 2055,
+      "question": "Examine the contents of the file located at \"C:\\Users\\johndoe\\Desktop\\forensic_data\\APMX64\\discord.apmx64\" using API Monitor. \"discord.exe\" performed process injection against another process as well. Identify its name and enter it as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "johndoe",
+      "password": "password",
+      "answer": "cmdkey.exe"
+    }
+  ]
+}

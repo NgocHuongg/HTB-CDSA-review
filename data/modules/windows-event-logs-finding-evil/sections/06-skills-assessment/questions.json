@@ -1,0 +1,50 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "By examining the logs located in the \"C:\\Logs\\DLLHijack\" directory, determine the process responsible for executing a DLL hijacking attack. Enter the process name as your answer. Answer format: _.exe RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Xem xét các log nằm trong thư mục \"C:\\Logs\\DLLHijack\", xác định process chịu trách nhiệm thực hiện cuộc tấn công DLL hijacking. Nhập tên process làm câu trả lời. Answer format: _.exe RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "Dism.exe"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "By examining the logs located in the \"C:\\Logs\\PowershellExec\" directory, determine the process that executed unmanaged PowerShell code. Enter the process name as your answer. Answer format: _.exe RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Xem xét các log nằm trong thư mục \"C:\\Logs\\PowershellExec\", xác định process đã thực thi unmanaged PowerShell code. Nhập tên process làm câu trả lời. Answer format: _.exe RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "Calculator.exe"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "By examining the logs located in the \"C:\\Logs\\PowershellExec\" directory, determine the process that injected into the process that executed unmanaged PowerShell code. Enter the process name as your answer. Answer format: _.exe RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Xem xét các log nằm trong thư mục \"C:\\Logs\\PowershellExec\", xác định process đã inject vào process thực thi unmanaged PowerShell code. Nhập tên process làm câu trả lời. Answer format: _.exe RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "rundll32.exe"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "By examining the logs located in the \"C:\\Logs\\Dump\" directory, determine the process that performed an LSASS dump. Enter the process name as your answer. Answer format: _.exe RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Xem xét các log nằm trong thư mục \"C:\\Logs\\Dump\", xác định process đã thực hiện LSASS dump. Nhập tên process làm câu trả lời. Answer format: _.exe RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "ProcessHacker.exe"
+  },
+  {
+    "id": "q5",
+    "question": {
+      "en": "By examining the logs located in the \"C:\\Logs\\Dump\" directory, determine if an ill-intended login took place after the LSASS dump. Answer format: Yes or No RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Xem xét các log nằm trong thư mục \"C:\\Logs\\Dump\", xác định xem có lần đăng nhập (login) mang ý đồ xấu nào diễn ra sau LSASS dump hay không. Answer format: Yes or No RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "No"
+  },
+  {
+    "id": "q6",
+    "question": {
+      "en": "By examining the logs located in the \"C:\\Logs\\StrangePPID\" directory, determine a process that was used to temporarily execute code based on a strange parent-child relationship. Enter the process name as your answer. Answer format: _.exe RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Xem xét các log nằm trong thư mục \"C:\\Logs\\StrangePPID\", xác định một process đã được dùng để tạm thời thực thi code, dựa trên một quan hệ parent-child bất thường. Nhập tên process làm câu trả lời. Answer format: _.exe RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "WerFault.exe"
+  }
+]

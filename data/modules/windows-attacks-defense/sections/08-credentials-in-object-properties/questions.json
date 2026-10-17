@@ -1,0 +1,34 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Connect to the target and use a script to enumerate object property fields. What password can be found in the Description field of the bonni user? RDP to TARGET_IP with user \"bob\" and password \"Slavi123\".",
+      "vi": "Kết nối tới target và dùng một script để liệt kê các field property của object. Mật khẩu nào có thể tìm thấy trong field Description của user bonni? RDP tới TARGET_IP với user \"bob\" và mật khẩu \"Slavi123\"."
+    },
+    "answer": "Slavi1234"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Using the password discovered in the previous question, try to authenticate to DC1 as the bonni user. Is the password valid?",
+      "vi": "Dùng mật khẩu đã phát hiện ở câu trước, thử xác thực tới DC1 với tư cách user bonni. Mật khẩu có hợp lệ không?"
+    },
+    "hint": {
+      "en": "Yes or No",
+      "vi": "Yes or No"
+    },
+    "answer": "No"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Connect to DC1 as 'htb-student:HTB_@cademy_stdnt!' and look at the logs in Event Viewer. What is the TargetSid of the bonni user?",
+      "vi": "Kết nối tới DC1 với tư cách 'htb-student:HTB_@cademy_stdnt!' và xem các log trong Event Viewer. TargetSid của user bonni là gì?"
+    },
+    "hint": {
+      "en": "Filter by Event ID 4771.",
+      "vi": "Lọc theo Event ID 4771."
+    },
+    "answer": "S-1-5-21-1518138621-4282902758-752445584-3102"
+  }
+]

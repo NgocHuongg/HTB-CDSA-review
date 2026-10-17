@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2446,
+    "title": "ARP Spoofing & Abnormality Detection",
+    "page": 2,
+    "group": "Link Layer Attacks",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "02-arp-spoofing-abnormality-detection"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1917,
+      "question": "Inspect the ARP_Poison.pcapng file, part of this module's resources, and submit the total count of ARP requests (opcode 1) that originated from the address 08:00:27:53:0c:ba as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "507"
+    }
+  ]
+}

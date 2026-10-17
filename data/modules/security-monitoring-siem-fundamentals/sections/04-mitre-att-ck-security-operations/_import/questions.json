@@ -1,0 +1,16 @@
+{
+  "module": 211,
+  "section": {
+    "id": 2252,
+    "title": "MITRE ATT&CK & Security Operations",
+    "page": 4,
+    "group": "SIEM & SOC Fundamentals",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "04-mitre-att-ck-security-operations"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

@@ -1,0 +1,18 @@
+{
+  "path": "/app/module/148/section/1366",
+  "title": "Preparation Stage (Part 2)",
+  "questions": [
+    {
+      "n": 1,
+      "text": "What mechanism can we use to block phishing emails pretending to originate from our mail server?",
+      "extra": [],
+      "answer": "DMARC"
+    },
+    {
+      "n": 2,
+      "text": "True or False: The \"Summer2021!\" password meets the complex password criteria but can be easily guessed or brute-forced.",
+      "extra": [],
+      "answer": "True"
+    }
+  ]
+}

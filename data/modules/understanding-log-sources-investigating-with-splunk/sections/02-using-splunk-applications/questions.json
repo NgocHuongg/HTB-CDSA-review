@@ -1,0 +1,22 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Access the Sysmon App for Splunk and go to the \"Reports\" tab. Fix the search associated with the \"Net - net view\" report and provide the complete executed command as your answer. Answer format: net view /Domain:_.local",
+      "vi": "Truy cập Sysmon App for Splunk và vào tab \"Reports\". Sửa search gắn với report \"Net - net view\" và nhập lệnh đầy đủ đã được thực thi làm câu trả lời. Answer format: net view /Domain:_.local"
+    },
+    "hint": {
+      "en": "Remove any extra white spaces",
+      "vi": "Xoá mọi khoảng trắng thừa"
+    },
+    "answer": "net view /DOMAIN:uniwaldo.local"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Access the Sysmon App for Splunk, go to the \"Network Activity\" tab, and choose \"Network Connections\". Fix the search and provide the number of connections that SharpHound.exe has initiated as your answer.",
+      "vi": "Truy cập Sysmon App for Splunk, vào tab \"Network Activity\" và chọn \"Network Connections\". Sửa search và nhập số kết nối mà SharpHound.exe đã khởi tạo làm câu trả lời."
+    },
+    "answer": "6"
+  }
+]

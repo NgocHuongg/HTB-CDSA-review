@@ -1,0 +1,22 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Connect to the target and perform an AS-REProasting attack. What is the password for the user anni? RDP to TARGET_IP with user \"bob\" and password \"Slavi123\".",
+      "vi": "Kết nối tới target và thực hiện cuộc tấn công AS-REProasting. Password của user anni là gì? RDP tới TARGET_IP với user \"bob\" và mật khẩu \"Slavi123\"."
+    },
+    "hint": {
+      "en": "Remember, we need to edit the hash by adding 23$ after $krb5asrep$",
+      "vi": "Nhớ rằng ta cần sửa hash bằng cách thêm 23$ vào sau $krb5asrep$"
+    },
+    "answer": "shadow"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "After performing the AS-REProasting attack, connect to DC1 (172.16.18.3) as 'htb-student:HTB_@cademy_stdnt!' and look at the logs in Event Viewer. What is the TargetSid of the svc-iam user?",
+      "vi": "Sau khi thực hiện cuộc tấn công AS-REProasting, kết nối tới DC1 (172.16.18.3) với tư cách 'htb-student:HTB_@cademy_stdnt!' và xem các log trong Event Viewer. TargetSid của user svc-iam là gì?"
+    },
+    "answer": "S-1-5-21-1518138621-4282902758-752445584-3103"
+  }
+]

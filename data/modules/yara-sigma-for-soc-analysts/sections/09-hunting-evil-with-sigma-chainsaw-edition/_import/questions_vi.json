@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng Chainsaw với Sigma rule \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\powershell\\powershell_script\\ posh_ps_win_defender_exclusions_added.yml\" để hunting các Defender exclusion đáng ngờ bên trong \"C:\\Events\\YARASigma\\lab_events_5.evtx\". Nhập thư mục bị loại trừ (excluded directory) làm đáp án.",
+    "hint": null
+  }
+]

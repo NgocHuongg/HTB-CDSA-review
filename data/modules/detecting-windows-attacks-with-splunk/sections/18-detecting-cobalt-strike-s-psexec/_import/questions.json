@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2561,
+    "title": "Detecting Cobalt Strike's PSExec",
+    "page": 18,
+    "group": "Leveraging Zeek Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "18-detecting-cobalt-strike-s-psexec"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1999,
+      "question": "Use the \"change_service_config\" index and the \"bro:dce_rpc:json\" sourcetype to create a Splunk search that will detect SharpNoPSExec (https://gist.github.com/defensivedepth/ae3f882efa47e20990bc562a8b052984). Enter the IP included in the \"id.orig_h\" field as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "192.168.38.104"
+    }
+  ]
+}

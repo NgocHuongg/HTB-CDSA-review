@@ -1,0 +1,12 @@
+{
+  "order": 15,
+  "htb_id": 238,
+  "title": {
+    "en": "Security Incident Reporting",
+    "vi": "Security Incident Reporting"
+  },
+  "description": {
+    "en": "Tailored to provide a holistic understanding, this Hack The Box Academy module ensures participants are adept at identifying, categorizing, and documenting security incidents with utmost accuracy and professionalism. The module meticulously breaks down the elements of a robust incident report and then presents participants with a real-world incident report, offering practical insights into the application of the concepts discussed.",
+    "vi": "Được thiết kế nhằm mang lại một cái nhìn toàn diện, module Hack The Box Academy này đảm bảo người học thành thạo việc xác định, phân loại và ghi chép lại các sự cố bảo mật với độ chính xác và tính chuyên nghiệp cao nhất. Module phân tích tỉ mỉ các thành phần của một báo cáo sự cố chặt chẽ, sau đó giới thiệu cho người học một báo cáo sự cố thực tế, mang lại những hiểu biết thực tiễn về cách áp dụng các khái niệm đã được thảo luận."
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Name the type of a diagram that provides an overview of the attack path and the methods used by an attacker. (3 words)",
+      "vi": "Cho biết tên loại sơ đồ cung cấp cái nhìn tổng quan về đường đi của cuộc tấn công (attack path) và các phương thức mà kẻ tấn công đã sử dụng. (3 từ)"
+    },
+    "answer": "Attack Vector Diagram"
+  }
+]

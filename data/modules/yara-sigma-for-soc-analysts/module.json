@@ -1,0 +1,12 @@
+{
+  "order": 12,
+  "htb_id": 234,
+  "title": {
+    "en": "YARA & Sigma for SOC Analysts",
+    "vi": "YARA & Sigma for SOC Analysts"
+  },
+  "description": {
+    "en": "This Hack The Box Academy module covers how to create YARA rules both manually and automatically and apply them to hunt threats on disk, live processes, memory, and online databases. Then, the module switches gears to Sigma rules covering how to build Sigma rules, translate them into SIEM queries using \"sigmac\", and hunt threats in both event logs and SIEM solutions. It's all hands-on, using real-world malware and techniques.",
+    "vi": "Module này của Hack The Box Academy hướng dẫn cách tạo rule YARA cả thủ công lẫn tự động, và áp dụng chúng để săn lùng mối đe doạ trên ổ đĩa, trong các process đang chạy, trong bộ nhớ và trên các cơ sở dữ liệu trực tuyến. Sau đó, module chuyển hướng sang rule Sigma, hướng dẫn cách xây dựng rule Sigma, chuyển chúng thành các query SIEM bằng \"sigmac\", và săn lùng mối đe doạ trong cả event log lẫn các giải pháp SIEM. Toàn bộ đều là thực hành, sử dụng malware và kỹ thuật ngoài thực tế."
+  }
+}

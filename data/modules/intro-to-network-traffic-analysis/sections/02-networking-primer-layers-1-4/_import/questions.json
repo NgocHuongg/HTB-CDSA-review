@@ -1,0 +1,125 @@
+{
+  "module": 81,
+  "section": {
+    "id": 954,
+    "title": "Networking Primer - Layers 1-4",
+    "page": 2,
+    "group": "Introduction",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "02-networking-primer-layers-1-4"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 577,
+      "question": "How many layers does the OSI model have?",
+      "hint": "pdntspa. count it.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "7"
+    },
+    {
+      "n": 2,
+      "id": 578,
+      "question": "How many layers are there in the TCP/IP model?",
+      "hint": "not as many as the OSI model.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "4"
+    },
+    {
+      "n": 3,
+      "id": 579,
+      "question": "True or False: Routers operate at layer 2 of the OSI model?",
+      "hint": "routers deal with IP addressing.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "False"
+    },
+    {
+      "n": 4,
+      "id": 580,
+      "question": "What addressing mechanism is used at the Link Layer of the TCP/IP model?",
+      "hint": "Its not IP. Write it as singular not plural. Format XXX-YYYYYYY",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "MAC-Address"
+    },
+    {
+      "n": 5,
+      "id": 581,
+      "question": "At what layer of the OSI model is a PDU encapsulated into a packet? ( the number )",
+      "hint": "1,2,_,4.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "3"
+    },
+    {
+      "n": 6,
+      "id": 582,
+      "question": "What addressing mechanism utilizes a 32-bit address?",
+      "hint": "The only one not represented in hexadecimal format.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Ipv4"
+    },
+    {
+      "n": 7,
+      "id": 583,
+      "question": "What Transport layer protocol is connection oriented?",
+      "hint": "considered reliable, makes connections between source and destination.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "TCP"
+    },
+    {
+      "n": 8,
+      "id": 584,
+      "question": "What Transport Layer protocol is considered unreliable?",
+      "hint": "Fire and Forget, it doesn't care about your data.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "UDP"
+    },
+    {
+      "n": 9,
+      "id": 585,
+      "question": "TCP's three-way handshake consists of 3 packets: 1.Syn, 2.Syn & ACK, 3. _? What is the final packet of the handshake?",
+      "hint": "the session establishment must be ACKnowledged by both server and host.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "ACK"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "module": 41,
+  "section": {
+    "id": 519,
+    "title": "Skills Assessment",
+    "page": 10,
+    "group": "Skills Assessment",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "10-skills-assessment"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 264,
+      "question": "Try to study the HTML code of the webpage, and identify used JavaScript code within it. What is the name of the JavaScript file being used?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "api.min.js"
+    },
+    {
+      "n": 2,
+      "id": 265,
+      "question": "Once you find the JavaScript code, try to run it to see if it does any interesting functions. Did you get something in return?",
+      "hint": "HTB{flag}",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "HTB{j4v45cr1p7_3num3r4710n_15_k3y}"
+    },
+    {
+      "n": 3,
+      "id": 266,
+      "question": "As you may have noticed, the JavaScript code is obfuscated. Try applying the skills you learned in this module to deobfuscate the code, and retrieve the 'flag' variable.",
+      "hint": "Don't forget to stitch it together!",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "HTB{n3v3r_run_0bfu5c473d_c0d3!}"
+    },
+    {
+      "n": 4,
+      "id": 267,
+      "question": "Try to Analyze the deobfuscated JavaScript code, and understand its main functionality. Once you do, try to replicate what it's doing to get a secret key. What is the key?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "4150495f70336e5f37333537316e365f31355f66756e"
+    },
+    {
+      "n": 5,
+      "id": 268,
+      "question": "Once you have the secret key, try to decide it's encoding method, and decode it. Then send a 'POST' request to the same previous page with the decoded key as \"key=DECODED_KEY\". What is the flag you got?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "HTB{r34dy_70_h4ck_my_w4y_1n_2_HTB}"
+    }
+  ]
+}

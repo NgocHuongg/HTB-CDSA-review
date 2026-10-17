@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2554,
+    "title": "Detecting RDP Brute Force Attacks",
+    "page": 12,
+    "group": "Leveraging Zeek Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "12-detecting-rdp-brute-force-attacks"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1992,
+      "question": "Construct a Splunk query targeting the \"ssh_bruteforce\" index and the \"bro:ssh:json\" sourcetype. The resulting output should display the time bucket, source IP, destination IP, client, and server, together with the cumulative count of authentication attempts where the total number of attempts surpasses 30 within a 5-minute time window. Enter the IP of the client that performed the SSH brute attack as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "192.168.152.140"
+    }
+  ]
+}

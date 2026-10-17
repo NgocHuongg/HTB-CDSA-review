@@ -1,0 +1,34 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and find through an SPL search against all data the account name with the highest amount of Kerberos authentication ticket requests. Enter it as your answer.",
+      "vi": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\", và thông qua một SPL search trên toàn bộ dữ liệu, tìm account name có số lượng yêu cầu Kerberos authentication ticket nhiều nhất. Nhập nó làm câu trả lời."
+    },
+    "answer": "waldo"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and find through an SPL search against all 4624 events the count of distinct computers accessed by the account name SYSTEM. Enter it as your answer.",
+      "vi": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\", và thông qua một SPL search trên tất cả event 4624, tìm số lượng máy tính khác nhau (distinct) mà account name SYSTEM đã truy cập. Nhập nó làm câu trả lời."
+    },
+    "hint": {
+      "en": "stats dc() can help you answer this question.",
+      "vi": "stats dc() có thể giúp bạn trả lời câu hỏi này."
+    },
+    "answer": "10"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and run a SPL search against all 4624 events. Identify the accounts whose total login activity occurred within a time range of less than 10 minutes. As your answer, enter the name of the account having highest login attempts.",
+      "vi": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\", và chạy một SPL search trên tất cả event 4624. Xác định các account có toàn bộ hoạt động đăng nhập diễn ra trong khoảng thời gian dưới 10 phút. Câu trả lời là tên của account có số lần đăng nhập (login attempts) nhiều nhất."
+    },
+    "hint": {
+      "en": "range() can help you answer this question. Use the stats command to calculate the time range. Aggregate functions and Time functions from Splunk's documentation will help you.",
+      "vi": "range() có thể giúp bạn trả lời câu hỏi này. Dùng lệnh stats để tính khoảng thời gian. Các Aggregate functions và Time functions trong tài liệu của Splunk sẽ giúp ích cho bạn."
+    },
+    "answer": "aparsa"
+  }
+]

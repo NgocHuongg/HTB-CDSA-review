@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Navigate to http://[Target IP]:5601, click on the side navigation toggle, and click on \"Dashboard\". Either create a new visualization or edit the \"Failed logon attempts [Disabled user]\" visualization, if it is available, so that it includes failed logon attempt data related to disabled users including the logon type. What is the logon type in the returned document?",
+      "vi": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Tạo một visualization mới hoặc chỉnh sửa visualization \"Failed logon attempts [Disabled user]\" (nếu có) để nó bao gồm dữ liệu đăng nhập thất bại liên quan tới các user bị vô hiệu hoá, kèm cả logon type. Logon type trong document trả về là gì?"
+    },
+    "answer": "Interactive"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Navigate to http://[Target IP]:5601, click on the side navigation toggle, and click on \"Dashboard\". Either create a new visualization or edit the \"Failed logon attempts [Admin users only]\" visualization, if it is available, so that it includes failed logon attempt data where the username field contains the keyword \"admin\" anywhere within it. What should you specify after user.name: in the KQL query?",
+      "vi": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Tạo một visualization mới hoặc chỉnh sửa visualization \"Failed logon attempts [Admin users only]\" (nếu có) để nó bao gồm dữ liệu đăng nhập thất bại mà field username chứa từ khoá \"admin\" ở bất kỳ vị trí nào. Bạn cần chỉ định gì sau user.name: trong truy vấn KQL?"
+    },
+    "answer": "*admin*"
+  }
+]

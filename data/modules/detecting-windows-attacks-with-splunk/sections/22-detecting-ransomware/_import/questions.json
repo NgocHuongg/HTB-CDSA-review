@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2566,
+    "title": "Detecting Ransomware",
+    "page": 22,
+    "group": "Leveraging Zeek Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "22-detecting-ransomware"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1993,
+      "question": "Modify the action-related part of the Splunk search of this section that detects excessive file overwrites so that it detects ransomware that delete the original files instead of overwriting them. Run this search against the \"ransomware_excessive_delete_aleta\" index and the \"bro:smb_files:json\" sourcetype. Enter the value of the \"count\" field as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "4588"
+    }
+  ]
+}

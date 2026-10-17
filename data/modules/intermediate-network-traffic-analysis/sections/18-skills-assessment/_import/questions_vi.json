@@ -1,0 +1,4 @@
+[
+  {"n": 1, "question": "Hãy kiểm tra file funky_dns.pcap (thuộc tài nguyên của module này) và nhập kiểu tấn công liên quan làm câu trả lời. Answer format: \"DNS Flooding\", \"DNS Amplification\", \"DNS Tunneling\"", "hint": null},
+  {"n": 2, "question": "Hãy kiểm tra file funky_icmp.pcap (thuộc tài nguyên của module này) và nhập kiểu tấn công liên quan làm câu trả lời. Answer format: \"ICMP Flooding\", \"ICMP Tunneling\", \"ICMP SMURF Attack\"", "hint": null}
+]

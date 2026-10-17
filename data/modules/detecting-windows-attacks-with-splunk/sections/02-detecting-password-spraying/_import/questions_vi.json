@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Sử dụng câu search Splunk được cung cấp ở cuối section này trên toàn bộ dữ liệu đã ingest (All time) và nhập user bị nhắm tới trên SQLSERVER.corp.local làm câu trả lời.",
+    "hint": null
+  }
+]

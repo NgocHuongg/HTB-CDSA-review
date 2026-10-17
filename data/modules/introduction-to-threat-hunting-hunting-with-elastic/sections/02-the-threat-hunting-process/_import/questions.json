@@ -1,0 +1,29 @@
+{
+  "module": 214,
+  "section": {
+    "id": 2295,
+    "title": "The Threat Hunting Process",
+    "page": 2,
+    "group": "Threat Hunting & Threat Intelligence Fundamentals",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "02-the-threat-hunting-process"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1730,
+      "question": "It is OK to formulate hypotheses that are not testable. Answer format: True, False.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "False"
+    }
+  ]
+}

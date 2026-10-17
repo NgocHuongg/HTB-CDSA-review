@@ -1,0 +1,12 @@
+{
+  "order": 5,
+  "htb_id": 218,
+  "title": {
+    "en": "Understanding Log Sources & Investigating with Splunk",
+    "vi": "Understanding Log Sources & Investigating with Splunk"
+  },
+  "description": {
+    "en": "This module provides a comprehensive introduction to Splunk, focusing on its architecture and the creation of effective detection-related SPL (Search Processing Language) searches. We will learn to investigate with Splunk as a SIEM tool and develop TTP-driven and analytics-driven SPL searches for enhanced threat detection and response. Through hands-on exercises, we will learn to identify and understand the ingested data and available fields within Splunk. We will also gain practical experience in leveraging Splunk's powerful features for security monitoring and incident investigation.",
+    "vi": "Module này giới thiệu toàn diện về Splunk, tập trung vào kiến trúc của nó và cách xây dựng các SPL (Search Processing Language) search hiệu quả phục vụ việc phát hiện (detection). Chúng ta sẽ học cách điều tra với Splunk như một công cụ SIEM, đồng thời phát triển các SPL search hướng TTP (TTP-driven) và hướng phân tích (analytics-driven) nhằm nâng cao khả năng phát hiện và ứng phó mối đe doạ. Thông qua các bài tập thực hành, chúng ta sẽ học cách xác định và hiểu dữ liệu đã được tiếp nhận (ingest) cũng như các field có sẵn trong Splunk. Chúng ta cũng sẽ có được kinh nghiệm thực tế trong việc tận dụng các tính năng mạnh mẽ của Splunk cho giám sát an ninh và điều tra sự cố."
+  }
+}

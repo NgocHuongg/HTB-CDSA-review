@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "In the /home/htb-student directory of this section's target, there is a file called local.rules. Within this file, there is a rule with sid 2024217, which is associated with the MS17-010 exploit. Additionally, there is a PCAP file named eternalblue.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to MS17-010. What is the minimum offset value that can be set to trigger an alert? SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Trong thư mục /home/htb-student trên target của section này có một file tên là local.rules. Trong file này có một rule với sid 2024217, liên quan đến exploit MS17-010. Ngoài ra, trong thư mục /home/htb-student/pcaps có một file PCAP tên là eternalblue.pcap, chứa network traffic liên quan đến MS17-010. Giá trị offset nhỏ nhất có thể đặt để alert được kích hoạt là bao nhiêu? SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "4"
+  }
+]

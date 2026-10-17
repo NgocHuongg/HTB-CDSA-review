@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Sửa phần liên quan đến action trong Splunk search của section này (search phát hiện ghi đè file quá mức) để nó phát hiện ransomware xoá file gốc thay vì ghi đè lên chúng. Chạy search này trên index \"ransomware_excessive_delete_aleta\" và sourcetype \"bro:smb_files:json\". Nhập giá trị của field \"count\" làm đáp án.",
+    "hint": null
+  }
+]

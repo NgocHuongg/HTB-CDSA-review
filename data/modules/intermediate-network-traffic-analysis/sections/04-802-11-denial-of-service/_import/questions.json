@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2448,
+    "title": "802.11 Denial-of-Service",
+    "page": 4,
+    "group": "Link Layer Attacks",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "04-802-11-denial-of-service"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1919,
+      "question": "Inspect the deauthandbadauth.cap file, part of this module's resources, and submit the total count of deauthentication frames as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "14592"
+    }
+  ]
+}

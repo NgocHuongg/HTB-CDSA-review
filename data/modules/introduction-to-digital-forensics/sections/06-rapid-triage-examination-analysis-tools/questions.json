@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "During our examination of the USN Journal within Timeline Explorer, we observed \"uninstall.exe\". The attacker subsequently renamed this file. Use Zone.Identifier information to determine its new name and enter it as your answer. RDP to TARGET_IP with user \"johndoe\" and password \"password\".",
+      "vi": "Trong quá trình xem xét USN Journal bằng Timeline Explorer, ta đã thấy \"uninstall.exe\". Sau đó kẻ tấn công đã đổi tên file này. Hãy dùng thông tin Zone.Identifier để xác định tên mới của nó và nhập làm đáp án. RDP tới TARGET_IP với user \"johndoe\" và mật khẩu \"password\"."
+    },
+    "answer": "microsoft.windowskits.feedback.exe"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Review the file at \"C:\\Users\\johndoe\\Desktop\\forensic_data\\kape_output\\D\\Windows\\System32\\winevt\\logs\\Microsoft-Windows-Sysmon%4Operational.evtx\" using Timeline Explorer. It documents the creation of two scheduled tasks. Enter the name of the scheduled task that begins with \"M\" and concludes with \"r\" as your answer. RDP to TARGET_IP with user \"johndoe\" and password \"password\".",
+      "vi": "Hãy xem xét file tại \"C:\\Users\\johndoe\\Desktop\\forensic_data\\kape_output\\D\\Windows\\System32\\winevt\\logs\\Microsoft-Windows-Sysmon%4Operational.evtx\" bằng Timeline Explorer. File này ghi lại việc tạo hai scheduled task. Hãy nhập tên của scheduled task bắt đầu bằng \"M\" và kết thúc bằng \"r\" làm đáp án. RDP tới TARGET_IP với user \"johndoe\" và mật khẩu \"password\"."
+    },
+    "answer": "Microsoft-Windows-DiagnosticDataCollector"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Examine the contents of the file located at \"C:\\Users\\johndoe\\Desktop\\forensic_data\\APMX64\\discord.apmx64\" using API Monitor. \"discord.exe\" performed process injection against another process as well. Identify its name and enter it as your answer. RDP to TARGET_IP with user \"johndoe\" and password \"password\".",
+      "vi": "Hãy xem xét nội dung của file nằm tại \"C:\\Users\\johndoe\\Desktop\\forensic_data\\APMX64\\discord.apmx64\" bằng API Monitor. \"discord.exe\" cũng đã thực hiện process injection vào một process khác. Hãy xác định tên process đó và nhập làm đáp án. RDP tới TARGET_IP với user \"johndoe\" và mật khẩu \"password\"."
+    },
+    "answer": "cmdkey.exe"
+  }
+]

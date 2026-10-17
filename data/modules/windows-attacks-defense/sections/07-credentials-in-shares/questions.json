@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Connect to the target and enumerate the available network shares. What is the password of the Administrator2 user? RDP to TARGET_IP with user \"bob\" and password \"Slavi123\".",
+      "vi": "Kết nối tới target và liệt kê các network share có sẵn. Mật khẩu của user Administrator2 là gì? RDP tới TARGET_IP với user \"bob\" và mật khẩu \"Slavi123\"."
+    },
+    "answer": "Slavi920"
+  }
+]

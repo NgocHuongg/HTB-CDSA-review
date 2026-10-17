@@ -1,0 +1,12 @@
+{
+  "order": 7,
+  "htb_id": 81,
+  "title": {
+    "en": "Intro to Network Traffic Analysis",
+    "vi": "Intro to Network Traffic Analysis"
+  },
+  "description": {
+    "en": "Network traffic analysis is used by security teams to monitor network activity and look for anomalies that could indicate security and operational issues. Offensive security practitioners can use network traffic analysis to search for sensitive data such as credentials, hidden applications, reachable network segments, or other potentially sensitive information \"on the wire.\" Network traffic analysis has many uses for attackers and defenders alike.",
+    "vi": "Network traffic analysis được các đội bảo mật sử dụng để giám sát hoạt động mạng và tìm kiếm các điểm bất thường (anomaly) có thể là dấu hiệu của các vấn đề về bảo mật và vận hành. Những người làm offensive security có thể dùng network traffic analysis để tìm kiếm dữ liệu nhạy cảm như credential, các ứng dụng ẩn, các phân đoạn mạng có thể truy cập được, hoặc những thông tin có khả năng nhạy cảm khác \"trên đường truyền\" (\"on the wire\"). Network traffic analysis có nhiều công dụng cho cả kẻ tấn công lẫn bên phòng thủ."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "module": 41,
+  "section": {
+    "id": 443,
+    "title": "Code Analysis",
+    "page": 7,
+    "group": "Deobfuscation Examples",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "07-code-analysis"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

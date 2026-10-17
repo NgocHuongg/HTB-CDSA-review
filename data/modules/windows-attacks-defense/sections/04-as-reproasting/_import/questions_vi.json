@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Kết nối tới target và thực hiện cuộc tấn công AS-REProasting. Password của user anni là gì?",
+    "hint": "Nhớ rằng ta cần sửa hash bằng cách thêm 23$ vào sau $krb5asrep$"
+  },
+  {
+    "n": 2,
+    "question": "Sau khi thực hiện cuộc tấn công AS-REProasting, kết nối tới DC1 (172.16.18.3) với tư cách 'htb-student:HTB_@cademy_stdnt!' và xem các log trong Event Viewer. TargetSid của user svc-iam là gì?",
+    "hint": null
+  }
+]

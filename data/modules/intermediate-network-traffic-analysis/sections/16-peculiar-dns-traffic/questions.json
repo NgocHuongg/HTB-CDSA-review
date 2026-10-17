@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Enter the decoded value of the triple base64-encoded string that was mentioned in this section as your answer. Answer format: HTB{___}",
+      "vi": "Nhập giá trị sau khi decode của chuỗi được encode base64 ba lần đã được nhắc tới trong section này làm câu trả lời. Answer format: HTB{___}"
+    },
+    "hint": {
+      "en": "A base64 string might be encoded a few times.",
+      "vi": "Một chuỗi base64 có thể đã được encode vài lần."
+    },
+    "answer": "HTB{Would_you_forward_me_this_pretty_please}"
+  }
+]

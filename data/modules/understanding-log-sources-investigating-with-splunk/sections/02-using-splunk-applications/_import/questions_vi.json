@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập Sysmon App for Splunk và vào tab \"Reports\". Sửa search gắn với report \"Net - net view\" và nhập lệnh đầy đủ đã được thực thi làm câu trả lời. Answer format: net view /Domain:_.local",
+    "hint": "Xoá mọi khoảng trắng thừa"
+  },
+  {
+    "n": 2,
+    "question": "Truy cập Sysmon App for Splunk, vào tab \"Network Activity\" và chọn \"Network Connections\". Sửa search và nhập số kết nối mà SharpHound.exe đã khởi tạo làm câu trả lời.",
+    "hint": null
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "module": 234,
+  "section": {
+    "id": 2513,
+    "title": "YARA and YARA Rules",
+    "page": 2,
+    "group": "Leveraging YARA",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "02-yara-and-yara-rules"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Kerberos des-cbc-md5 key cho user Administrator là gì?",
+    "hint": "Có thể ta cần chạy các công cụ với quyền root."
+  },
+  {
+    "n": 2,
+    "question": "Sau khi thực hiện cuộc tấn công trước đó, hãy kết nối tới DC1 (172.16.18.3) với tư cách 'htb-student:HTB_@cademy_stdnt!' và thực hiện thay đổi phù hợp trong registry để ngăn cuộc tấn công PrinterBug. Sau đó, khởi động lại DC1 và thử lại chính cuộc tấn công đó. Thông báo lỗi nào xuất hiện khi chạy dementor.py?",
+    "hint": "Copy và paste toàn bộ thông báo lỗi, bắt đầu bằng [-]"
+  }
+]

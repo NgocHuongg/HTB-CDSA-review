@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập URL \"https://127.0.0.1:8889/app/index.html#/search/all\" và đăng nhập bằng thông tin đăng nhập: admin/password. Sau khi đăng nhập, nhấn vào biểu tượng hình tròn bên cạnh \"Client ID\". Tiếp theo, chọn \"Client ID\" đang hiển thị và nhấn vào \"Collected\". Khởi tạo một collection mới và thu thập các artifact có nhãn \"Windows.KapeFiles.Targets\" với cấu hình _SANS_Triage. Cuối cùng, kiểm tra các artifact đã thu thập và nhập tên của scheduled task bắt đầu bằng 'A' và kết thúc bằng 'g' làm câu trả lời.",
+    "hint": null
+  }
+]

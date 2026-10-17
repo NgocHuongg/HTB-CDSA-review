@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Modify and employ the Splunk search provided at the \"Detecting Kerberoasting - SPN Querying\" part of this section on all ingested data (All time). Enter the name of the user who initiated the process that executed an LDAP query containing the \"*(&(samAccountType=805306368)(servicePrincipalName=*)*\" string at 2023-07-26 16:42:44 as your answer. Answer format: CORP\\_",
+      "vi": "Hãy chỉnh sửa và sử dụng câu search Splunk được cung cấp ở phần \"Detecting Kerberoasting - SPN Querying\" của section này trên toàn bộ dữ liệu đã ingest (All time). Nhập tên của user đã khởi chạy process thực hiện LDAP query chứa chuỗi \"*(&(samAccountType=805306368)(servicePrincipalName=*)*\" vào lúc 2023-07-26 16:42:44 làm câu trả lời. Answer format: CORP\\_"
+    },
+    "answer": "CORP\\LANDON_HINES"
+  }
+]

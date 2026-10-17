@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2459,
+    "title": "HTTP/HTTPs Service Enumeration Detection",
+    "page": 12,
+    "group": "Application Layer Attacks",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "12-http-https-service-enumeration-detection"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1926,
+      "question": "Inspect the basic_fuzzing.pcapng file, part of this module's resources, and enter the total number of HTTP packets that are related to GET requests against port 80 as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "204"
+    }
+  ]
+}

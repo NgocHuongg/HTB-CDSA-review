@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Use the \"cobaltstrike_beacon\" index and the \"bro:conn:json\" sourcetype. Did the attacker scan port 505? Answer format: Yes, No",
+      "vi": "Dùng index \"cobaltstrike_beacon\" và sourcetype \"bro:conn:json\". Kẻ tấn công có quét cổng 505 không? Answer format: Yes, No"
+    },
+    "answer": "Yes"
+  }
+]

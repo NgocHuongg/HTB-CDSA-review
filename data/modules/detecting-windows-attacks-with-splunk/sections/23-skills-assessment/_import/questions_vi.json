@@ -1,0 +1,17 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng index \"empire\" và sourcetype \"bro:http:json\". Nhận diện hoạt động beaconing bằng cách sửa Splunk search của section \"Detecting Beaconing Malware\" và nhập giá trị của field \"TimeInterval\" làm đáp án.",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Dùng index \"printnightmare\" và sourcetype \"bro:dce_rpc:json\" để tạo một Splunk search phát hiện khả năng khai thác lỗ hổng PrintNightmare. Nhập IP có trong field \"id.orig_h\" làm đáp án.",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Dùng index \"bloodhound_all_no_kerberos_sign\" và sourcetype \"bro:dce_rpc:json\" để tạo một Splunk search phát hiện khả năng có hoạt động của BloodHound (https://www.lares.com/blog/active-directory-ad-attacks-enumeration-at-the-network-layer/). Nhập IP có trong field \"id.orig_h\" làm đáp án.",
+    "hint": null
+  }
+]

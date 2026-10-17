@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng index \"change_service_config\" và sourcetype \"bro:dce_rpc:json\" để tạo một Splunk search phát hiện SharpNoPSExec (https://gist.github.com/defensivedepth/ae3f882efa47e20990bc562a8b052984). Nhập IP có trong field \"id.orig_h\" làm đáp án.",
+    "hint": null
+  }
+]

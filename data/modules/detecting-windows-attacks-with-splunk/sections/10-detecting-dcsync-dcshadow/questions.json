@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Modify the last Splunk search in this section by replacing the two hidden characters (XX) to align the results with those shown in the screenshot. Enter the correct characters as your answer.",
+      "vi": "Sửa search Splunk cuối cùng trong section này bằng cách thay hai ký tự bị ẩn (XX) để kết quả khớp với kết quả hiển thị trong ảnh chụp màn hình. Nhập các ký tự đúng làm câu trả lời."
+    },
+    "answer": "GC"
+  }
+]

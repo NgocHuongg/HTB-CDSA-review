@@ -1,0 +1,53 @@
+{
+  "module": 214,
+  "section": {
+    "id": 2287,
+    "title": "Skills Assessment",
+    "page": 6,
+    "group": "Let's Go Hunting",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "06-skills-assessment"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1733,
+      "question": "Enter your answer for Hunt 1.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "svc-sql1"
+    },
+    {
+      "n": 2,
+      "id": 1734,
+      "question": "Enter your answer for Hunt 2.",
+      "hint": "Leverage event.code 13 and make sure that your query matches the case of the registry.path field.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "LgvHsviAUVTsIN"
+    },
+    {
+      "n": 3,
+      "id": 1735,
+      "question": "Enter your answer for Hunt 3.",
+      "hint": "Leverage event.code 4104 and the powershell.file.script_block_text field.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "svc-sql1"
+    }
+  ]
+}

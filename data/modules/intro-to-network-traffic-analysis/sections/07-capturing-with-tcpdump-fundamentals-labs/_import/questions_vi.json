@@ -1,0 +1,11 @@
+[
+  {"n": 1, "question": "Switch nào của TCPDump cho phép ta pipe (chuyển) nội dung của một file pcap sang một chức năng khác như 'grep'?", "hint": "ta đang tìm (-l ooking) một thứ trong pipe redirection (chuyển hướng qua pipe)."},
+  {"n": 2, "question": "Đúng hay Sai (True or False): Filter \"port\" xem xét traffic theo cả chiều nguồn (source) lẫn đích (destination).", "hint": "port tìm số port đó ở cả hai chiều."},
+  {"n": 3, "question": "Nếu muốn loại bỏ traffic ICMP khỏi bản capture, ta có thể dùng filter nào? (chỉ dùng từ, vui lòng không dùng ký hiệu.)", "hint": "ta đang nói KHÔNG capture bất kỳ packet ICMP nào.."},
+  {"n": 4, "question": "Lệnh nào sẽ cho bạn biết TCPDump được cài ở đâu / có được cài hay không?", "hint": "làm sao để xem thư mục nào (__WHICH__) chứa một file?"},
+  {"n": 5, "question": "Làm thế nào để bắt đầu capture bằng TCPDump trên interface eth0?", "hint": "command < switch to specify an interface > << interface name or number>>"},
+  {"n": 6, "question": "Switch nào sẽ giúp output chi tiết hơn (verbosity)?", "hint": "khi trả lời, hãy đặt `-` trước đáp án."},
+  {"n": 7, "question": "Switch nào sẽ ghi output của bản capture vào một file .pcap?", "hint": "đặt `-` trước chữ cái đáp án."},
+  {"n": 8, "question": "Switch nào sẽ đọc bản capture từ một file .pcap?", "hint": "Đặt `-` trước đáp án"},
+  {"n": 9, "question": "Switch nào sẽ hiển thị nội dung bản capture ở dạng Hex và ASCII?", "hint": "Đặt `-` trước đáp án."}
+]

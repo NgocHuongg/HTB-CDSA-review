@@ -1,0 +1,9 @@
+[
+  {"n": 1, "question": "Dựa vào output được hiển thị trong question-1.png, ai là server trong cuộc giao tiếp này? (địa chỉ IP)", "hint": "Khi giao tiếp được khởi tạo qua TCP, ai là bên bắt đầu handshake?"},
+  {"n": 2, "question": "Sequence number tuyệt đối (absolute) hay tương đối (relative) đã được dùng trong bản capture? (xem question-1.zip để trả lời)", "hint": "Sequence number tuyệt đối có dễ hiểu không?"},
+  {"n": 3, "question": "Nếu tôi muốn bắt đầu capture mà không phân giải hostname, có output chi tiết (verbose), hiển thị nội dung ở dạng ASCII và hex, và lấy 100 packet đầu tiên; thì cần dùng những switch nào? Hãy trả lời theo đúng thứ tự các switch được hỏi trong câu hỏi.", "hint": "Khi kết hợp hai switch trở lên, hãy đặt chúng sau một dấu `-` duy nhất thay vì mỗi switch một dấu. (-abc thay vì -a -b -c)"},
+  {"n": 4, "question": "Với file capture tại /tmp/capture.pcap, lệnh tcpdump nào cho phép bạn đọc bản capture và hiển thị nội dung output ở dạng Hex và ASCII? (Hãy dùng switch theo best practice)", "hint": "switch nào cho phép ta xem nội dung ở dạng hex và ascii?"},
+  {"n": 5, "question": "Switch nào của TCPDump sẽ tăng mức độ chi tiết (verbosity) của output? ( Bao gồm cả dấu - cùng với switch tương ứng )", "hint": "Verbosity.. Very Verbose Views.. (hiển thị rất chi tiết)"},
+  {"n": 6, "question": "Tài liệu trợ giúp tích hợp sẵn nào trong terminal có thể cho ta biết thêm về TCPDump?", "hint": "những trang này cực kỳ hữu ích đấy MAN (bạn). Trên linux, gần như thứ gì cũng có chúng.."},
+  {"n": 7, "question": "Switch nào của TCPDump cho phép ghi output vào một file?", "hint": "-r giúp tôi đọc, còn tôi muốn GHI (WRITE) vào file.."}
+]

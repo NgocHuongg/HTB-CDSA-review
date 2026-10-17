@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Use the techniques shown in this section to gain access to the DC1 domain controller and submit the contents of the flag.txt file. RDP to TARGET_IP with user \"bob\" and password \"Slavi123\".",
+      "vi": "Dùng các kỹ thuật được trình bày trong phần này để giành quyền truy cập vào domain controller DC1 và nộp nội dung của file flag.txt. RDP tới TARGET_IP với user \"bob\" và mật khẩu \"Slavi123\"."
+    },
+    "answer": "C0nsTr@in3D_F1@G_Dc01!"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "module": 81,
+  "section": {
+    "id": 800,
+    "title": "Wireshark Advanced Usage",
+    "page": 12,
+    "group": "Wireshark",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "12-wireshark-advanced-usage"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 604,
+      "question": "Which plugin tab can provide us with a way to view conversation metadata and even protocol breakdowns for the entire PCAP file?",
+      "hint": "just the word. We are looking for Stats right?",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "statistics"
+    },
+    {
+      "n": 2,
+      "id": 605,
+      "question": "What plugin tab will allow me to accomplish tasks such as applying filters, following streams, and viewing expert info?",
+      "hint": "not statistics. we are performing analysis..",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Analyze"
+    },
+    {
+      "n": 3,
+      "id": 606,
+      "question": "What stream oriented Transport protocol enables us to follow and rebuild conversations and the included data?",
+      "hint": "not UDP",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "TCP"
+    },
+    {
+      "n": 4,
+      "id": 607,
+      "question": "True or False: Wireshark can extract files from HTTP traffic.",
+      "hint": "http uses TCP for transport, which means each byte is accounted for..",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "True"
+    },
+    {
+      "n": 5,
+      "id": 608,
+      "question": "True or False: The ftp-data filter will show us any data sent over TCP port 21.",
+      "hint": "ftp uses tcp port 21 for command control of FTP. What other port does FTP use?",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "False"
+    }
+  ]
+}

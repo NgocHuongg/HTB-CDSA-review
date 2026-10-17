@@ -1,0 +1,41 @@
+{
+  "module": 81,
+  "section": {
+    "id": 789,
+    "title": "Packet Inception, Dissecting Network Traffic With Wireshark",
+    "page": 13,
+    "group": "Wireshark",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "13-packet-inception-dissecting-network-traffic-with-wireshark"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 642,
+      "question": "What was the filename of the image that contained a certain Transformer Leader? (name.filetype)",
+      "hint": "You should have seen three image files pulled in the traffic. water.jpg, htb.jpeg, and ..?",
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "Rise-Up.jpg"
+    },
+    {
+      "n": 2,
+      "id": 555,
+      "question": "Which employee is suspected of performing potentially malicious actions in the live environment?",
+      "hint": "Take a peek at all protocols to get an idea of who.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Bob"
+    }
+  ]
+}

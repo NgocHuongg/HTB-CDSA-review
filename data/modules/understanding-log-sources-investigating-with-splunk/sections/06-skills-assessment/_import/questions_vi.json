@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua các tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm process đã tạo remote thread trong rundll32.exe. Answer format: _.exe",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua các tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm process đã khởi phát việc lây nhiễm. Answer format: _.exe",
+    "hint": null
+  }
+]

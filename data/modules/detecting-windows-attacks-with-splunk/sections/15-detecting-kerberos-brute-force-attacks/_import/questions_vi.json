@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng index \"kerberos_bruteforce\" và sourcetype \"bro:kerberos:json\". Tài khoản \"accrescent/windomain.local\" có nằm trong cuộc tấn công liệt kê người dùng (user enumeration) Kerberos không? Answer format: Yes, No",
+    "hint": null
+  }
+]

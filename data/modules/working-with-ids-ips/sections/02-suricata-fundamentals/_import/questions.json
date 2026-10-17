@@ -1,0 +1,41 @@
+{
+  "module": 226,
+  "section": {
+    "id": 2412,
+    "title": "Suricata Fundamentals",
+    "page": 2,
+    "group": "Suricata",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "02-suricata-fundamentals"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1869,
+      "question": "Filter out only HTTP events from /var/log/suricata/old_eve.json using the the jq command-line JSON processor. Enter the flow_id that you will come across as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "1252204100696793"
+    },
+    {
+      "n": 2,
+      "id": 1870,
+      "question": "Enable the http-log output in suricata.yaml and run Suricata against /home/htb-student/pcaps/suspicious.pcap. Enter the requested PHP page as your answer. Answer format: _.php",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "app.php"
+    }
+  ]
+}

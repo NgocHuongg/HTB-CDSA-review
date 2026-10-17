@@ -1,0 +1,29 @@
+{
+  "module": 211,
+  "section": {
+    "id": 2255,
+    "title": "SIEM Visualization Example 1: Failed Logon Attempts (All Users)",
+    "page": 6,
+    "group": "SIEM Visualization Development",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "06-siem-visualization-example-1-failed-logon-attempts-all-users"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1707,
+      "question": "Navigate to http://[Target IP]:5601, click on the side navigation toggle, and click on \"Dashboard\". Browse the refined visualization we created or the \"Failed logon attempts [All users]\" visualization, if it is available, and enter the number of logins for the sql-svc1 account as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "2"
+    }
+  ]
+}

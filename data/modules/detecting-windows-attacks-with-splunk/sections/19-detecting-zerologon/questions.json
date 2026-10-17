@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "In a Zerologon attack, the primary port of communication for the attacker is port 88. Answer format: True, False.",
+      "vi": "Trong một cuộc tấn công Zerologon, cổng giao tiếp chính của kẻ tấn công là cổng 88. Answer format: True, False."
+    },
+    "answer": "false"
+  }
+]

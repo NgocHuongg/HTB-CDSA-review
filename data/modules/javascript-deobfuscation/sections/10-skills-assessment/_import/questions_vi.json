@@ -1,0 +1,27 @@
+[
+  {
+    "n": 1,
+    "question": "Hãy thử nghiên cứu code HTML của trang web và xác định code JavaScript được dùng trong đó. Tên của file JavaScript đang được dùng là gì?",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Khi đã tìm thấy code JavaScript, hãy thử chạy nó để xem nó có thực hiện chức năng nào đáng chú ý không. Bạn có nhận lại được gì không?",
+    "hint": "HTB{flag}"
+  },
+  {
+    "n": 3,
+    "question": "Như bạn có thể đã nhận thấy, code JavaScript đã bị obfuscate. Hãy thử áp dụng các kỹ năng đã học trong module này để deobfuscate code và lấy ra biến 'flag'.",
+    "hint": "Đừng quên ghép các phần lại với nhau!"
+  },
+  {
+    "n": 4,
+    "question": "Hãy thử phân tích code JavaScript đã deobfuscate và hiểu chức năng chính của nó. Sau khi hiểu, hãy thử tái hiện những gì nó làm để lấy một secret key. Key đó là gì?",
+    "hint": null
+  },
+  {
+    "n": 5,
+    "question": "Khi đã có secret key, hãy thử xác định phương pháp encode của nó và decode nó. Sau đó gửi một request 'POST' tới chính trang trước đó với key đã decode dưới dạng \"key=DECODED_KEY\". Flag bạn nhận được là gì?",
+    "hint": null
+  }
+]

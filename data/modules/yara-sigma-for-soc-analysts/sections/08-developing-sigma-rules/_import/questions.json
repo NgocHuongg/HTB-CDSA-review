@@ -1,0 +1,29 @@
+{
+  "module": 234,
+  "section": {
+    "id": 2571,
+    "title": "Developing Sigma Rules",
+    "page": 8,
+    "group": "Leveraging Sigma",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "08-developing-sigma-rules"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2020,
+      "question": "Using sigmac translate the \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\builtin\\windefend\\win_defender_threat.yml\" Sigma rule into the equivalent PowerShell command. Then, execute the PowerShell command against \"C:\\Events\\YARASigma\\lab_events_4.evtx\" and enter the malicious driver as your answer. Answer format: _.sys",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "mimidrv.sys"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "module": 216,
+  "section": {
+    "id": 2301,
+    "title": "Analyzing Evil With Sysmon & Event Logs",
+    "page": 2,
+    "group": "Introduction",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "02-analyzing-evil-with-sysmon-event-logs"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1737,
+      "question": "Replicate the DLL hijacking attack described in this section and provide the SHA256 hash of the malicious WININET.dll as your answer. \"C:\\Tools\\Sysmon\" and \"C:\\Tools\\Reflective DLLInjection\" on the spawned target contain everything you need.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "51F2305DCF385056C68F7CCF5B1B3B9304865CEF1257947D4AD6EF5FAD2E3B13"
+    },
+    {
+      "n": 2,
+      "id": 1740,
+      "question": "Replicate the Unmanaged PowerShell attack described in this section and provide the SHA256 hash of clrjit.dll that spoolsv.exe will load as your answer. \"C:\\Tools\\Sysmon\" and \"C:\\Tools\\PSInject\" on the spawned target contain everything you need.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "8A3CD3CF2249E9971806B15C75A892E6A44CCA5FF5EA5CA89FDA951CD2C09AA9"
+    },
+    {
+      "n": 3,
+      "id": 1741,
+      "question": "Replicate the Credential Dumping attack described in this section and provide the NTLM hash of the Administrator user as your answer. \"C:\\Tools\\Sysmon\" and \"C:\\Tools\\Mimikatz\" on the spawned target contain everything you need.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "5E4FFD54B3849AA720ED39F50185E533"
+    }
+  ]
+}

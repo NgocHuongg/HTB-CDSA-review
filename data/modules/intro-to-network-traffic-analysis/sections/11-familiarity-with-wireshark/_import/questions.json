@@ -1,0 +1,16 @@
+{
+  "module": 81,
+  "section": {
+    "id": 788,
+    "title": "Familiarity With Wireshark",
+    "page": 11,
+    "group": "Wireshark",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "11-familiarity-with-wireshark"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

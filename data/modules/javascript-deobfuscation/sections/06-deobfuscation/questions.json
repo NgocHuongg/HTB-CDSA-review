@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Using what you learned in this section, try to deobfuscate 'secret.js' in order to get the content of the flag. What is the flag?",
+      "vi": "Vận dụng những gì đã học trong phần này, hãy thử deobfuscate 'secret.js' để lấy nội dung của flag. Flag là gì?"
+    },
+    "hint": {
+      "en": "Don't just beautify it, deobfuscate it!",
+      "vi": "Đừng chỉ beautify, hãy deobfuscate nó!"
+    },
+    "answer": "HTB{1_4m_7h3_53r14l_g3n3r470r!}"
+  }
+]

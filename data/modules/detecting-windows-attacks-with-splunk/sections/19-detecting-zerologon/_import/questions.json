@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2562,
+    "title": "Detecting Zerologon",
+    "page": 19,
+    "group": "Leveraging Zeek Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "19-detecting-zerologon"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2000,
+      "question": "In a Zerologon attack, the primary port of communication for the attacker is port 88. Answer format: True, False.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "false"
+    }
+  ]
+}

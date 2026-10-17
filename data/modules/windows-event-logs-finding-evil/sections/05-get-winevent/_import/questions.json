@@ -1,0 +1,29 @@
+{
+  "module": 216,
+  "section": {
+    "id": 2322,
+    "title": "Get-WinEvent",
+    "page": 5,
+    "group": "Analyzing Windows Event Logs En Masse",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "05-get-winevent"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1744,
+      "question": "Utilize the Get-WinEvent cmdlet to traverse all event logs located within the \"C:\\Tools\\chainsaw\\EVTX-ATTACK-SAMPLES\\Lateral Movement\" directory and determine when the \\\\*\\PRINT share was added. Enter the time of the identified event in the format HH:MM:SS as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "12:30:30"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2449,
+    "title": "Rogue Access Point & Evil-Twin Attacks",
+    "page": 5,
+    "group": "Link Layer Attacks",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "05-rogue-access-point-evil-twin-attacks"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1920,
+      "question": "Inspect the rogueap.cap file, part of this module's resources, and enter the MAC address of the Evil Twin attack's victim as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "2c:6d:c1:af:eb:91"
+    }
+  ]
+}

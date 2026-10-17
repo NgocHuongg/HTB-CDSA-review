@@ -1,0 +1,20 @@
+{
+  "path": "/app/module/148/section/1367",
+  "title": "Detection & Analysis Stage (Part 1)",
+  "questions": [
+    {
+      "n": 1,
+      "text": "True or False: Can a third-party vendor be a source of detecting a compromise?",
+      "extra": [],
+      "answer": "True"
+    },
+    {
+      "n": 2,
+      "text": "Assign the Mimikatz alert (shown in the section) to yourself in TheHive, and go through the description and summary. Provide the username of the person who executed the Mimikatz tool. The answer format is \"domain\\user_name.\"",
+      "extra": [
+        "Authenticate to with user \"htb-analyst\" and password \"P3n#31337@LOG\""
+      ],
+      "answer": "insight\\svc_deployer"
+    }
+  ]
+}

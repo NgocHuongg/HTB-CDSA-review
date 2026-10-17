@@ -1,0 +1,38 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What was the name of the new user created on mrb3n's host? RDP to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Tên của user mới được tạo trên host của mrb3n là gì? RDP tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "hint": {
+      "en": "It's in the pcap data. Look at the TCP conversation.",
+      "vi": "Nó nằm trong dữ liệu pcap. Hãy xem TCP conversation."
+    },
+    "answer": "hacker"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "How many total packets were there in the Guided-analysis PCAP?",
+      "vi": "Có tổng cộng bao nhiêu packet trong PCAP Guided-analysis?"
+    },
+    "hint": {
+      "en": "Total count is shown in the Wireshark GUI.",
+      "vi": "Tổng số được hiển thị trên GUI của Wireshark."
+    },
+    "answer": "44"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "What was the suspicious port that was being used?",
+      "vi": "Cổng đáng ngờ đã được sử dụng là cổng nào?"
+    },
+    "hint": {
+      "en": "Meterpreter loves this port.",
+      "vi": "Meterpreter rất thích cổng này."
+    },
+    "answer": "4444"
+  }
+]

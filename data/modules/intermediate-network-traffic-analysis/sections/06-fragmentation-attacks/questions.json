@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Inspect the nmap_frag_fw_bypass.pcapng file, part of this module's resources, and enter the total count of packets that have the TCP RST flag set as your answer.",
+      "vi": "Kiểm tra file nmap_frag_fw_bypass.pcapng (thuộc tài nguyên của module này) và nhập tổng số packet có bật cờ TCP RST làm câu trả lời."
+    },
+    "answer": "66535"
+  }
+]

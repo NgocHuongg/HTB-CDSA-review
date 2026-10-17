@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Kiểm tra file nmap_syn_scan.pcapng (thuộc tài nguyên của module này) và nhập tổng số packet có bật cờ TCP ACK làm câu trả lời.",
+    "hint": null
+  }
+]

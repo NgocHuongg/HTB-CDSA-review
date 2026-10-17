@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2526,
+    "title": "Detecting Kerberoasting/AS-REProasting",
+    "page": 4,
+    "group": "Leveraging Windows Event Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "04-detecting-kerberoasting-as-reproasting"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1985,
+      "question": "Modify and employ the Splunk search provided at the \"Detecting Kerberoasting - SPN Querying\" part of this section on all ingested data (All time). Enter the name of the user who initiated the process that executed an LDAP query containing the \"*(&(samAccountType=805306368)(servicePrincipalName=*)*\" string at 2023-07-26 16:42:44 as your answer. Answer format: CORP\\_",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "CORP\\LANDON_HINES"
+    }
+  ]
+}

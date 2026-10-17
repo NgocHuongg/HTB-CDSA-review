@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2529,
+    "title": "Detecting Golden Tickets/Silver Tickets",
+    "page": 8,
+    "group": "Leveraging Windows Event Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "08-detecting-golden-tickets-silver-tickets"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1989,
+      "question": "For which \"service\" did the user named Barbi generate a silver ticket?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "cifs"
+    }
+  ]
+}

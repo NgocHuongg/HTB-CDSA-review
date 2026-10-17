@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Study the \"C:\\Rules\\yara\\shell_detector.yar\" YARA rule that aims to detect \"C:\\Samples\\MalwareAnalysis\\shell.exe\" inside process memory. Then, specify the appropriate hex values inside the \"$sandbox\" variable to ensure that the \"Sandbox detected\" message will also be detected. Enter the correct hex values as your answer. Answer format: Remove any spaces RDP to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Nghiên cứu YARA rule \"C:\\Rules\\yara\\shell_detector.yar\" nhằm phát hiện \"C:\\Samples\\MalwareAnalysis\\shell.exe\" bên trong bộ nhớ process. Sau đó, chỉ định các giá trị hex phù hợp bên trong biến \"$sandbox\" để đảm bảo thông báo \"Sandbox detected\" cũng sẽ bị phát hiện. Nhập các giá trị hex đúng làm đáp án. Answer format: Remove any spaces RDP tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "53616E64626F78206465746563746564"
+  }
+]

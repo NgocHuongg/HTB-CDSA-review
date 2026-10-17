@@ -1,0 +1,41 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1778,
+    "title": "Kerberoasting",
+    "page": 3,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "03-kerberoasting"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1631,
+      "question": "Connect to the target and perform a Kerberoasting attack. What is the password for the svc-iam user?",
+      "hint": "Use the SecLists/Passwords/Leaked-Databases/rockyou.txt password list",
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "bob",
+      "password": "Slavi123",
+      "answer": "mariposa"
+    },
+    {
+      "n": 2,
+      "id": 1645,
+      "question": "After performing the Kerberoasting attack, connect to DC1 (172.16.18.3) as 'htb-student:HTB_@cademy_stdnt!' and look at the logs in Event Viewer. What is the ServiceSid of the webservice user?",
+      "hint": "We need to look at both the \"General\" and \"Details\" tabs of the event.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "S-1-5-21-1518138621-4282902758-752445584-2110"
+    }
+  ]
+}

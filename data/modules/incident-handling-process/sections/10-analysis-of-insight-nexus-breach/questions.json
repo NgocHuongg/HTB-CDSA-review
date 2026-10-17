@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Download the Wazuh exported logs file (i.e., wazuh_export.zip), and identify all events that indicate potential credential compromise. Check the event ID 4688 and verify the full path of the parent process name that executed a credential dumping tool. Answer format is C:\\\\Pr........ File: [wazuh_export.zip](/content/incident-handling-process/10-analysis-of-insight-nexus-breach/resources/wazuh_export.zip)",
+      "vi": "Tải file log Wazuh đã export (wazuh_export.zip) và xác định tất cả các event cho thấy khả năng credential bị xâm phạm. Kiểm tra event ID 4688 và xác định đường dẫn đầy đủ của parent process đã chạy công cụ credential dumping. Định dạng đáp án là C:\\\\Pr........ File: [wazuh_export.zip](/content/incident-handling-process/10-analysis-of-insight-nexus-breach/resources/wazuh_export.zip)"
+    },
+    "answer": [
+      "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe",
+      "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+    ]
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Identify events that show persistence mechanisms. Type the value of imagePath for a persistence mechanism that took place on the host DB01.",
+      "vi": "Xác định các event cho thấy cơ chế persistence. Nhập giá trị imagePath của cơ chế persistence đã xảy ra trên host DB01."
+    },
+    "answer": [
+      "C:\\\\Windows\\\\PSEXESVC.exe",
+      "C:\\Windows\\PSEXESVC.exe"
+    ]
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Identify exfiltration activity — file(s) uploaded or outbound traffic. What is the external IP address to which the file diagnostics_data.zip was uploaded?",
+      "vi": "Xác định hoạt động exfiltration — file được upload hoặc traffic đi ra ngoài. File diagnostics_data.zip đã được upload tới địa chỉ IP bên ngoài nào?"
+    },
+    "answer": "93.184.216.34"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "Which user tried to connect to the file share \\\\fs01\\projects?",
+      "vi": "User nào đã cố gắng kết nối tới file share \\\\fs01\\projects?"
+    },
+    "answer": "svc_admin"
+  }
+]

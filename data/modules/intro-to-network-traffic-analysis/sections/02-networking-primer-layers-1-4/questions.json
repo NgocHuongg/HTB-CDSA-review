@@ -1,0 +1,110 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "How many layers does the OSI model have?",
+      "vi": "Mô hình OSI có bao nhiêu tầng?"
+    },
+    "hint": {
+      "en": "pdntspa. count it.",
+      "vi": "pdntspa. Hãy đếm nó."
+    },
+    "answer": "7"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "How many layers are there in the TCP/IP model?",
+      "vi": "Mô hình TCP/IP có bao nhiêu tầng?"
+    },
+    "hint": {
+      "en": "not as many as the OSI model.",
+      "vi": "không nhiều bằng mô hình OSI."
+    },
+    "answer": "4"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "True or False: Routers operate at layer 2 of the OSI model?",
+      "vi": "True or False (Đúng hay Sai): Router hoạt động ở tầng 2 của mô hình OSI?"
+    },
+    "hint": {
+      "en": "routers deal with IP addressing.",
+      "vi": "router xử lý việc định địa chỉ IP."
+    },
+    "answer": "False"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "What addressing mechanism is used at the Link Layer of the TCP/IP model?",
+      "vi": "Cơ chế định địa chỉ nào được dùng ở Link Layer của mô hình TCP/IP?"
+    },
+    "hint": {
+      "en": "Its not IP. Write it as singular not plural. Format XXX-YYYYYYY",
+      "vi": "Không phải IP. Viết ở dạng số ít, không phải số nhiều. Format XXX-YYYYYYY"
+    },
+    "answer": "MAC-Address"
+  },
+  {
+    "id": "q5",
+    "question": {
+      "en": "At what layer of the OSI model is a PDU encapsulated into a packet? ( the number )",
+      "vi": "PDU được đóng gói (encapsulate) thành packet ở tầng nào của mô hình OSI? ( ghi bằng số )"
+    },
+    "hint": {
+      "en": "1,2,_,4.",
+      "vi": "1,2,_,4."
+    },
+    "answer": "3"
+  },
+  {
+    "id": "q6",
+    "question": {
+      "en": "What addressing mechanism utilizes a 32-bit address?",
+      "vi": "Cơ chế định địa chỉ nào sử dụng địa chỉ 32-bit?"
+    },
+    "hint": {
+      "en": "The only one not represented in hexadecimal format.",
+      "vi": "Cái duy nhất không được biểu diễn ở dạng hexadecimal."
+    },
+    "answer": "Ipv4"
+  },
+  {
+    "id": "q7",
+    "question": {
+      "en": "What Transport layer protocol is connection oriented?",
+      "vi": "Protocol tầng Transport nào là connection oriented (hướng kết nối)?"
+    },
+    "hint": {
+      "en": "considered reliable, makes connections between source and destination.",
+      "vi": "được coi là đáng tin cậy, tạo kết nối giữa nguồn và đích."
+    },
+    "answer": "TCP"
+  },
+  {
+    "id": "q8",
+    "question": {
+      "en": "What Transport Layer protocol is considered unreliable?",
+      "vi": "Protocol tầng Transport nào được coi là không đáng tin cậy (unreliable)?"
+    },
+    "hint": {
+      "en": "Fire and Forget, it doesn't care about your data.",
+      "vi": "Fire and Forget (gửi rồi quên), nó không quan tâm tới dữ liệu của bạn."
+    },
+    "answer": "UDP"
+  },
+  {
+    "id": "q9",
+    "question": {
+      "en": "TCP's three-way handshake consists of 3 packets: 1.Syn, 2.Syn & ACK, 3. _? What is the final packet of the handshake?",
+      "vi": "Three-way handshake của TCP gồm 3 gói tin: 1.Syn, 2.Syn & ACK, 3. _? Gói tin cuối cùng của handshake là gì?"
+    },
+    "hint": {
+      "en": "the session establishment must be ACKnowledged by both server and host.",
+      "vi": "việc thiết lập session phải được cả server và host ACKnowledge (xác nhận)."
+    },
+    "answer": "ACK"
+  }
+]

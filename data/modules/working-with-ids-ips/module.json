@@ -1,0 +1,12 @@
+{
+  "order": 9,
+  "htb_id": 226,
+  "title": {
+    "en": "Working with IDS/IPS",
+    "vi": "Working with IDS/IPS"
+  },
+  "description": {
+    "en": "This module offers an in-depth exploration of Suricata, Snort, and Zeek, covering both rule development and intrusion detection. We'll guide you through signature-based and analytics-based rule development, and you'll learn to tackle encrypted traffic. The module features numerous hands-on examples, focusing on the detection of prevalent malware such as PowerShell Empire, Covenant, Sliver, Cerber, Dridex, Ursnif, and Patchwork. We also dive into detecting attacking techniques like DNS exfiltration, TLS/HTTP Exfiltration, PsExec lateral movement, and beaconing through IDS/IPS.",
+    "vi": "Module này mang đến cái nhìn chuyên sâu về Suricata, Snort và Zeek, bao gồm cả phát triển rule lẫn phát hiện xâm nhập. Chúng tôi sẽ hướng dẫn bạn phát triển rule dựa trên signature (signature-based) và dựa trên phân tích (analytics-based), đồng thời bạn sẽ học cách xử lý lưu lượng được mã hoá (encrypted traffic). Module có nhiều ví dụ thực hành, tập trung vào việc phát hiện các malware phổ biến như PowerShell Empire, Covenant, Sliver, Cerber, Dridex, Ursnif và Patchwork. Chúng tôi cũng đi sâu vào việc phát hiện các kỹ thuật tấn công như DNS exfiltration, TLS/HTTP Exfiltration, PsExec lateral movement và beaconing thông qua IDS/IPS."
+  }
+}

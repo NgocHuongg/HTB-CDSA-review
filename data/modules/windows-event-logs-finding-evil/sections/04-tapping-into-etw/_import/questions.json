@@ -1,0 +1,29 @@
+{
+  "module": 216,
+  "section": {
+    "id": 2325,
+    "title": "Tapping Into ETW",
+    "page": 4,
+    "group": "Additional Telemetry Sources",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "04-tapping-into-etw"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1742,
+      "question": "Replicate executing Seatbelt and SilkETW as described in this section and provide the ManagedInteropMethodName that starts with \"G\" and ends with \"ion\" as your answer. \"c:\\Tools\\SilkETW_SilkService_v8\\v8\" and \"C:\\Tools\\GhostPack Compiled Binaries\" on the spawned target contain everything you need.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "GetTokenInformation"
+    }
+  ]
+}

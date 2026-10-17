@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2565,
+    "title": "Detecting Exfiltration (DNS)",
+    "page": 21,
+    "group": "Leveraging Zeek Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "21-detecting-exfiltration-dns"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2002,
+      "question": "Use the \"dns_exf\" index and the \"bro:dns:json\" sourcetype. Enter the attacker-controlled domain as your answer. Answer format: _._",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "letsgohunt.online"
+    }
+  ]
+}

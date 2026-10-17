@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2558,
+    "title": "Detecting Kerberos Brute Force Attacks",
+    "page": 15,
+    "group": "Leveraging Zeek Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "15-detecting-kerberos-brute-force-attacks"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1996,
+      "question": "Use the \"kerberos_bruteforce\" index and the \"bro:kerberos:json\" sourcetype. Was the \"accrescent/windomain.local\" account part of the Kerberos user enumeration attack? Answer format: Yes, No",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Yes"
+    }
+  ]
+}

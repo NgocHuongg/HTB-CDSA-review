@@ -1,0 +1,16 @@
+{
+  "module": 234,
+  "section": {
+    "id": 2511,
+    "title": "Introduction to YARA & Sigma",
+    "page": 1,
+    "group": "Introduction",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "01-introduction-to-yara-sigma"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

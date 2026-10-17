@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Threat hunting is used ... Choose one of the following as your answer: \"proactively\", \"reactively\", \"proactively and reactively\".",
+      "vi": "Threat hunting được sử dụng ... Chọn một trong các đáp án sau làm câu trả lời: \"proactively\", \"reactively\", \"proactively and reactively\"."
+    },
+    "answer": "proactively and reactively"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Threat hunting and incident handling are two processes that always function independently. Answer format: True, False.",
+      "vi": "Threat hunting và incident handling là hai quy trình luôn hoạt động độc lập với nhau. Answer format: True, False."
+    },
+    "answer": "False"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Threat hunting and incident response can be conducted simultaneously. Answer format: True, False.",
+      "vi": "Threat hunting và incident response có thể được tiến hành đồng thời. Answer format: True, False."
+    },
+    "answer": "True"
+  }
+]

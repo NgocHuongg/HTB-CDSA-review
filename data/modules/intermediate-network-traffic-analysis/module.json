@@ -1,0 +1,12 @@
+{
+  "order": 8,
+  "htb_id": 229,
+  "title": {
+    "en": "Intermediate Network Traffic Analysis",
+    "vi": "Intermediate Network Traffic Analysis"
+  },
+  "description": {
+    "en": "Through network traffic analysis, this module sharpens skills in detecting link layer attacks such as ARP anomalies and rogue access points, identifying network abnormalities like IP spoofing and TCP handshake irregularities, and uncovering application layer threats from web-based vulnerabilities to peculiar DNS activities.",
+    "vi": "Thông qua phân tích lưu lượng mạng (network traffic analysis), module này rèn giũa kỹ năng phát hiện các cuộc tấn công ở tầng liên kết (link layer) như bất thường ARP và rogue access point, nhận diện các bất thường mạng như IP spoofing và bất thường trong TCP handshake, cũng như phát hiện các mối đe doạ ở tầng ứng dụng (application layer), từ các lỗ hổng trên nền web cho tới những hoạt động DNS khác thường."
+  }
+}

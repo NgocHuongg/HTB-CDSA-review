@@ -1,0 +1,110 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What TCPDump switch will allow us to pipe the contents of a pcap file out to another function such as 'grep'?",
+      "vi": "Switch nào của TCPDump cho phép ta pipe (chuyển) nội dung của một file pcap sang một chức năng khác như 'grep'?"
+    },
+    "hint": {
+      "en": "we are -l ooking for something in the pipe redirection.",
+      "vi": "ta đang tìm (-l ooking) một thứ trong pipe redirection (chuyển hướng qua pipe)."
+    },
+    "answer": "-l"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "True or False: The filter \"port\" looks at source and destination traffic.",
+      "vi": "Đúng hay Sai (True or False): Filter \"port\" xem xét traffic theo cả chiều nguồn (source) lẫn đích (destination)."
+    },
+    "hint": {
+      "en": "port is looking for that port # in either direction.",
+      "vi": "port tìm số port đó ở cả hai chiều."
+    },
+    "answer": "True"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "If we wished to filter out ICMP traffic from our capture, what filter could we use? ( word only, not symbol please.)",
+      "vi": "Nếu muốn loại bỏ traffic ICMP khỏi bản capture, ta có thể dùng filter nào? (chỉ dùng từ, vui lòng không dùng ký hiệu.)"
+    },
+    "hint": {
+      "en": "we are saying NOT to capture any ICMP packets..",
+      "vi": "ta đang nói KHÔNG capture bất kỳ packet ICMP nào.."
+    },
+    "answer": "not icmp"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "What command will show you where / if TCPDump is installed?",
+      "vi": "Lệnh nào sẽ cho bạn biết TCPDump được cài ở đâu / có được cài hay không?"
+    },
+    "hint": {
+      "en": "how can you see __WHICH__ directory hosts a file?",
+      "vi": "làm sao để xem thư mục nào (__WHICH__) chứa một file?"
+    },
+    "answer": "which tcpdump"
+  },
+  {
+    "id": "q5",
+    "question": {
+      "en": "How do you start a capture with TCPDump to capture on eth0?",
+      "vi": "Làm thế nào để bắt đầu capture bằng TCPDump trên interface eth0?"
+    },
+    "hint": {
+      "en": "command < switch to specify an interface > << interface name or number>>",
+      "vi": "command < switch to specify an interface > << interface name or number>>"
+    },
+    "answer": "tcpdump -i eth0"
+  },
+  {
+    "id": "q6",
+    "question": {
+      "en": "What switch will provide more verbosity in your output?",
+      "vi": "Switch nào sẽ giúp output chi tiết hơn (verbosity)?"
+    },
+    "hint": {
+      "en": "to answer put the `-` before your answer.",
+      "vi": "khi trả lời, hãy đặt `-` trước đáp án."
+    },
+    "answer": "-v"
+  },
+  {
+    "id": "q7",
+    "question": {
+      "en": "What switch will write your capture output to a .pcap file?",
+      "vi": "Switch nào sẽ ghi output của bản capture vào một file .pcap?"
+    },
+    "hint": {
+      "en": "put the `-` before your letter answer.",
+      "vi": "đặt `-` trước chữ cái đáp án."
+    },
+    "answer": "-w"
+  },
+  {
+    "id": "q8",
+    "question": {
+      "en": "What switch will read a capture from a .pcap file?",
+      "vi": "Switch nào sẽ đọc bản capture từ một file .pcap?"
+    },
+    "hint": {
+      "en": "Put the `-` before your answer",
+      "vi": "Đặt `-` trước đáp án"
+    },
+    "answer": "-r"
+  },
+  {
+    "id": "q9",
+    "question": {
+      "en": "What switch will show the contents of a capture in Hex and ASCII?",
+      "vi": "Switch nào sẽ hiển thị nội dung bản capture ở dạng Hex và ASCII?"
+    },
+    "hint": {
+      "en": "Put the `-` before your answer.",
+      "vi": "Đặt `-` trước đáp án."
+    },
+    "answer": "-X"
+  }
+]

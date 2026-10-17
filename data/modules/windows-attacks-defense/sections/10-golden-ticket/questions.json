@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Practice the techniques shown in this section. What is the NTLM hash of the krbtgt user? RDP to TARGET_IP with user \"bob\" and password \"Slavi123\".",
+      "vi": "Thực hành các kỹ thuật được trình bày trong phần này. NTLM hash của user krbtgt là gì? RDP tới TARGET_IP với user \"bob\" và mật khẩu \"Slavi123\"."
+    },
+    "answer": "db0d0630064747072a7da3f7c3b4069e"
+  }
+]

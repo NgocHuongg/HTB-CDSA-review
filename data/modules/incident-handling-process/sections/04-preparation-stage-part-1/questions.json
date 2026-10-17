@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What should we have prepared and always ready to 'grab and go'?",
+      "vi": "Chúng ta nên chuẩn bị sẵn thứ gì để luôn có thể 'xách lên và đi' (grab and go)?"
+    },
+    "answer": "Jump bag"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "True or False: Using baselines, we can discover deviations from the golden image, which aids us in discovering suspicious or unwanted changes to the configuration.",
+      "vi": "Đúng hay Sai: Nhờ baseline, ta có thể phát hiện sai lệch so với golden image, giúp tìm ra các thay đổi cấu hình đáng ngờ hoặc không mong muốn."
+    },
+    "answer": "True"
+  }
+]

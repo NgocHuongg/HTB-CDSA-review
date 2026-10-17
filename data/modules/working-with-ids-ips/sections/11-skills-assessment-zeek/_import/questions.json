@@ -1,0 +1,29 @@
+{
+  "module": 226,
+  "section": {
+    "id": 2463,
+    "title": "Skills Assessment - Zeek",
+    "page": 11,
+    "group": "Skills Assessment",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "11-skills-assessment-zeek"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1897,
+      "question": "There is a file named neutrinogootkit.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to the Neutrino exploit kit sending Gootkit malware. Enter the x509.log field name that includes the \"MyCompany Ltd.\" trace as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "certificate.subject"
+    }
+  ]
+}

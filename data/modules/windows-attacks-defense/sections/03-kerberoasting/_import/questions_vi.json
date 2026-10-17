@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Kết nối tới target và thực hiện cuộc tấn công Kerberoasting. Password của user svc-iam là gì?",
+    "hint": "Dùng danh sách password SecLists/Passwords/Leaked-Databases/rockyou.txt"
+  },
+  {
+    "n": 2,
+    "question": "Sau khi thực hiện cuộc tấn công Kerberoasting, kết nối tới DC1 (172.16.18.3) với tư cách 'htb-student:HTB_@cademy_stdnt!' và xem các log trong Event Viewer. ServiceSid của user webservice là gì?",
+    "hint": "Ta cần xem cả tab \"General\" lẫn tab \"Details\" của event."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Navigate to http://[Target IP]:5601, click on the side navigation toggle, and click on \"Dashboard\". Browse the refined visualization we created or the \"Failed logon attempts [All users]\" visualization, if it is available, and enter the number of logins for the sql-svc1 account as your answer.",
+      "vi": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Xem visualization đã tinh chỉnh mà ta tạo hoặc visualization \"Failed logon attempts [All users]\" (nếu có), và nhập số lần đăng nhập (number of logins) của tài khoản sql-svc1 làm câu trả lời."
+    },
+    "answer": "2"
+  }
+]

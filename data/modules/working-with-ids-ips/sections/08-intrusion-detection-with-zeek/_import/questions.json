@@ -1,0 +1,41 @@
+{
+  "module": 226,
+  "section": {
+    "id": 2417,
+    "title": "Intrusion Detection With Zeek",
+    "page": 8,
+    "group": "Zeek",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "08-intrusion-detection-with-zeek"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1893,
+      "question": "There is a file named printnightmare.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to the PrintNightmare (https://labs.jumpsec.com/printnightmare-network-analysis/) vulnerability. Enter the zeek log that can help us identify the suspicious spooler functions as your answer. Answer format: _.log",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "dce_rpc.log"
+    },
+    {
+      "n": 2,
+      "id": 1894,
+      "question": "There is a file named revilkaseya.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to the REvil ransomware Kaseya supply chain attack. Enter the total number of bytes that the victim has transmitted to the IP address 178.23.155.240 as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "2311"
+    }
+  ]
+}

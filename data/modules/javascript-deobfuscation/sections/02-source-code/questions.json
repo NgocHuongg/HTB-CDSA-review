@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Repeat what you learned in this section, and you should find a secret flag, what is it?",
+      "vi": "Làm lại những gì bạn đã học trong phần này, bạn sẽ tìm thấy một flag bí mật. Flag đó là gì?"
+    },
+    "hint": {
+      "en": "It is in this form: HTB{...}",
+      "vi": "Flag có dạng: HTB{...}"
+    },
+    "answer": "HTB{4lw4y5_r34d_7h3_50urc3}"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "module": 41,
+  "section": {
+    "id": 441,
+    "title": "Source Code",
+    "page": 2,
+    "group": "Introduction",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "02-source-code"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 93,
+      "question": "Repeat what you learned in this section, and you should find a secret flag, what is it?",
+      "hint": "It is in this form: HTB{...}",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "HTB{4lw4y5_r34d_7h3_50urc3}"
+    }
+  ]
+}

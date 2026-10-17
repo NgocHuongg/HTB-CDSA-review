@@ -1,0 +1,17 @@
+[
+  {
+    "n": 1,
+    "question": "Threat hunting được sử dụng ... Chọn một trong các đáp án sau làm câu trả lời: \"proactively\", \"reactively\", \"proactively and reactively\".",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Threat hunting và incident handling là hai quy trình luôn hoạt động độc lập với nhau. Answer format: True, False.",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Threat hunting và incident response có thể được tiến hành đồng thời. Answer format: True, False.",
+    "hint": null
+  }
+]

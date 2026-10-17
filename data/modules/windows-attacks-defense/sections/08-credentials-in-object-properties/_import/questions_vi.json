@@ -1,0 +1,17 @@
+[
+  {
+    "n": 1,
+    "question": "Kết nối tới target và dùng một script để liệt kê các field property của object. Mật khẩu nào có thể tìm thấy trong field Description của user bonni?",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Dùng mật khẩu đã phát hiện ở câu trước, thử xác thực tới DC1 với tư cách user bonni. Mật khẩu có hợp lệ không?",
+    "hint": "Yes or No"
+  },
+  {
+    "n": 3,
+    "question": "Kết nối tới DC1 với tư cách 'htb-student:HTB_@cademy_stdnt!' và xem các log trong Event Viewer. TargetSid của user bonni là gì?",
+    "hint": "Lọc theo Event ID 4771."
+  }
+]

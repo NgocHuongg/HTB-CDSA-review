@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Utilize the Get-WinEvent cmdlet to traverse all event logs located within the \"C:\\Tools\\chainsaw\\EVTX-ATTACK-SAMPLES\\Lateral Movement\" directory and determine when the \\\\*\\PRINT share was added. Enter the time of the identified event in the format HH:MM:SS as your answer. RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Dùng cmdlet Get-WinEvent để duyệt qua tất cả event log nằm trong thư mục \"C:\\Tools\\chainsaw\\EVTX-ATTACK-SAMPLES\\Lateral Movement\" và xác định thời điểm share \\\\*\\PRINT được thêm vào. Nhập thời điểm của event tìm được theo định dạng HH:MM:SS làm câu trả lời. RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "12:30:30"
+  }
+]

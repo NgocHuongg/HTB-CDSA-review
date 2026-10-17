@@ -1,0 +1,77 @@
+{
+  "module": 237,
+  "section": {
+    "id": 2614,
+    "title": "Skills Assessment",
+    "page": 8,
+    "group": "Skills Assessment",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "08-skills-assessment"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2057,
+      "question": "Using VAD analysis, pinpoint the suspicious process and enter its name as your answer. Answer format: _.exe",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "password",
+      "answer": "reverse.exe"
+    },
+    {
+      "n": 2,
+      "id": 2058,
+      "question": "Determine the IP address of the C2 (Command and Control) server and enter it as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "password",
+      "answer": "3.19.219.4"
+    },
+    {
+      "n": 3,
+      "id": 2059,
+      "question": "Determine the registry key used for persistence and enter it as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "password",
+      "answer": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+    },
+    {
+      "n": 4,
+      "id": 2060,
+      "question": "Determine the folder that contains all Mimikatz-related files and enter the full path as your answer.",
+      "hint": "Enter the parent folder of either \"Win32\" or \"x64\".",
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "password",
+      "answer": "C:\\Users\\j0seph\\AppData\\Local\\mimik"
+    },
+    {
+      "n": 5,
+      "id": 2061,
+      "question": "Determine the Microsoft Word document that j0seph recently accessed and enter its name as your answer. Answer format: _.DOCX",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "password",
+      "answer": "insurance.DOCX"
+    }
+  ]
+}

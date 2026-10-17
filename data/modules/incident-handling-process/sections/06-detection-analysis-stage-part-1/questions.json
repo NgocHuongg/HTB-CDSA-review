@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "True or False: Can a third-party vendor be a source of detecting a compromise?",
+      "vi": "Đúng hay Sai: Một nhà cung cấp bên thứ ba (third-party vendor) có thể là nguồn phát hiện ra vụ xâm nhập?"
+    },
+    "answer": "True"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Assign the Mimikatz alert (shown in the section) to yourself in TheHive, and go through the description and summary. Provide the username of the person who executed the Mimikatz tool. The answer format is \"domain\\user_name.\" Authenticate to TARGET_IP with user \"htb-analyst\" and password \"P3n#31337@LOG\".",
+      "vi": "Gán alert Mimikatz (được nêu trong section) cho chính bạn trong TheHive, đọc phần description và summary. Cho biết username của người đã chạy công cụ Mimikatz. Định dạng đáp án là \"domain\\user_name\". Đăng nhập vào TARGET_IP với user \"htb-analyst\" và mật khẩu \"P3n#31337@LOG\"."
+    },
+    "answer": "insight\\svc_deployer"
+  }
+]

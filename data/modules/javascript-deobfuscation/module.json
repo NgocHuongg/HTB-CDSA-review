@@ -1,0 +1,12 @@
+{
+  "order": 11,
+  "htb_id": 41,
+  "title": {
+    "en": "JavaScript Deobfuscation",
+    "vi": "JavaScript Deobfuscation"
+  },
+  "description": {
+    "en": "This module will take you step-by-step through the fundamentals of JavaScript Deobfuscation until you can deobfuscate basic JavaScript code and understand its purpose.",
+    "vi": "Module này sẽ hướng dẫn bạn từng bước qua những kiến thức nền tảng của JavaScript Deobfuscation, cho đến khi bạn có thể deobfuscate code JavaScript cơ bản và hiểu được mục đích của nó."
+  }
+}

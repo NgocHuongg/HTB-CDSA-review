@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng index \"dns_exf\" và sourcetype \"bro:dns:json\". Nhập domain do kẻ tấn công kiểm soát làm đáp án. Answer format: _._",
+    "hint": null
+  }
+]

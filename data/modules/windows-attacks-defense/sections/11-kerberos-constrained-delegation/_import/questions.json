@@ -1,0 +1,29 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1786,
+    "title": "Kerberos Constrained Delegation",
+    "page": 11,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "11-kerberos-constrained-delegation"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1638,
+      "question": "Use the techniques shown in this section to gain access to the DC1 domain controller and submit the contents of the flag.txt file.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "bob",
+      "password": "Slavi123",
+      "answer": "C0nsTr@in3D_F1@G_Dc01!"
+    }
+  ]
+}

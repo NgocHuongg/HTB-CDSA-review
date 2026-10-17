@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What is Kerberos des-cbc-md5 key for user Administrator? RDP to TARGET_IP with user \"kali\" and password \"kali\".",
+      "vi": "Kerberos des-cbc-md5 key cho user Administrator là gì? RDP tới TARGET_IP với user \"kali\" và mật khẩu \"kali\"."
+    },
+    "hint": {
+      "en": "We might need to run the tools as root.",
+      "vi": "Có thể ta cần chạy các công cụ với quyền root."
+    },
+    "answer": "d9b53b1f6d7c45a8"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "After performing the previous attack, connect to DC1 (172.16.18.3) as 'htb-student:HTB_@cademy_stdnt!' and make the appropriate change to the registry to prevent the PrinterBug attack. Then, restart DC1 and try the same attack again. What is the error message seen when running dementor.py?",
+      "vi": "Sau khi thực hiện cuộc tấn công trước đó, hãy kết nối tới DC1 (172.16.18.3) với tư cách 'htb-student:HTB_@cademy_stdnt!' và thực hiện thay đổi phù hợp trong registry để ngăn cuộc tấn công PrinterBug. Sau đó, khởi động lại DC1 và thử lại chính cuộc tấn công đó. Thông báo lỗi nào xuất hiện khi chạy dementor.py?"
+    },
+    "hint": {
+      "en": "Copy and paste the entire error message, starting with [-]",
+      "vi": "Copy và paste toàn bộ thông báo lỗi, bắt đầu bằng [-]"
+    },
+    "answer": "[-] unhandled exception occured: SMB SessionError: STATUS_OBJECT_NAME_NOT_FOUND(The object name is not found.)"
+  }
+]

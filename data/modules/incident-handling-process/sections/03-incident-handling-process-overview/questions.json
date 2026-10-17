@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "True or False: Incident handling contains two main activities: investigating and reporting.",
+      "vi": "Đúng hay Sai: Incident handling gồm hai hoạt động chính là điều tra (investigating) và báo cáo (reporting)."
+    },
+    "answer": "False"
+  }
+]

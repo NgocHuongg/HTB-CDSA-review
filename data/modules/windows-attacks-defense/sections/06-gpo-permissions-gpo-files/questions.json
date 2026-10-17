@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "From WS001 RDP again into DC1 (172.16.18.3) as 'htb-student:HTB_@cademy_stdnt!' and abuse GPO directly. Once completed type DONE as the answer RDP to TARGET_IP with user \"bob\" and password \"Slavi123\".",
+      "vi": "Từ WS001 RDP lại vào DC1 (172.16.18.3) với tư cách 'htb-student:HTB_@cademy_stdnt!' và lạm dụng GPO trực tiếp. Khi hoàn thành, gõ DONE làm đáp án RDP tới TARGET_IP với user \"bob\" và mật khẩu \"Slavi123\"."
+    },
+    "answer": "DONE"
+  }
+]

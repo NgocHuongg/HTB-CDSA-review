@@ -1,0 +1,53 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2567,
+    "title": "Skills Assessment",
+    "page": 23,
+    "group": "Skills Assessment",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "23-skills-assessment"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2003,
+      "question": "Use the \"empire\" index and the \"bro:http:json\" sourcetype. Identify beaconing activity by modifying the Splunk search of the \"Detecting Beaconing Malware\" section and enter the value of the \"TimeInterval\" field as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "4.680851063829787"
+    },
+    {
+      "n": 2,
+      "id": 2004,
+      "question": "Use the \"printnightmare\" index and the \"bro:dce_rpc:json\" sourcetype to create a Splunk search that will detect possible exploitation of the PrintNightmare vulnerability. Enter the IP included in the \"id.orig_h\" field as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "192.168.1.149"
+    },
+    {
+      "n": 3,
+      "id": 2005,
+      "question": "Use the \"bloodhound_all_no_kerberos_sign\" index and the \"bro:dce_rpc:json\" sourcetype to create a Splunk search that will detect possible BloodHound activity (https://www.lares.com/blog/active-directory-ad-attacks-enumeration-at-the-network-layer/). Enter the IP included in the \"id.orig_h\" field as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "192.168.109.105"
+    }
+  ]
+}

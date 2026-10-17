@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Trong thư mục /home/htb-student/pcaps có một file tên log4shell.pcap, chứa lưu lượng mạng liên quan tới các nỗ lực khai thác log4shell, trong đó payload được nhúng trong user agent. Hãy nhập keyword cần được chỉ định ngay trước keyword content của rule có sid 10000098 trong file local.rules để alert được kích hoạt. Answer format: [keyword];",
+    "hint": null
+  }
+]

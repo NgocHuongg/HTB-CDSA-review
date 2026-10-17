@@ -1,0 +1,53 @@
+{
+  "module": 81,
+  "section": {
+    "id": 785,
+    "title": "Tcpdump Packet Filtering",
+    "page": 8,
+    "group": "Tcpdump",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "08-tcpdump-packet-filtering"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 537,
+      "question": "What filter will allow me to see traffic coming from or destined to the host with an ip of 10.10.20.1?",
+      "hint": "only the filter and the variable needed. (Not full command)",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "host 10.10.20.1"
+    },
+    {
+      "n": 2,
+      "id": 538,
+      "question": "What filter will allow me to capture based on either of two options?",
+      "hint": "this OR that.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "or"
+    },
+    {
+      "n": 3,
+      "id": 539,
+      "question": "True or False: TCPDump will resolve IPs to hostnames by default.",
+      "hint": "run a capture, what do you see?",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "True"
+    }
+  ]
+}

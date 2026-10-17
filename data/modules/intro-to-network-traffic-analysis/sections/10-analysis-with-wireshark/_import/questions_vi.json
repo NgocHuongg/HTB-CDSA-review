@@ -1,0 +1,32 @@
+[
+  {
+    "n": 1,
+    "question": "True or False: Wireshark có thể chạy trên cả Windows lẫn Linux.",
+    "hint": "Wireshark là FOSS (phần mềm tự do nguồn mở) và có thể chạy trên nhiều hệ điều hành khác nhau"
+  },
+  {
+    "n": 2,
+    "question": "Pane nào cho phép người dùng xem tóm tắt của từng packet thu được trong quá trình capture?",
+    "hint": "Có ba pane: Packet l__ , Packet b___ , và Packet d______."
+  },
+  {
+    "n": 3,
+    "question": "Pane nào giúp bạn xem chi tiết traffic đã capture và hiển thị nó ở cả dạng ASCII lẫn Hex?",
+    "hint": null
+  },
+  {
+    "n": 4,
+    "question": "Switch nào được dùng với TShark để liệt kê các interface có thể capture?",
+    "hint": "Tương tự TCPDump"
+  },
+  {
+    "n": 5,
+    "question": "Switch nào cho phép ta áp dụng filter trong TShark?",
+    "hint": "đây là một switch Filter riêng của TShark."
+  },
+  {
+    "n": 6,
+    "question": "Capture filter được áp dụng trước khi bắt đầu capture hay sau đó? (trả lời before hoặc after)",
+    "hint": "nó dùng để capture, không phải để hiển thị"
+  }
+]

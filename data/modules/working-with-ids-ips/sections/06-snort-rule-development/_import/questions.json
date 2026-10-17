@@ -1,0 +1,29 @@
+{
+  "module": 226,
+  "section": {
+    "id": 2416,
+    "title": "Snort Rule Development",
+    "page": 6,
+    "group": "Snort",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "06-snort-rule-development"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1892,
+      "question": "There is a file named log4shell.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to log4shell exploitation attempts, where the payload is embedded within the user agent. Enter the keyword that should be specified right before the content keyword of the rule with sid 10000098 within the local.rules file so that an alert is triggered as your answer. Answer format: [keyword];",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "http_header;"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "module": 41,
+  "section": {
+    "id": 447,
+    "title": "Basic Obfuscation",
+    "page": 4,
+    "group": "Obfuscation",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "04-basic-obfuscation"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

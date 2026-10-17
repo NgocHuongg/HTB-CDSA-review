@@ -1,0 +1,41 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1779,
+    "title": "AS-REProasting",
+    "page": 4,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "04-as-reproasting"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1632,
+      "question": "Connect to the target and perform an AS-REProasting attack. What is the password for the user anni?",
+      "hint": "Remember, we need to edit the hash by adding 23$ after $krb5asrep$",
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "bob",
+      "password": "Slavi123",
+      "answer": "shadow"
+    },
+    {
+      "n": 2,
+      "id": 1646,
+      "question": "After performing the AS-REProasting attack, connect to DC1 (172.16.18.3) as 'htb-student:HTB_@cademy_stdnt!' and look at the logs in Event Viewer. What is the TargetSid of the svc-iam user?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "S-1-5-21-1518138621-4282902758-752445584-3103"
+    }
+  ]
+}

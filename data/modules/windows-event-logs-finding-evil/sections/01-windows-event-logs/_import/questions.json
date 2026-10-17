@@ -1,0 +1,41 @@
+{
+  "module": 216,
+  "section": {
+    "id": 2300,
+    "title": "Windows Event Logs",
+    "page": 1,
+    "group": "Introduction",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "01-windows-event-logs"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1738,
+      "question": "Analyze the event with ID 4624, that took place on 8/3/2022 at 10:23:25. Conduct a similar investigation as outlined in this section and provide the name of the executable responsible for the modification of the auditing settings as your answer. Answer format: T_W_____.exe",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "TiWorker.exe"
+    },
+    {
+      "n": 2,
+      "id": 1739,
+      "question": "Build an XML query to determine if the previously mentioned executable modified the auditing settings of C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\WPF\\wpfgfx_v0400.dll. Enter the time of the identified event in the format HH:MM:SS as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "10:23:50"
+    }
+  ]
+}

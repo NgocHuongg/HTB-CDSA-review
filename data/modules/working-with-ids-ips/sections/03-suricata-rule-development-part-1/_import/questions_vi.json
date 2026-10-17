@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Trong thư mục /home/htb-student trên target của section này có một file tên là local.rules. Trong file này có một rule với sid 2024217, liên quan đến exploit MS17-010. Ngoài ra, trong thư mục /home/htb-student/pcaps có một file PCAP tên là eternalblue.pcap, chứa network traffic liên quan đến MS17-010. Giá trị offset nhỏ nhất có thể đặt để alert được kích hoạt là bao nhiêu?",
+    "hint": null
+  }
+]

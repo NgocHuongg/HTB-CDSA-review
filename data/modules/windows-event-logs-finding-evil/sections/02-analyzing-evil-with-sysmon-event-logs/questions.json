@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Replicate the DLL hijacking attack described in this section and provide the SHA256 hash of the malicious WININET.dll as your answer. \"C:\\Tools\\Sysmon\" and \"C:\\Tools\\Reflective DLLInjection\" on the spawned target contain everything you need. RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Tái hiện cuộc tấn công DLL hijacking được mô tả trong section này và đưa ra SHA256 hash của WININET.dll độc hại làm câu trả lời. \"C:\\Tools\\Sysmon\" và \"C:\\Tools\\Reflective DLLInjection\" trên máy target được spawn chứa mọi thứ bạn cần. RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "51F2305DCF385056C68F7CCF5B1B3B9304865CEF1257947D4AD6EF5FAD2E3B13"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Replicate the Unmanaged PowerShell attack described in this section and provide the SHA256 hash of clrjit.dll that spoolsv.exe will load as your answer. \"C:\\Tools\\Sysmon\" and \"C:\\Tools\\PSInject\" on the spawned target contain everything you need. RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Tái hiện cuộc tấn công Unmanaged PowerShell được mô tả trong section này và đưa ra SHA256 hash của clrjit.dll mà spoolsv.exe sẽ nạp làm câu trả lời. \"C:\\Tools\\Sysmon\" và \"C:\\Tools\\PSInject\" trên máy target được spawn chứa mọi thứ bạn cần. RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "8A3CD3CF2249E9971806B15C75A892E6A44CCA5FF5EA5CA89FDA951CD2C09AA9"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Replicate the Credential Dumping attack described in this section and provide the NTLM hash of the Administrator user as your answer. \"C:\\Tools\\Sysmon\" and \"C:\\Tools\\Mimikatz\" on the spawned target contain everything you need. RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Tái hiện cuộc tấn công Credential Dumping được mô tả trong section này và đưa ra NTLM hash của người dùng Administrator làm câu trả lời. \"C:\\Tools\\Sysmon\" và \"C:\\Tools\\Mimikatz\" trên máy target được spawn chứa mọi thứ bạn cần. RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "5E4FFD54B3849AA720ED39F50185E533"
+  }
+]

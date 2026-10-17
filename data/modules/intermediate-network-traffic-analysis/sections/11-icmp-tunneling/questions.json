@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Enter the decoded value of the base64-encoded string that was mentioned in this section as your answer.",
+      "vi": "Nhập giá trị đã decode của chuỗi được encode base64 được đề cập trong phần này làm câu trả lời."
+    },
+    "answer": "This is a secure key: Key123456789"
+  }
+]

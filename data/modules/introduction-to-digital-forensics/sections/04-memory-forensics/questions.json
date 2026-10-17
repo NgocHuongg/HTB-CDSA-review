@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Examine the file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" with Volatility. Enter the parent process name for @WanaDecryptor (Pid 1060) as your answer. Answer format: _.exe SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Phân tích file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" bằng Volatility. Nhập tên process cha (parent process) của @WanaDecryptor (Pid 1060) làm đáp án. Answer format: _.exe SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "tasksche.exe"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Examine the file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" with Volatility. tasksche.exe (Pid 1792) has multiple file handles open. Enter the name of the suspicious-looking file that ends with .WNCRYT as your answer. Answer format: _.WNCRYT SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Phân tích file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" bằng Volatility. tasksche.exe (Pid 1792) đang mở nhiều file handle. Nhập tên file trông đáng ngờ có đuôi .WNCRYT làm đáp án. Answer format: _.WNCRYT SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "hibsys.WNCRYT"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Examine the file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" with Volatility. Enter the Pid of the process that loaded zlib1.dll as your answer. SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Phân tích file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" bằng Volatility. Nhập Pid của process đã nạp zlib1.dll làm đáp án. SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "3012"
+  }
+]

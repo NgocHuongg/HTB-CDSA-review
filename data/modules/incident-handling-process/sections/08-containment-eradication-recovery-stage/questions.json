@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "True or False: Patching a system is considered a short-term containment.",
+      "vi": "Đúng hay Sai: Vá (patch) hệ thống được xem là một biện pháp short-term containment."
+    },
+    "answer": "False"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "During recovery, IOCs are still observed intermittently. Should recovery proceed, or should the case be escalated back to the investigation phase? Answer format: Recovery/Investigation",
+      "vi": "Trong giai đoạn recovery, các IOC vẫn thỉnh thoảng xuất hiện. Nên tiếp tục recovery, hay escalate case quay lại giai đoạn điều tra? Định dạng đáp án: Recovery/Investigation"
+    },
+    "answer": "Investigation"
+  }
+]

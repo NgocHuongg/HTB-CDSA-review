@@ -1,0 +1,29 @@
+{
+  "module": 234,
+  "section": {
+    "id": 2514,
+    "title": "Developing YARA Rules",
+    "page": 3,
+    "group": "Leveraging YARA",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "03-developing-yara-rules"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2014,
+      "question": "Perform string analysis on the \"DirectX.dll\" sample that resides in the  \"/home/htb-student/Samples/YARASigma\" directory of this section's target. Then, study the \"apt_apt17_mal_sep17_1.yar\" YARA rule that resides in the \"/home/htb-student/Rules/yara\" directory and replace \"X.dll\" with the correct DLL name to ensure the rule will identify \"DirectX.dll\". Enter the correct DLL name as your answer. Answer format: _.dll",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "TSMSISrv.dll"
+    }
+  ]
+}

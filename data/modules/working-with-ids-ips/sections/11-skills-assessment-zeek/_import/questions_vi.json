@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Có một file tên neutrinogootkit.pcap trong thư mục /home/htb-student/pcaps, chứa lưu lượng mạng liên quan tới việc exploit kit Neutrino phát tán malware Gootkit. Hãy nhập tên field trong x509.log có chứa dấu vết \"MyCompany Ltd.\" làm câu trả lời.",
+    "hint": null
+  }
+]

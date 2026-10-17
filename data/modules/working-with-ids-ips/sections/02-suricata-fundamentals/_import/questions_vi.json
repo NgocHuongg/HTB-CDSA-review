@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Chỉ lọc ra các HTTP event từ /var/log/suricata/old_eve.json bằng công cụ xử lý JSON dòng lệnh jq. Nhập flow_id mà bạn tìm thấy làm đáp án.",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Bật output http-log trong suricata.yaml và chạy Suricata trên /home/htb-student/pcaps/suspicious.pcap. Nhập trang PHP được request làm đáp án. Answer format: _.php",
+    "hint": null
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2457,
+    "title": "IP Time-to-Live Attacks",
+    "page": 8,
+    "group": "Detecting Network Abnormalities",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "08-ip-time-to-live-attacks"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

@@ -1,0 +1,41 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1780,
+    "title": "GPP Passwords",
+    "page": 5,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "05-gpp-passwords"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1633,
+      "question": "Connect to the target and run the Powersploit Get-GPPPassword function. What is the password of the svc-iis user?",
+      "hint": "In order to run powershell scripts, we might have to bypass the execution policy.",
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "bob",
+      "password": "Slavi123",
+      "answer": "abcd@123"
+    },
+    {
+      "n": 2,
+      "id": 1647,
+      "question": "After running the previous attack, connect to DC1 (172.16.18.3) as 'htb-student:HTB_@cademy_stdnt!' and look at the logs in Event Viewer. What is the Access Mask of the generated events?",
+      "hint": "Filter for Event ID 4663.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "0x80"
+    }
+  ]
+}

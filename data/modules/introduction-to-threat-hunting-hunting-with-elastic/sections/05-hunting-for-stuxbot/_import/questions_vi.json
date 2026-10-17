@@ -1,0 +1,17 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập http://[Target IP]:5601 và làm theo trong lúc chúng ta hunting Stuxbot. Ở phần điều tra default.exe, có nhắc tới một file VBS. Nhập tên đầy đủ của file đó, bao gồm cả phần mở rộng, làm câu trả lời.",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Stuxbot đã tải lên và thực thi mimikatz. Cung cấp các tham số của process (phần nằm sau .\\mimikatz.exe, ...) làm câu trả lời.",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Một đoạn code PowerShell đã được nạp vào bộ nhớ để quét/nhắm vào các network share. Tận dụng các PowerShell log có sẵn để xác định đoạn code này bắt nguồn từ công cụ hacking phổ biến nào. Answer format (one word): P____V___",
+    "hint": "Lấy nhiều đoạn code khác nhau từ scriptblock và đưa chúng lên các công cụ tìm kiếm."
+  }
+]

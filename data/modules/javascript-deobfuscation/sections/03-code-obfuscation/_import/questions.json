@@ -1,0 +1,16 @@
+{
+  "module": 41,
+  "section": {
+    "id": 440,
+    "title": "Code Obfuscation",
+    "page": 3,
+    "group": "Obfuscation",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "03-code-obfuscation"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

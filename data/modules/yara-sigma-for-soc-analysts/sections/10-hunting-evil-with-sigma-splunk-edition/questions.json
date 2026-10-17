@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Using sigmac translate the \"C:\\Rules\\sigma\\file_event_win_app_dropping_archive.yml\" Sigma rule into the equivalent Splunk search. Then, navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and submit the Splunk search sigmac provided. Enter the TargetFilename value of the returned event as your answer.",
+      "vi": "Dùng sigmac để chuyển rule Sigma \"C:\\Rules\\sigma\\file_event_win_app_dropping_archive.yml\" thành Splunk search tương đương. Sau đó, mở http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và chạy Splunk search mà sigmac đã cung cấp. Nhập giá trị TargetFilename của event trả về làm đáp án."
+    },
+    "hint": {
+      "en": "You can find sigmac inside the previous section's target, if you don't have it readily available.",
+      "vi": "Bạn có thể tìm thấy sigmac trên máy target của section trước, nếu bạn chưa có sẵn nó."
+    },
+    "answer": "C:\\Users\\waldo\\Downloads\\20221108112718_BloodHound.zip"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Rà soát visualization \"Failed logon attempts [All users]\" của dashboard \"SOC-Alerts\". Chọn một trong các đáp án sau làm câu trả lời: \"Nothing suspicious\", \"Consult with IT Operations\", \"Escalate to a Tier 2/3 analyst\"",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Rà soát visualization \"Failed logon attempts [Disabled user]\" của dashboard \"SOC-Alerts\". Chọn một trong các đáp án sau làm câu trả lời: \"Nothing suspicious\", \"Consult with IT Operations\", \"Escalate to a Tier 2/3 analyst\"",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Rà soát visualization \"Failed logon attempts [Admin users only]\" của dashboard \"SOC-Alerts\". Chọn một trong các đáp án sau làm câu trả lời: \"Nothing suspicious\", \"Consult with IT Operations\", \"Escalate to a Tier 2/3 analyst\"",
+    "hint": null
+  },
+  {
+    "n": 4,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Rà soát visualization \"RDP logon for service account\" của dashboard \"SOC-Alerts\". Chọn một trong các đáp án sau làm câu trả lời: \"Nothing suspicious\", \"Consult with IT Operations\", \"Escalate to a Tier 2/3 analyst\"",
+    "hint": null
+  },
+  {
+    "n": 5,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Rà soát visualization \"User added or removed from a local group\" của dashboard \"SOC-Alerts\". Chọn một trong các đáp án sau làm câu trả lời: \"Nothing suspicious\", \"Consult with IT Operations\", \"Escalate to a Tier 2/3 analyst\"",
+    "hint": null
+  },
+  {
+    "n": 6,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Rà soát visualization \"Admin logon not from PAW\" của dashboard \"SOC-Alerts\". Chọn một trong các đáp án sau làm câu trả lời: \"Nothing suspicious\", \"Consult with IT Operations\", \"Escalate to a Tier 2/3 analyst\"",
+    "hint": null
+  },
+  {
+    "n": 7,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Rà soát visualization \"SSH Logins\" của dashboard \"SOC-Alerts\". Chọn một trong các đáp án sau làm câu trả lời: \"Nothing suspicious\", \"Consult with IT Operations\", \"Escalate to a Tier 2/3 analyst\"",
+    "hint": null
+  }
+]

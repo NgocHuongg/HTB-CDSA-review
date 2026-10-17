@@ -1,0 +1,18 @@
+{
+  "path": "/app/module/148/section/1369",
+  "title": "Containment, Eradication, and Recovery Stage",
+  "questions": [
+    {
+      "n": 1,
+      "text": "True or False: Patching a system is considered a short-term containment.",
+      "extra": [],
+      "answer": "False"
+    },
+    {
+      "n": 2,
+      "text": "During recovery, IOCs are still observed intermittently. Should recovery proceed, or should the case be escalated back to the investigation phase? Answer format: Recovery/Investigation",
+      "extra": [],
+      "answer": "Investigation"
+    }
+  ]
+}

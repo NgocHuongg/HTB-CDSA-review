@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Name the step responsible for writing down every information that could be used and be classified as important. (2 words)",
+      "vi": "Cho biết tên bước chịu trách nhiệm ghi lại mọi thông tin có thể được sử dụng và được xếp vào loại quan trọng. (2 từ)"
+    },
+    "answer": "Incident Logging"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2461,
+    "title": "ICMP Tunneling",
+    "page": 11,
+    "group": "Detecting Network Abnormalities",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "11-icmp-tunneling"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1925,
+      "question": "Enter the decoded value of the base64-encoded string that was mentioned in this section as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "This is a secure key: Key123456789"
+    }
+  ]
+}

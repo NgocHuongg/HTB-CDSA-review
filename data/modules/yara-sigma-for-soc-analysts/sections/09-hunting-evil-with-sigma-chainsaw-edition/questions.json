@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Use Chainsaw with the \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\powershell\\powershell_script\\ posh_ps_win_defender_exclusions_added.yml\" Sigma rule to hunt for suspicious Defender exclusions inside \"C:\\Events\\YARASigma\\lab_events_5.evtx\". Enter the excluded directory as your answer. RDP to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Dùng Chainsaw với Sigma rule \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\powershell\\powershell_script\\ posh_ps_win_defender_exclusions_added.yml\" để hunting các Defender exclusion đáng ngờ bên trong \"C:\\Events\\YARASigma\\lab_events_5.evtx\". Nhập thư mục bị loại trừ (excluded directory) làm đáp án. RDP tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "c:\\document\\virus\\"
+  }
+]

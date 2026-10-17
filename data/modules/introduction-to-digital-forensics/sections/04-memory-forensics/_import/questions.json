@@ -1,0 +1,53 @@
+{
+  "module": 237,
+  "section": {
+    "id": 2610,
+    "title": "Memory Forensics",
+    "page": 4,
+    "group": "Evidence Examination & Analysis",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "04-memory-forensics"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2047,
+      "question": "Examine the file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" with Volatility. Enter the parent process name for @WanaDecryptor (Pid 1060) as your answer. Answer format: _.exe",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "tasksche.exe"
+    },
+    {
+      "n": 2,
+      "id": 2050,
+      "question": "Examine the file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" with Volatility. tasksche.exe (Pid 1792) has multiple file handles open. Enter the name of the suspicious-looking file that ends with .WNCRYT as your answer. Answer format: _.WNCRYT",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "hibsys.WNCRYT"
+    },
+    {
+      "n": 3,
+      "id": 2051,
+      "question": "Examine the file \"/home/htb-student/MemoryDumps/Win7-2515534d.vmem\" with Volatility. Enter the Pid of the process that loaded zlib1.dll as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "3012"
+    }
+  ]
+}

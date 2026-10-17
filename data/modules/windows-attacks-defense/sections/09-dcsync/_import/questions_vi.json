@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Kết nối tới target và thực hiện một cuộc tấn công DCSync với tư cách user rocky (password:Slavi123). NTLM hash của user Administrator là gì?",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Sau khi thực hiện cuộc tấn công DCSync, kết nối tới DC1 với tư cách 'htb-student:HTB_@cademy_stdnt!' và xem các log trong Event Viewer. Task Category của các event được sinh ra bởi cuộc tấn công là gì?",
+    "hint": null
+  }
+]

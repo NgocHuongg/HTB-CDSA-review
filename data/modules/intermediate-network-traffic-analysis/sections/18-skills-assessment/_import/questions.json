@@ -1,0 +1,41 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2509,
+    "title": "Skills Assessment",
+    "page": 18,
+    "group": "Skills Assessment",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "18-skills-assessment"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1975,
+      "question": "Inspect the funky_dns.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: \"DNS Flooding\", \"DNS Amplification\", \"DNS Tunneling\"",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "DNS Tunneling"
+    },
+    {
+      "n": 2,
+      "id": 1976,
+      "question": "Inspect the funky_icmp.pcap file, part of this module's resources, and enter the related attack as your answer. Answer format: \"ICMP Flooding\", \"ICMP Tunneling\", \"ICMP SMURF Attack\"",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "ICMP Tunneling"
+    }
+  ]
+}

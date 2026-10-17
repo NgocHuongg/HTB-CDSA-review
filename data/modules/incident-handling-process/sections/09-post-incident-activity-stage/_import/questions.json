@@ -1,0 +1,12 @@
+{
+  "path": "/app/module/148/section/1370",
+  "title": "Post-Incident Activity Stage",
+  "questions": [
+    {
+      "n": 1,
+      "text": "True or False: We should train junior team members as part of these post-incident activities.",
+      "extra": [],
+      "answer": "True"
+    }
+  ]
+}

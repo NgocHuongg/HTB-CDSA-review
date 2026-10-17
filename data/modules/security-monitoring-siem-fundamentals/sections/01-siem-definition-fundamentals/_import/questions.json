@@ -1,0 +1,16 @@
+{
+  "module": 211,
+  "section": {
+    "id": 2250,
+    "title": "SIEM Definition & Fundamentals",
+    "page": 1,
+    "group": "SIEM & SOC Fundamentals",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "01-siem-definition-fundamentals"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

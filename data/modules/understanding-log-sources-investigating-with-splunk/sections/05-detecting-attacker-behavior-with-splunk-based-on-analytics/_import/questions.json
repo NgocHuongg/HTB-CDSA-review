@@ -1,0 +1,29 @@
+{
+  "module": 218,
+  "section": {
+    "id": 2390,
+    "title": "Detecting Attacker Behavior With Splunk Based On Analytics",
+    "page": 5,
+    "group": "Investigating With Splunk",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "05-detecting-attacker-behavior-with-splunk-based-on-analytics"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1816,
+      "question": "Navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and find through an analytics-driven SPL search against all data the source process images that are creating an unusually high number of threads in other processes. Enter the outlier process name as your answer where the number of injected threads is greater than two standard deviations above the average. Answer format: _.exe",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "randomfile.exe"
+    }
+  ]
+}

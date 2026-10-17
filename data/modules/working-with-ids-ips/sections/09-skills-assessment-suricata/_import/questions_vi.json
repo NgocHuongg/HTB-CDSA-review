@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Có một file tên pipekatposhc2.pcap trong thư mục /home/htb-student/pcaps, chứa lưu lượng mạng liên quan tới việc thực thi WMI. Hãy thêm một content keyword nữa ngay sau phần msg của rule có sid 2024233 trong file local.rules để alert được kích hoạt, rồi nhập payload đã chỉ định làm câu trả lời. Answer format: C____e",
+    "hint": null
+  }
+]

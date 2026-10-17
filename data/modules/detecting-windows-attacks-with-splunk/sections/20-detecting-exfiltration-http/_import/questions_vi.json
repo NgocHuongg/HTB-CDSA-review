@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng index \"cobaltstrike_exfiltration_https\" và sourcetype \"bro:conn:json\". Tạo một Splunk search để nhận diện exfiltration qua HTTPS. Nhập IP đích tìm được làm đáp án.",
+    "hint": null
+  }
+]

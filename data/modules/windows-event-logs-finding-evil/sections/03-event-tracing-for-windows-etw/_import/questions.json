@@ -1,0 +1,16 @@
+{
+  "module": 216,
+  "section": {
+    "id": 2302,
+    "title": "Event Tracing for Windows (ETW)",
+    "page": 3,
+    "group": "Additional Telemetry Sources",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "03-event-tracing-for-windows-etw"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

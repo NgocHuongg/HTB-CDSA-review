@@ -1,0 +1,12 @@
+{
+  "order": 13,
+  "htb_id": 237,
+  "title": {
+    "en": "Introduction to Digital Forensics",
+    "vi": "Introduction to Digital Forensics"
+  },
+  "description": {
+    "en": "Dive into Windows digital forensics with Hack The Box Academy's \"Introduction to Digital Forensics\" module. Gain mastery over core forensic concepts and tools such as FTK Imager, KAPE, Velociraptor, and Volatility. Dive deep into memory forensics, disk image analysis, and rapid triaging procedures. Learn to construct timelines from MFT, USN Journals, and Windows event logs while getting hands-on with key artifacts like MFT, USN Journal, Registry Hives, Prefetch Files, ShimCache, Amcache, BAM, and SRUM data.",
+    "vi": "Đi sâu vào Windows digital forensics với module \"Introduction to Digital Forensics\" của Hack The Box Academy. Nắm vững các khái niệm và công cụ forensic cốt lõi như FTK Imager, KAPE, Velociraptor và Volatility. Đi sâu vào memory forensics, phân tích disk image và các quy trình rapid triage (phân loại nhanh). Học cách xây dựng timeline từ MFT, USN Journal và Windows event log, đồng thời thực hành trực tiếp với các artifact quan trọng như MFT, USN Journal, Registry Hives, Prefetch Files, ShimCache, Amcache, BAM và dữ liệu SRUM."
+  }
+}

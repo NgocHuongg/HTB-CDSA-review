@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Perform string analysis on the \"DirectX.dll\" sample that resides in the  \"/home/htb-student/Samples/YARASigma\" directory of this section's target. Then, study the \"apt_apt17_mal_sep17_1.yar\" YARA rule that resides in the \"/home/htb-student/Rules/yara\" directory and replace \"X.dll\" with the correct DLL name to ensure the rule will identify \"DirectX.dll\". Enter the correct DLL name as your answer. Answer format: _.dll SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Thực hiện phân tích chuỗi (string analysis) trên sample \"DirectX.dll\" nằm trong thư mục  \"/home/htb-student/Samples/YARASigma\" trên target của section này. Sau đó, nghiên cứu rule YARA \"apt_apt17_mal_sep17_1.yar\" nằm trong thư mục \"/home/htb-student/Rules/yara\" và thay \"X.dll\" bằng tên DLL đúng để đảm bảo rule sẽ nhận diện được \"DirectX.dll\". Nhập tên DLL đúng làm câu trả lời. Answer format: _.dll SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "TSMSISrv.dll"
+  }
+]

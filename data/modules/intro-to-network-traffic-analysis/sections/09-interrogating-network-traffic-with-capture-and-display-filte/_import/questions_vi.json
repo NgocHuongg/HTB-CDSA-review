@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Client và server dùng số port nào trong TCP three-way handshake đầy đủ đầu tiên? (số nhỏ trước rồi đến số lớn)",
+    "hint": "Hãy tìm traffic tcp hoặc traffic web. Bạn sẽ thấy client dùng một số port lớn và server dùng well-known port của HTTP."
+  },
+  {
+    "n": 2,
+    "question": "Dựa trên traffic thấy được trong file pcap, ai là DNS server trong network segment này? (địa chỉ IP)",
+    "hint": "Xem traffic có source port là 53."
+  }
+]

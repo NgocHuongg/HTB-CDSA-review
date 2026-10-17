@@ -1,0 +1,101 @@
+{
+  "module": 81,
+  "section": {
+    "id": 774,
+    "title": "Tcpdump Fundamentals",
+    "page": 6,
+    "group": "Tcpdump",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "06-tcpdump-fundamentals"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 453,
+      "question": "Utilizing the output shown in question-1.png, who is the server in this communication? (IP Address)",
+      "hint": "When communication is initiated over TCP, who starts the handshake?",
+      "file": "https://cdn.services-k8s.prod.aws.htb.systems/content/questions/file/1494467c-b36b-4602-8b40-b06d855f17fb.zip",
+      "has_file": true,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "174.143.213.184"
+    },
+    {
+      "n": 2,
+      "id": 454,
+      "question": "Were absolute or relative sequence numbers used during the capture? (see question-1.zip to answer)",
+      "hint": "Are absolute sequence numbers easily understandable?",
+      "file": "https://cdn.services-k8s.prod.aws.htb.systems/content/questions/file/12853886-1245-4304-94e1-68d6546345c8.zip",
+      "has_file": true,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "relative"
+    },
+    {
+      "n": 3,
+      "id": 455,
+      "question": "If I wish to start a capture without hostname resolution, verbose output, showing contents in ASCII and hex, and grab the first 100 packets; what are the switches used? please answer in the order the switches are asked for in the question.",
+      "hint": "When combining two or more switches, place them behind one `-` instead of each behind one. (-abc instead of -a -b -c)",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "-nvXc 100"
+    },
+    {
+      "n": 4,
+      "id": 457,
+      "question": "Given the capture file at /tmp/capture.pcap, what tcpdump command will enable you to read from the capture and show the output contents in Hex and ASCII? (Please use best practices when using switches)",
+      "hint": "what switch allows us to see contents in hex and ascii?",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "sudo tcpdump -Xr /tmp/capture.pcap"
+    },
+    {
+      "n": 5,
+      "id": 594,
+      "question": "What TCPDump switch will increase the verbosity of our output? ( Include the - with the proper switch )",
+      "hint": "Verbosity.. Very Verbose Views..",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "-v"
+    },
+    {
+      "n": 6,
+      "id": 595,
+      "question": "What built in terminal help reference can tell us more about TCPDump?",
+      "hint": "these pages are super helpful MAN. They exist in linux for just about everything..",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "man"
+    },
+    {
+      "n": 7,
+      "id": 596,
+      "question": "What TCPDump switch will let me write my output to a file?",
+      "hint": "-r lets me read, i want to WRITE to a file..",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "-w"
+    }
+  ]
+}

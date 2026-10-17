@@ -1,0 +1,16 @@
+{
+  "module": 234,
+  "section": {
+    "id": 2575,
+    "title": "Hunting Evil with YARA (Web Edition)",
+    "page": 6,
+    "group": "Leveraging YARA",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "06-hunting-evil-with-yara-web-edition"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

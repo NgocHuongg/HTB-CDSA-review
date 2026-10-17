@@ -1,0 +1,53 @@
+{
+  "module": 81,
+  "section": {
+    "id": 962,
+    "title": "Guided Lab: Traffic Analysis Workflow",
+    "page": 14,
+    "group": "Wireshark",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "14-guided-lab-traffic-analysis-workflow"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 621,
+      "question": "What was the name of the new user created on mrb3n's host?",
+      "hint": "It's in the pcap data. Look at the TCP conversation.",
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "hacker"
+    },
+    {
+      "n": 2,
+      "id": 622,
+      "question": "How many total packets were there in the Guided-analysis PCAP?",
+      "hint": "Total count is shown in the Wireshark GUI.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "44"
+    },
+    {
+      "n": 3,
+      "id": 623,
+      "question": "What was the suspicious port that was being used?",
+      "hint": "Meterpreter loves this port.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "4444"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Use the \"kerberos_bruteforce\" index and the \"bro:kerberos:json\" sourcetype. Was the \"accrescent/windomain.local\" account part of the Kerberos user enumeration attack? Answer format: Yes, No",
+      "vi": "Dùng index \"kerberos_bruteforce\" và sourcetype \"bro:kerberos:json\". Tài khoản \"accrescent/windomain.local\" có nằm trong cuộc tấn công liệt kê người dùng (user enumeration) Kerberos không? Answer format: Yes, No"
+    },
+    "answer": "Yes"
+  }
+]

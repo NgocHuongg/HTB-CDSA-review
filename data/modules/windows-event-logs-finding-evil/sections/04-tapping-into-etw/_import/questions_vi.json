@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Thực hiện lại việc chạy Seatbelt và SilkETW như mô tả trong section này và nhập ManagedInteropMethodName bắt đầu bằng \"G\" và kết thúc bằng \"ion\" làm câu trả lời. \"c:\\Tools\\SilkETW_SilkService_v8\\v8\" và \"C:\\Tools\\GhostPack Compiled Binaries\" trên máy target được spawn chứa mọi thứ bạn cần.",
+    "hint": null
+  }
+]

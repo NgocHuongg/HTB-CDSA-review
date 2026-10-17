@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng search Splunk được cung cấp ở cuối section này trên toàn bộ dữ liệu đã ingest (All time) để tìm tất cả các image liên quan (field Image). Nhập tên image còn thiếu trong danh sách sau làm câu trả lời. Rubeus.exe, _.exe",
+    "hint": null
+  }
+]

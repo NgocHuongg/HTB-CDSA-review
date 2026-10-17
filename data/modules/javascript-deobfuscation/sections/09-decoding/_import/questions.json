@@ -1,0 +1,29 @@
+{
+  "module": 41,
+  "section": {
+    "id": 445,
+    "title": "Decoding",
+    "page": 9,
+    "group": "Deobfuscation Examples",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "09-decoding"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 99,
+      "question": "Using what you learned in this section, determine the type of encoding used in the string you got at previous exercise, and decode it. To get the flag, you can send a 'POST' request to 'serial.php', and set the data as \"serial=YOUR_DECODED_OUTPUT\".",
+      "hint": "Use on the decoding commands you learned in this section!",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "HTB{ju57_4n07h3r_r4nd0m_53r14l}"
+    }
+  ]
+}

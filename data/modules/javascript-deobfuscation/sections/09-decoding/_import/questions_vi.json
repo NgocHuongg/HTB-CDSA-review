@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Vận dụng những gì đã học trong phần này, hãy xác định loại encoding được dùng trong chuỗi bạn nhận được ở bài tập trước và decode nó. Để lấy flag, bạn có thể gửi một request 'POST' tới 'serial.php' và đặt dữ liệu là \"serial=YOUR_DECODED_OUTPUT\".",
+    "hint": "Hãy dùng các lệnh decode mà bạn đã học trong phần này!"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What is the default operational mode method used by FTP?",
+      "vi": "Phương thức hoạt động mặc định mà FTP sử dụng là gì?"
+    },
+    "hint": {
+      "en": "it is engaged in the process, not just sitting idle..",
+      "vi": "nó tham gia vào quá trình, chứ không chỉ ngồi chờ không làm gì.."
+    },
+    "answer": "active"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "FTP utilizes what two ports for command and data transfer? (separate the two numbers with a space)",
+      "vi": "FTP sử dụng hai port nào để gửi lệnh và truyền dữ liệu? (phân tách hai số bằng một dấu cách)"
+    },
+    "hint": {
+      "en": "one port is used to send commands to the server, the other is used to send data to the host.",
+      "vi": "một port dùng để gửi lệnh tới server, port còn lại dùng để gửi dữ liệu tới host."
+    },
+    "answer": "20 21"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Does SMB utilize TCP or UDP as its transport layer protocol?",
+      "vi": "SMB sử dụng TCP hay UDP làm protocol tầng transport?"
+    },
+    "hint": {
+      "en": "SMB likes stable connections",
+      "vi": "SMB thích kết nối ổn định"
+    },
+    "answer": "TCP"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "SMB has moved to using what TCP port?",
+      "vi": "SMB đã chuyển sang dùng TCP port nào?"
+    },
+    "hint": {
+      "en": "almost 500",
+      "vi": "gần 500"
+    },
+    "answer": "445"
+  },
+  {
+    "id": "q5",
+    "question": {
+      "en": "Hypertext Transfer Protocol uses what well known TCP port number?",
+      "vi": "Hypertext Transfer Protocol sử dụng TCP port well-known nào?"
+    },
+    "hint": {
+      "en": "double digit number",
+      "vi": "số có hai chữ số"
+    },
+    "answer": "80"
+  },
+  {
+    "id": "q6",
+    "question": {
+      "en": "What HTTP method is used to request information and content from the webserver?",
+      "vi": "HTTP method nào được dùng để yêu cầu thông tin và nội dung từ webserver?"
+    },
+    "hint": {
+      "en": "you are trying to GET something from the server.",
+      "vi": "bạn đang cố GET (lấy) thứ gì đó từ server."
+    },
+    "answer": "GET"
+  },
+  {
+    "id": "q7",
+    "question": {
+      "en": "What web based protocol uses TLS as a security measure?",
+      "vi": "Protocol web nào sử dụng TLS làm biện pháp bảo mật?"
+    },
+    "hint": {
+      "en": "secure HTTP",
+      "vi": "HTTP bảo mật (secure HTTP)"
+    },
+    "answer": "HTTPS"
+  },
+  {
+    "id": "q8",
+    "question": {
+      "en": "True or False: when utilizing HTTPS, all data sent across the session will appear as TLS Application data?",
+      "vi": "True or False (Đúng hay Sai): khi dùng HTTPS, mọi dữ liệu được gửi trong session sẽ xuất hiện dưới dạng TLS Application data?"
+    },
+    "hint": {
+      "en": "we are encapsulating the data so it is hidden from view.",
+      "vi": "ta đang đóng gói (encapsulate) dữ liệu nên nó bị ẩn khỏi tầm nhìn."
+    },
+    "answer": "True"
+  }
+]

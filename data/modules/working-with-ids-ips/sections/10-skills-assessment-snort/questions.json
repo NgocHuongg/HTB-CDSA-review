@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "There is a file named wannamine.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to the Overpass-the-hash technique which involves Kerberos encryption type downgrading. Replace XX with the appropriate value in the last content keyword of the rule with sid XXXXXXX within the local.rules file so that an alert is triggered as your answer. SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Có một file tên wannamine.pcap trong thư mục /home/htb-student/pcaps, chứa lưu lượng mạng liên quan tới kỹ thuật Overpass-the-hash, vốn liên quan tới việc hạ cấp (downgrade) kiểu mã hoá Kerberos. Hãy thay XX bằng giá trị phù hợp trong content keyword cuối cùng của rule có sid XXXXXXX trong file local.rules để alert được kích hoạt, và nhập giá trị đó làm câu trả lời. SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "hint": {
+      "en": "Byte value (XX)",
+      "vi": "Giá trị byte (XX)"
+    },
+    "answer": "17"
+  }
+]

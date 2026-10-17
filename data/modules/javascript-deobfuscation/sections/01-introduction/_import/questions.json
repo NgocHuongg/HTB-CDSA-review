@@ -1,0 +1,16 @@
+{
+  "module": 41,
+  "section": {
+    "id": 449,
+    "title": "Introduction",
+    "page": 1,
+    "group": "Introduction",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "01-introduction"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

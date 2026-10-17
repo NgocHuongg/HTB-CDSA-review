@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Navigate to http://[Target IP]:5601, click on the side navigation toggle, and click on \"Dashboard\". Browse the visualization we created or the \"RDP logon for service account\" visualization, if it is available, and enter the IP of the machine that initiated the successful RDP logon using service account credentials as your answer.",
+      "vi": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Xem visualization mà ta đã tạo hoặc visualization \"RDP logon for service account\" (nếu có), và nhập IP của máy đã khởi tạo lần đăng nhập RDP thành công bằng thông tin đăng nhập của service account làm câu trả lời."
+    },
+    "answer": "192.168.28.130"
+  }
+]

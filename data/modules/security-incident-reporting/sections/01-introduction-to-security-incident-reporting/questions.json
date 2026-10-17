@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Name the type of an incident involving an attempt of infiltration through an email.",
+      "vi": "Cho biết tên loại sự cố liên quan đến một nỗ lực xâm nhập thông qua email."
+    },
+    "answer": "Phishing"
+  }
+]

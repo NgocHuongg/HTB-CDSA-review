@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Which plugin tab can provide us with a way to view conversation metadata and even protocol breakdowns for the entire PCAP file?",
+      "vi": "Tab plugin nào có thể cung cấp cho ta cách xem metadata của các conversation và thậm chí phân tách theo giao thức cho toàn bộ file PCAP?"
+    },
+    "hint": {
+      "en": "just the word. We are looking for Stats right?",
+      "vi": "chỉ một từ thôi. Ta đang tìm Stats đúng không?"
+    },
+    "answer": "statistics"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "What plugin tab will allow me to accomplish tasks such as applying filters, following streams, and viewing expert info?",
+      "vi": "Tab plugin nào cho phép tôi thực hiện các tác vụ như áp dụng filter, follow stream và xem expert info?"
+    },
+    "hint": {
+      "en": "not statistics. we are performing analysis..",
+      "vi": "không phải statistics. ta đang thực hiện phân tích.."
+    },
+    "answer": "Analyze"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "What stream oriented Transport protocol enables us to follow and rebuild conversations and the included data?",
+      "vi": "Giao thức Transport hướng luồng (stream oriented) nào cho phép ta follow và tái dựng các conversation cùng dữ liệu đi kèm?"
+    },
+    "hint": {
+      "en": "not UDP",
+      "vi": "không phải UDP"
+    },
+    "answer": "TCP"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "True or False: Wireshark can extract files from HTTP traffic.",
+      "vi": "True or False: Wireshark có thể trích xuất file từ lưu lượng HTTP."
+    },
+    "hint": {
+      "en": "http uses TCP for transport, which means each byte is accounted for..",
+      "vi": "http dùng TCP để truyền tải, nghĩa là từng byte đều được kiểm soát đầy đủ.."
+    },
+    "answer": "True"
+  },
+  {
+    "id": "q5",
+    "question": {
+      "en": "True or False: The ftp-data filter will show us any data sent over TCP port 21.",
+      "vi": "True or False: Filter ftp-data sẽ hiển thị cho ta mọi dữ liệu được gửi qua cổng TCP 21."
+    },
+    "hint": {
+      "en": "ftp uses tcp port 21 for command control of FTP. What other port does FTP use?",
+      "vi": "ftp dùng cổng tcp 21 cho việc điều khiển lệnh (command control) của FTP. FTP còn dùng cổng nào khác?"
+    },
+    "answer": "False"
+  }
+]

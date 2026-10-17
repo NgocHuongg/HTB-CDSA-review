@@ -1,0 +1,41 @@
+{
+  "module": 237,
+  "section": {
+    "id": 2613,
+    "title": "Practical Digital Forensics Scenario",
+    "page": 7,
+    "group": "Evidence Examination & Analysis",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "07-practical-digital-forensics-scenario"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2049,
+      "question": "Extract and scrutinize the memory content of the suspicious PowerShell process which corresponds to PID 6744. Determine which tool from the PowerSploit repository (accessible at https://github.com/PowerShellMafia/PowerSploit) has been utilized within the process, and enter its name as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "johndoe",
+      "password": "password",
+      "answer": "PowerView"
+    },
+    {
+      "n": 2,
+      "id": 2056,
+      "question": "Investigate the USN Journal located at \"C:\\Users\\johndoe\\Desktop\\kapefiles\\ntfs\\%5C%5C.%5CC%3A\\$Extend\\$UsnJrnl%3A$J\" to determine how \"advanced_ip_scanner.exe\" was introduced to the compromised system. Enter the name of the associated process as your answer. Answer format: _.exe",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "johndoe",
+      "password": "password",
+      "answer": "RUNDLL32.exe"
+    }
+  ]
+}

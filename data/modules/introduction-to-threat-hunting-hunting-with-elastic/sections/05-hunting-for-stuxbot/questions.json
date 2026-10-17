@@ -1,0 +1,30 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Navigate to http://[Target IP]:5601 and follow along as we hunt for Stuxbot. In the part where default.exe is under investigation, a VBS file is mentioned. Enter its full name as your answer, including the extension.",
+      "vi": "Truy cập http://[Target IP]:5601 và làm theo trong lúc chúng ta hunting Stuxbot. Ở phần điều tra default.exe, có nhắc tới một file VBS. Nhập tên đầy đủ của file đó, bao gồm cả phần mở rộng, làm câu trả lời."
+    },
+    "answer": "XceGuhkzaTrOy.vbs"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Stuxbot uploaded and executed mimikatz. Provide the process arguments (what is after .\\mimikatz.exe, ...) as your answer.",
+      "vi": "Stuxbot đã tải lên và thực thi mimikatz. Cung cấp các tham số của process (phần nằm sau .\\mimikatz.exe, ...) làm câu trả lời."
+    },
+    "answer": "lsadump::dcsync /domain:eagle.local /all /csv, exit"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Some PowerShell code has been loaded into memory that scans/targets network shares. Leverage the available PowerShell logs to identify from which popular hacking tool this code derives. Answer format (one word): P____V___",
+      "vi": "Một đoạn code PowerShell đã được nạp vào bộ nhớ để quét/nhắm vào các network share. Tận dụng các PowerShell log có sẵn để xác định đoạn code này bắt nguồn từ công cụ hacking phổ biến nào. Answer format (one word): P____V___"
+    },
+    "hint": {
+      "en": "Take various pieces of code from the scriptblock and submit it to search engines.",
+      "vi": "Lấy nhiều đoạn code khác nhau từ scriptblock và đưa chúng lên các công cụ tìm kiếm."
+    },
+    "answer": "PowerView"
+  }
+]

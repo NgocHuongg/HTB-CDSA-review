@@ -1,0 +1,17 @@
+[
+  {
+    "n": 1,
+    "question": "Tái hiện cuộc tấn công DLL hijacking được mô tả trong section này và đưa ra SHA256 hash của WININET.dll độc hại làm câu trả lời. \"C:\\Tools\\Sysmon\" và \"C:\\Tools\\Reflective DLLInjection\" trên máy target được spawn chứa mọi thứ bạn cần.",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Tái hiện cuộc tấn công Unmanaged PowerShell được mô tả trong section này và đưa ra SHA256 hash của clrjit.dll mà spoolsv.exe sẽ nạp làm câu trả lời. \"C:\\Tools\\Sysmon\" và \"C:\\Tools\\PSInject\" trên máy target được spawn chứa mọi thứ bạn cần.",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Tái hiện cuộc tấn công Credential Dumping được mô tả trong section này và đưa ra NTLM hash của người dùng Administrator làm câu trả lời. \"C:\\Tools\\Sysmon\" và \"C:\\Tools\\Mimikatz\" trên máy target được spawn chứa mọi thứ bạn cần.",
+    "hint": null
+  }
+]

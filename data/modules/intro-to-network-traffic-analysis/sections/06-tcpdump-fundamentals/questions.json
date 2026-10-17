@@ -1,0 +1,86 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Utilizing the output shown in question-1.png, who is the server in this communication? (IP Address) File: [1494467c-b36b-4602-8b40-b06d855f17fb.zip](https://cdn.services-k8s.prod.aws.htb.systems/content/questions/file/1494467c-b36b-4602-8b40-b06d855f17fb.zip)",
+      "vi": "Dựa vào output được hiển thị trong question-1.png, ai là server trong cuộc giao tiếp này? (địa chỉ IP) File: [1494467c-b36b-4602-8b40-b06d855f17fb.zip](https://cdn.services-k8s.prod.aws.htb.systems/content/questions/file/1494467c-b36b-4602-8b40-b06d855f17fb.zip)"
+    },
+    "hint": {
+      "en": "When communication is initiated over TCP, who starts the handshake?",
+      "vi": "Khi giao tiếp được khởi tạo qua TCP, ai là bên bắt đầu handshake?"
+    },
+    "answer": "174.143.213.184"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Were absolute or relative sequence numbers used during the capture? (see question-1.zip to answer) File: [12853886-1245-4304-94e1-68d6546345c8.zip](https://cdn.services-k8s.prod.aws.htb.systems/content/questions/file/12853886-1245-4304-94e1-68d6546345c8.zip)",
+      "vi": "Sequence number tuyệt đối (absolute) hay tương đối (relative) đã được dùng trong bản capture? (xem question-1.zip để trả lời) File: [12853886-1245-4304-94e1-68d6546345c8.zip](https://cdn.services-k8s.prod.aws.htb.systems/content/questions/file/12853886-1245-4304-94e1-68d6546345c8.zip)"
+    },
+    "hint": {
+      "en": "Are absolute sequence numbers easily understandable?",
+      "vi": "Sequence number tuyệt đối có dễ hiểu không?"
+    },
+    "answer": "relative"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "If I wish to start a capture without hostname resolution, verbose output, showing contents in ASCII and hex, and grab the first 100 packets; what are the switches used? please answer in the order the switches are asked for in the question.",
+      "vi": "Nếu tôi muốn bắt đầu capture mà không phân giải hostname, có output chi tiết (verbose), hiển thị nội dung ở dạng ASCII và hex, và lấy 100 packet đầu tiên; thì cần dùng những switch nào? Hãy trả lời theo đúng thứ tự các switch được hỏi trong câu hỏi."
+    },
+    "hint": {
+      "en": "When combining two or more switches, place them behind one `-` instead of each behind one. (-abc instead of -a -b -c)",
+      "vi": "Khi kết hợp hai switch trở lên, hãy đặt chúng sau một dấu `-` duy nhất thay vì mỗi switch một dấu. (-abc thay vì -a -b -c)"
+    },
+    "answer": "-nvXc 100"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "Given the capture file at /tmp/capture.pcap, what tcpdump command will enable you to read from the capture and show the output contents in Hex and ASCII? (Please use best practices when using switches)",
+      "vi": "Với file capture tại /tmp/capture.pcap, lệnh tcpdump nào cho phép bạn đọc bản capture và hiển thị nội dung output ở dạng Hex và ASCII? (Hãy dùng switch theo best practice)"
+    },
+    "hint": {
+      "en": "what switch allows us to see contents in hex and ascii?",
+      "vi": "switch nào cho phép ta xem nội dung ở dạng hex và ascii?"
+    },
+    "answer": "sudo tcpdump -Xr /tmp/capture.pcap"
+  },
+  {
+    "id": "q5",
+    "question": {
+      "en": "What TCPDump switch will increase the verbosity of our output? ( Include the - with the proper switch )",
+      "vi": "Switch nào của TCPDump sẽ tăng mức độ chi tiết (verbosity) của output? ( Bao gồm cả dấu - cùng với switch tương ứng )"
+    },
+    "hint": {
+      "en": "Verbosity.. Very Verbose Views..",
+      "vi": "Verbosity.. Very Verbose Views.. (hiển thị rất chi tiết)"
+    },
+    "answer": "-v"
+  },
+  {
+    "id": "q6",
+    "question": {
+      "en": "What built in terminal help reference can tell us more about TCPDump?",
+      "vi": "Tài liệu trợ giúp tích hợp sẵn nào trong terminal có thể cho ta biết thêm về TCPDump?"
+    },
+    "hint": {
+      "en": "these pages are super helpful MAN. They exist in linux for just about everything..",
+      "vi": "những trang này cực kỳ hữu ích đấy MAN (bạn). Trên linux, gần như thứ gì cũng có chúng.."
+    },
+    "answer": "man"
+  },
+  {
+    "id": "q7",
+    "question": {
+      "en": "What TCPDump switch will let me write my output to a file?",
+      "vi": "Switch nào của TCPDump cho phép ghi output vào một file?"
+    },
+    "hint": {
+      "en": "-r lets me read, i want to WRITE to a file..",
+      "vi": "-r giúp tôi đọc, còn tôi muốn GHI (WRITE) vào file.."
+    },
+    "answer": "-w"
+  }
+]

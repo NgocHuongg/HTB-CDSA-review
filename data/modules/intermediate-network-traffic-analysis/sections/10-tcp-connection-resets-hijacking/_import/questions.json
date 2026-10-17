@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2460,
+    "title": "TCP Connection Resets & Hijacking",
+    "page": 10,
+    "group": "Detecting Network Abnormalities",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "10-tcp-connection-resets-hijacking"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1924,
+      "question": "Inspect the TCP-hijacking.pcap file, part of this module's resources, and enter the username that has been used through the telnet protocol as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "administrator"
+    }
+  ]
+}

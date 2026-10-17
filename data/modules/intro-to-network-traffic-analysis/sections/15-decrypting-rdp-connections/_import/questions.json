@@ -1,0 +1,29 @@
+{
+  "module": 81,
+  "section": {
+    "id": 964,
+    "title": "Decrypting RDP connections",
+    "page": 15,
+    "group": "Wireshark",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "15-decrypting-rdp-connections"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 643,
+      "question": "What user account was used to initiate the RDP connection?",
+      "hint": "His name can be seen when you look for the cookie in ASCII.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "bucky"
+    }
+  ]
+}

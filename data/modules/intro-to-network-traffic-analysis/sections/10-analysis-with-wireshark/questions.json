@@ -1,0 +1,70 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "True or False: Wireshark can run on both Windows and Linux.",
+      "vi": "True or False: Wireshark có thể chạy trên cả Windows lẫn Linux."
+    },
+    "hint": {
+      "en": "Wireshark is FOSS, and capable of running on many different Operating Systems",
+      "vi": "Wireshark là FOSS (phần mềm tự do nguồn mở) và có thể chạy trên nhiều hệ điều hành khác nhau"
+    },
+    "answer": "True"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Which Pane allows a user to see a summary of each packet grabbed during the capture?",
+      "vi": "Pane nào cho phép người dùng xem tóm tắt của từng packet thu được trong quá trình capture?"
+    },
+    "hint": {
+      "en": "There are three panes; Packet l__ , Packet b___ , and Packet d______.",
+      "vi": "Có ba pane: Packet l__ , Packet b___ , và Packet d______."
+    },
+    "answer": "Packet List"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Which pane provides you insight into the traffic you captured and displays it in both ASCII and Hex?",
+      "vi": "Pane nào giúp bạn xem chi tiết traffic đã capture và hiển thị nó ở cả dạng ASCII lẫn Hex?"
+    },
+    "answer": "Packet Bytes"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "What switch is used with TShark to list possible interfaces to capture on?",
+      "vi": "Switch nào được dùng với TShark để liệt kê các interface có thể capture?"
+    },
+    "hint": {
+      "en": "Similar to TCPDump",
+      "vi": "Tương tự TCPDump"
+    },
+    "answer": "-d"
+  },
+  {
+    "id": "q5",
+    "question": {
+      "en": "What switch allows us to apply filters in TShark?",
+      "vi": "Switch nào cho phép ta áp dụng filter trong TShark?"
+    },
+    "hint": {
+      "en": "this is a unique Filter switch for TShark.",
+      "vi": "đây là một switch Filter riêng của TShark."
+    },
+    "answer": "-f"
+  },
+  {
+    "id": "q6",
+    "question": {
+      "en": "Is a capture filter applied before the capture starts or after? (answer before or after)",
+      "vi": "Capture filter được áp dụng trước khi bắt đầu capture hay sau đó? (trả lời before hoặc after)"
+    },
+    "hint": {
+      "en": "its to capture, not display",
+      "vi": "nó dùng để capture, không phải để hiển thị"
+    },
+    "answer": "Before"
+  }
+]

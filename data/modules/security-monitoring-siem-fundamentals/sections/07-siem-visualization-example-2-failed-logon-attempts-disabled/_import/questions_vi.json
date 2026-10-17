@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Tạo một visualization mới hoặc chỉnh sửa visualization \"Failed logon attempts [Disabled user]\" (nếu có) để nó bao gồm dữ liệu đăng nhập thất bại liên quan tới các user bị vô hiệu hoá, kèm cả logon type. Logon type trong document trả về là gì?",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Tạo một visualization mới hoặc chỉnh sửa visualization \"Failed logon attempts [Admin users only]\" (nếu có) để nó bao gồm dữ liệu đăng nhập thất bại mà field username chứa từ khoá \"admin\" ở bất kỳ vị trí nào. Bạn cần chỉ định gì sau user.name: trong truy vấn KQL?",
+    "hint": null
+  }
+]

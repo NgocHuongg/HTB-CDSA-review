@@ -1,0 +1,89 @@
+{
+  "module": 216,
+  "section": {
+    "id": 2303,
+    "title": "Skills Assessment",
+    "page": 6,
+    "group": "Skills Assessment",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "06-skills-assessment"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1783,
+      "question": "By examining the logs located in the \"C:\\Logs\\DLLHijack\" directory, determine the process responsible for executing a DLL hijacking attack. Enter the process name as your answer. Answer format: _.exe",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "Dism.exe"
+    },
+    {
+      "n": 2,
+      "id": 1784,
+      "question": "By examining the logs located in the \"C:\\Logs\\PowershellExec\" directory, determine the process that executed unmanaged PowerShell code. Enter the process name as your answer. Answer format: _.exe",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "Calculator.exe"
+    },
+    {
+      "n": 3,
+      "id": 1785,
+      "question": "By examining the logs located in the \"C:\\Logs\\PowershellExec\" directory, determine the process that injected into the process that executed unmanaged PowerShell code. Enter the process name as your answer. Answer format: _.exe",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "rundll32.exe"
+    },
+    {
+      "n": 4,
+      "id": 1786,
+      "question": "By examining the logs located in the \"C:\\Logs\\Dump\" directory, determine the process that performed an LSASS dump. Enter the process name as your answer. Answer format: _.exe",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "ProcessHacker.exe"
+    },
+    {
+      "n": 5,
+      "id": 1787,
+      "question": "By examining the logs located in the \"C:\\Logs\\Dump\" directory, determine if an ill-intended login took place after the LSASS dump. Answer format: Yes or No",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "No"
+    },
+    {
+      "n": 6,
+      "id": 1788,
+      "question": "By examining the logs located in the \"C:\\Logs\\StrangePPID\" directory, determine a process that was used to temporarily execute code based on a strange parent-child relationship. Enter the process name as your answer. Answer format: _.exe",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "Administrator",
+      "password": "HTB_@cad3my_lab_W1n10_r00t!@0",
+      "answer": "WerFault.exe"
+    }
+  ]
+}

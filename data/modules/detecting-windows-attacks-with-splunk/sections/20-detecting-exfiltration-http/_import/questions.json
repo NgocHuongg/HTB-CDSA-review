@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2564,
+    "title": "Detecting Exfiltration (HTTP)",
+    "page": 20,
+    "group": "Leveraging Zeek Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "20-detecting-exfiltration-http"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2001,
+      "question": "Use the \"cobaltstrike_exfiltration_https\" index and the \"bro:conn:json\" sourcetype. Create a Splunk search to identify exfiltration through HTTPS. Enter the identified destination IP as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "192.168.151.181"
+    }
+  ]
+}

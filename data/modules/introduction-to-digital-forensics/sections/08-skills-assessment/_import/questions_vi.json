@@ -1,0 +1,27 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng phân tích VAD, xác định chính xác process đáng ngờ và nhập tên của nó làm đáp án. Answer format: _.exe",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Xác định địa chỉ IP của server C2 (Command and Control) và nhập nó làm đáp án.",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Xác định registry key được dùng để duy trì truy cập (persistence) và nhập nó làm đáp án.",
+    "hint": null
+  },
+  {
+    "n": 4,
+    "question": "Xác định thư mục chứa tất cả các file liên quan đến Mimikatz và nhập đường dẫn đầy đủ làm đáp án.",
+    "hint": "Nhập thư mục cha của \"Win32\" hoặc \"x64\"."
+  },
+  {
+    "n": 5,
+    "question": "Xác định tài liệu Microsoft Word mà j0seph đã truy cập gần đây và nhập tên của nó làm đáp án. Answer format: _.DOCX",
+    "hint": null
+  }
+]

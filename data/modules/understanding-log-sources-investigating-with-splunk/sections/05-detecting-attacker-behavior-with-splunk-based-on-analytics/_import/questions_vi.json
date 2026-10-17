@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua một tìm kiếm SPL dựa trên phân tích (analytics-driven) trên toàn bộ dữ liệu, hãy tìm các source process image đang tạo số lượng thread cao bất thường trong các process khác. Nhập tên process ngoại lai (outlier) có số thread bị inject lớn hơn trung bình cộng hai độ lệch chuẩn làm đáp án. Answer format: _.exe",
+    "hint": null
+  }
+]

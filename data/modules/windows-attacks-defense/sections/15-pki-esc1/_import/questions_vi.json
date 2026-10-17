@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Kết nối tới host Kali trước, sau đó RDP vào WS001 với tư cách 'bob:Slavi123' và thực hành các kỹ thuật trình bày trong section này. Giá trị flag nằm tại \\\\dc1\\c$\\scripts là gì?",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Sau khi thực hiện tấn công ESC1, kết nối tới PKI (172.16.18.15) với tư cách 'htb-student:HTB_@cademy_stdnt!' và xem các log. Certificate đầu tiên được yêu cầu và cấp vào ngày nào?",
+    "hint": null
+  }
+]

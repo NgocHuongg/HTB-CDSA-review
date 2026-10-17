@@ -1,0 +1,11 @@
+{
+  "order": 1,
+  "title": {
+    "en": "Incident Handling Process",
+    "vi": "Incident Handling Process"
+  },
+  "description": {
+    "en": "The incident handling lifecycle: preparation, detection & analysis, containment, eradication & recovery, and post-incident activity.",
+    "vi": "Vòng đời xử lý sự cố: chuẩn bị, phát hiện & phân tích, ngăn chặn, loại bỏ & khôi phục, và hoạt động sau sự cố."
+  }
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Xem visualization mà ta đã tạo hoặc visualization \"RDP logon for service account\" (nếu có), và nhập IP của máy đã khởi tạo lần đăng nhập RDP thành công bằng thông tin đăng nhập của service account làm câu trả lời.",
+    "hint": null
+  }
+]

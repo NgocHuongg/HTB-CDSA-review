@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2525,
+    "title": "Detecting Responder-like Attacks",
+    "page": 3,
+    "group": "Leveraging Windows Event Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "03-detecting-responder-like-attacks"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1984,
+      "question": "Modify and employ the provided Sysmon Event 22-based Splunk search on all ingested data (All time) to identify all share names whose location was spoofed by 10.10.0.221. Enter the missing share name from the following list as your answer. myshare, myfileshar3, _",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "f1nancefileshare"
+    }
+  ]
+}

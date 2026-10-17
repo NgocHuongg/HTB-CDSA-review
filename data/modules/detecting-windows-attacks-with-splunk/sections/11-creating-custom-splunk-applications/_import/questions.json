@@ -1,0 +1,16 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2533,
+    "title": "Creating Custom Splunk Applications",
+    "page": 11,
+    "group": "Leveraging Splunk's Application Capabilities",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "11-creating-custom-splunk-applications"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

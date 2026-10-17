@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "True or false? SOC 2.0 follows a proactive defense approach.",
+      "vi": "True or false (đúng hay sai)? SOC 2.0 áp dụng cách tiếp cận phòng thủ chủ động (proactive defense)."
+    },
+    "answer": "True"
+  }
+]

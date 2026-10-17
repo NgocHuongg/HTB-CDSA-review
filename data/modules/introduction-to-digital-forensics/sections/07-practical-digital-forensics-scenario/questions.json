@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Extract and scrutinize the memory content of the suspicious PowerShell process which corresponds to PID 6744. Determine which tool from the PowerSploit repository (accessible at https://github.com/PowerShellMafia/PowerSploit) has been utilized within the process, and enter its name as your answer. RDP to TARGET_IP with user \"johndoe\" and password \"password\".",
+      "vi": "Trích xuất và xem xét kỹ nội dung bộ nhớ của process PowerShell đáng ngờ tương ứng với PID 6744. Xác định công cụ nào trong repository PowerSploit (truy cập tại https://github.com/PowerShellMafia/PowerSploit) đã được sử dụng trong process này, và nhập tên của nó làm đáp án. RDP tới TARGET_IP với user \"johndoe\" và mật khẩu \"password\"."
+    },
+    "answer": "PowerView"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Investigate the USN Journal located at \"C:\\Users\\johndoe\\Desktop\\kapefiles\\ntfs\\%5C%5C.%5CC%3A\\$Extend\\$UsnJrnl%3A$J\" to determine how \"advanced_ip_scanner.exe\" was introduced to the compromised system. Enter the name of the associated process as your answer. Answer format: _.exe RDP to TARGET_IP with user \"johndoe\" and password \"password\".",
+      "vi": "Điều tra USN Journal nằm tại \"C:\\Users\\johndoe\\Desktop\\kapefiles\\ntfs\\%5C%5C.%5CC%3A\\$Extend\\$UsnJrnl%3A$J\" để xác định \"advanced_ip_scanner.exe\" đã được đưa vào hệ thống bị xâm nhập bằng cách nào. Nhập tên của process liên quan làm đáp án. Answer format: _.exe RDP tới TARGET_IP với user \"johndoe\" và mật khẩu \"password\"."
+    },
+    "answer": "RUNDLL32.exe"
+  }
+]

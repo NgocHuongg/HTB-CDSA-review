@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Replicate the attack described in this section and view the related 4886 and 4887 logs. Enter the name shown in the Requester field as your answer. (Format: EAGLE\\....) RDP to TARGET_IP with user \"kali\" and password \"kali\".",
+      "vi": "Tái hiện cuộc tấn công mô tả trong section này và xem các log 4886 và 4887 liên quan. Nhập tên hiển thị trong field Requester làm câu trả lời của bạn. (Format: EAGLE\\....) RDP tới TARGET_IP với user \"kali\" và mật khẩu \"kali\"."
+    },
+    "answer": "EAGLE\\DC2$"
+  }
+]

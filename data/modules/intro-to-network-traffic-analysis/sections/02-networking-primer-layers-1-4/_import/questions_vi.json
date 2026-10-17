@@ -1,0 +1,47 @@
+[
+  {
+    "n": 1,
+    "question": "Mô hình OSI có bao nhiêu tầng?",
+    "hint": "pdntspa. Hãy đếm nó."
+  },
+  {
+    "n": 2,
+    "question": "Mô hình TCP/IP có bao nhiêu tầng?",
+    "hint": "không nhiều bằng mô hình OSI."
+  },
+  {
+    "n": 3,
+    "question": "True or False (Đúng hay Sai): Router hoạt động ở tầng 2 của mô hình OSI?",
+    "hint": "router xử lý việc định địa chỉ IP."
+  },
+  {
+    "n": 4,
+    "question": "Cơ chế định địa chỉ nào được dùng ở Link Layer của mô hình TCP/IP?",
+    "hint": "Không phải IP. Viết ở dạng số ít, không phải số nhiều. Format XXX-YYYYYYY"
+  },
+  {
+    "n": 5,
+    "question": "PDU được đóng gói (encapsulate) thành packet ở tầng nào của mô hình OSI? ( ghi bằng số )",
+    "hint": "1,2,_,4."
+  },
+  {
+    "n": 6,
+    "question": "Cơ chế định địa chỉ nào sử dụng địa chỉ 32-bit?",
+    "hint": "Cái duy nhất không được biểu diễn ở dạng hexadecimal."
+  },
+  {
+    "n": 7,
+    "question": "Protocol tầng Transport nào là connection oriented (hướng kết nối)?",
+    "hint": "được coi là đáng tin cậy, tạo kết nối giữa nguồn và đích."
+  },
+  {
+    "n": 8,
+    "question": "Protocol tầng Transport nào được coi là không đáng tin cậy (unreliable)?",
+    "hint": "Fire and Forget (gửi rồi quên), nó không quan tâm tới dữ liệu của bạn."
+  },
+  {
+    "n": 9,
+    "question": "Three-way handshake của TCP gồm 3 gói tin: 1.Syn, 2.Syn & ACK, 3. _? Gói tin cuối cùng của handshake là gì?",
+    "hint": "việc thiết lập session phải được cả server và host ACKnowledge (xác nhận)."
+  }
+]

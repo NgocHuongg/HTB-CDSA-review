@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2467,
+    "title": "Peculiar DNS Traffic",
+    "page": 16,
+    "group": "Application Layer Attacks",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "16-peculiar-dns-traffic"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1941,
+      "question": "Enter the decoded value of the triple base64-encoded string that was mentioned in this section as your answer. Answer format: HTB{___}",
+      "hint": "A base64 string might be encoded a few times.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "HTB{Would_you_forward_me_this_pretty_please}"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Rule YARA \"C:\\Rules\\yara\\seatbelt.yar\" nhằm phát hiện các bản sao của .NET assembly \"Seatbelt.exe\" trên ổ đĩa. Phân tích cả \"C:\\Rules\\yara\\seatbelt.yar\" và \"C:\\Samples\\YARASigma\\Seatbelt.exe\", rồi chỉ ra chuỗi phù hợp cần đặt trong biến \"$class2\" để rule nhận diện thành công \"C:\\Samples\\YARASigma\\Seatbelt.exe\". Answer format: L________r",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Dùng Chainsaw với rule Sigma \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\powershell\\powershell_script\\posh_ps_susp_win32_shadowcopy.yml\" để săn lùng việc xoá shadow volume trong \"C:\\Events\\YARASigma\\lab_events_6.evtx\". Nhập ScriptBlock ID tìm được làm đáp án.",
+    "hint": null
+  }
+]

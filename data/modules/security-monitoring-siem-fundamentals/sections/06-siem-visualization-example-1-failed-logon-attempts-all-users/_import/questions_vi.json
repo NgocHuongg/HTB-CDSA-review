@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Xem visualization đã tinh chỉnh mà ta tạo hoặc visualization \"Failed logon attempts [All users]\" (nếu có), và nhập số lần đăng nhập (number of logins) của tài khoản sql-svc1 làm câu trả lời.",
+    "hint": null
+  }
+]

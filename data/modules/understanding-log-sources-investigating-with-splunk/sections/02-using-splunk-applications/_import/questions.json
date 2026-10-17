@@ -1,0 +1,41 @@
+{
+  "module": 218,
+  "section": {
+    "id": 2389,
+    "title": "Using Splunk Applications",
+    "page": 2,
+    "group": "Splunk Fundamentals",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "02-using-splunk-applications"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1806,
+      "question": "Access the Sysmon App for Splunk and go to the \"Reports\" tab. Fix the search associated with the \"Net - net view\" report and provide the complete executed command as your answer. Answer format: net view /Domain:_.local",
+      "hint": "Remove any extra white spaces",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "net view /DOMAIN:uniwaldo.local"
+    },
+    {
+      "n": 2,
+      "id": 1807,
+      "question": "Access the Sysmon App for Splunk, go to the \"Network Activity\" tab, and choose \"Network Connections\". Fix the search and provide the number of connections that SharpHound.exe has initiated as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "6"
+    }
+  ]
+}

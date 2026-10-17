@@ -1,0 +1,16 @@
+{
+  "module": 226,
+  "section": {
+    "id": 2419,
+    "title": "Introduction To IDS/IPS",
+    "page": 1,
+    "group": "Introduction",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "01-introduction-to-ids-ips"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

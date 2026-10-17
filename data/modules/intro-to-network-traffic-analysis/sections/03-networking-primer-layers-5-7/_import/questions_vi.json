@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "question": "Phương thức hoạt động mặc định mà FTP sử dụng là gì?",
+    "hint": "nó tham gia vào quá trình, chứ không chỉ ngồi chờ không làm gì.."
+  },
+  {
+    "n": 2,
+    "question": "FTP sử dụng hai port nào để gửi lệnh và truyền dữ liệu? (phân tách hai số bằng một dấu cách)",
+    "hint": "một port dùng để gửi lệnh tới server, port còn lại dùng để gửi dữ liệu tới host."
+  },
+  {
+    "n": 3,
+    "question": "SMB sử dụng TCP hay UDP làm protocol tầng transport?",
+    "hint": "SMB thích kết nối ổn định"
+  },
+  {
+    "n": 4,
+    "question": "SMB đã chuyển sang dùng TCP port nào?",
+    "hint": "gần 500"
+  },
+  {
+    "n": 5,
+    "question": "Hypertext Transfer Protocol sử dụng TCP port well-known nào?",
+    "hint": "số có hai chữ số"
+  },
+  {
+    "n": 6,
+    "question": "HTTP method nào được dùng để yêu cầu thông tin và nội dung từ webserver?",
+    "hint": "bạn đang cố GET (lấy) thứ gì đó từ server."
+  },
+  {
+    "n": 7,
+    "question": "Protocol web nào sử dụng TLS làm biện pháp bảo mật?",
+    "hint": "HTTP bảo mật (secure HTTP)"
+  },
+  {
+    "n": 8,
+    "question": "True or False (Đúng hay Sai): khi dùng HTTPS, mọi dữ liệu được gửi trong session sẽ xuất hiện dưới dạng TLS Application data?",
+    "hint": "ta đang đóng gói (encapsulate) dữ liệu nên nó bị ẩn khỏi tầm nhìn."
+  }
+]

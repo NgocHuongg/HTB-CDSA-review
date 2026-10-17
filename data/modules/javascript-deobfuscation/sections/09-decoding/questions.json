@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Using what you learned in this section, determine the type of encoding used in the string you got at previous exercise, and decode it. To get the flag, you can send a 'POST' request to 'serial.php', and set the data as \"serial=YOUR_DECODED_OUTPUT\".",
+      "vi": "Vận dụng những gì đã học trong phần này, hãy xác định loại encoding được dùng trong chuỗi bạn nhận được ở bài tập trước và decode nó. Để lấy flag, bạn có thể gửi một request 'POST' tới 'serial.php' và đặt dữ liệu là \"serial=YOUR_DECODED_OUTPUT\"."
+    },
+    "hint": {
+      "en": "Use on the decoding commands you learned in this section!",
+      "vi": "Hãy dùng các lệnh decode mà bạn đã học trong phần này!"
+    },
+    "answer": "HTB{ju57_4n07h3r_r4nd0m_53r14l}"
+  }
+]

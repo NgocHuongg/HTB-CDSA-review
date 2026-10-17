@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What are the client and server port numbers used in first full TCP three-way handshake? (low number first then high number)",
+      "vi": "Client và server dùng số port nào trong TCP three-way handshake đầy đủ đầu tiên? (số nhỏ trước rồi đến số lớn)"
+    },
+    "hint": {
+      "en": "Look for tcp traffic or web traffic. you will notice the client using a large number and the server using a well known port for HTTP.",
+      "vi": "Hãy tìm traffic tcp hoặc traffic web. Bạn sẽ thấy client dùng một số port lớn và server dùng well-known port của HTTP."
+    },
+    "answer": "80 43806"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Based on the traffic seen in the pcap file, who is the DNS server in this network segment? (ip address)",
+      "vi": "Dựa trên traffic thấy được trong file pcap, ai là DNS server trong network segment này? (địa chỉ IP)"
+    },
+    "hint": {
+      "en": "look at traffic with a source port of 53.",
+      "vi": "Xem traffic có source port là 53."
+    },
+    "answer": "172.16.146.1"
+  }
+]

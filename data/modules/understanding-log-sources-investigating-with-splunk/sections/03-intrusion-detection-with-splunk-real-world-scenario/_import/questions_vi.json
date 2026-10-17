@@ -1,0 +1,27 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua một tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm process còn lại đã dump lsass. Nhập tên của nó làm đáp án. Answer format: _.exe",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua các tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm phương thức mà process còn lại đã dùng để dump lsass. Nhập tên DLL bị lạm dụng làm đáp án. Answer format: _.dll",
+    "hint": null
+  },
+  {
+    "n": 3,
+    "question": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua một tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm mọi lần load clr.dll đáng ngờ có thể cho thấy một cuộc tấn công C# injection/execute-assembly. Sau đó, cũng thông qua các tìm kiếm SPL, hãy tìm xem có process đáng ngờ nào trong số được trả về ban đầu đã được dùng để thực thi code tạm thời hay không. Nhập tên của nó làm đáp án. Answer format: _.exe",
+    "hint": null
+  },
+  {
+    "n": 4,
+    "question": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua các tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm hai địa chỉ IP của C2 callback server. Answer format: 10.0.0.1XX and 10.0.0.XX",
+    "hint": null
+  },
+  {
+    "n": 5,
+    "question": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua các tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm port mà một trong hai IP của C2 callback server đã dùng để kết nối tới một trong các máy bị xâm nhập. Nhập port đó làm đáp án.",
+    "hint": null
+  }
+]

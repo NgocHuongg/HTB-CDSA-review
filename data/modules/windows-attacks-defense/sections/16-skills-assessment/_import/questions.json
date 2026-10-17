@@ -1,0 +1,29 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1791,
+    "title": "Skills Assessment",
+    "page": 16,
+    "group": "Skills Assessment",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "16-skills-assessment"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1643,
+      "question": "Replicate the attack described in this section and view the related 4886 and 4887 logs. Enter the name shown in the Requester field as your answer. (Format: EAGLE\\....)",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "kali",
+      "password": "kali",
+      "answer": "EAGLE\\DC2$"
+    }
+  ]
+}

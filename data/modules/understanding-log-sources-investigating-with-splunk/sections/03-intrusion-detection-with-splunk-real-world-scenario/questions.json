@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and find through an SPL search against all data the other process that dumped lsass. Enter its name as your answer. Answer format: _.exe",
+      "vi": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua một tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm process còn lại đã dump lsass. Nhập tên của nó làm đáp án. Answer format: _.exe"
+    },
+    "answer": "rundll32.exe"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and find through SPL searches against all data the method through which the other process dumped lsass. Enter the misused DLL's name as your answer. Answer format: _.dll",
+      "vi": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua các tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm phương thức mà process còn lại đã dùng để dump lsass. Nhập tên DLL bị lạm dụng làm đáp án. Answer format: _.dll"
+    },
+    "answer": "COMSVCS.DLL"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and find through an SPL search against all data any suspicious loads of clr.dll that could indicate a C# injection/execute-assembly attack. Then, again through SPL searches, find if any of the suspicious processes that were returned in the first place were used to temporarily execute code. Enter its name as your answer. Answer format: _.exe",
+      "vi": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua một tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm mọi lần load clr.dll đáng ngờ có thể cho thấy một cuộc tấn công C# injection/execute-assembly. Sau đó, cũng thông qua các tìm kiếm SPL, hãy tìm xem có process đáng ngờ nào trong số được trả về ban đầu đã được dùng để thực thi code tạm thời hay không. Nhập tên của nó làm đáp án. Answer format: _.exe"
+    },
+    "answer": "rundll32.exe"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "Navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and find through SPL searches against all data the two IP addresses of the C2 callback server. Answer format: 10.0.0.1XX and 10.0.0.XX",
+      "vi": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua các tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm hai địa chỉ IP của C2 callback server. Answer format: 10.0.0.1XX and 10.0.0.XX"
+    },
+    "answer": "10.0.0.186 and 10.0.0.91"
+  },
+  {
+    "id": "q5",
+    "question": {
+      "en": "Navigate to http://[Target IP]:8000, open the \"Search & Reporting\" application, and find through SPL searches against all data the port that one of the two C2 callback server IPs used to connect to one of the compromised machines. Enter it as your answer.",
+      "vi": "Truy cập http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và thông qua các tìm kiếm SPL trên toàn bộ dữ liệu, hãy tìm port mà một trong hai IP của C2 callback server đã dùng để kết nối tới một trong các máy bị xâm nhập. Nhập port đó làm đáp án."
+    },
+    "answer": "3389"
+  }
+]

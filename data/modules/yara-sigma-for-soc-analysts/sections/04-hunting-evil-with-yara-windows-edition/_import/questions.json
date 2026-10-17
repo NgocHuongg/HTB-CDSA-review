@@ -1,0 +1,29 @@
+{
+  "module": 234,
+  "section": {
+    "id": 2515,
+    "title": "Hunting Evil with YARA (Windows Edition)",
+    "page": 4,
+    "group": "Leveraging YARA",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "04-hunting-evil-with-yara-windows-edition"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2018,
+      "question": "Study the \"C:\\Rules\\yara\\shell_detector.yar\" YARA rule that aims to detect \"C:\\Samples\\MalwareAnalysis\\shell.exe\" inside process memory. Then, specify the appropriate hex values inside the \"$sandbox\" variable to ensure that the \"Sandbox detected\" message will also be detected. Enter the correct hex values as your answer. Answer format: Remove any spaces",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "53616E64626F78206465746563746564"
+    }
+  ]
+}

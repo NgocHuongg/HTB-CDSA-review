@@ -1,0 +1,32 @@
+{
+  "path": "/app/module/148/section/3953",
+  "title": "Analysis of Insight Nexus Breach",
+  "questions": [
+    {
+      "n": 1,
+      "text": "Download the Wazuh exported logs file (i.e., wazuh_export.zip), and identify all events that indicate potential credential compromise. Check the event ID 4688 and verify the full path of the parent process name that executed a credential dumping tool. Answer format is C:\\\\Pr........",
+      "extra": [
+        "Download File"
+      ],
+      "answer": "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe"
+    },
+    {
+      "n": 2,
+      "text": "Identify events that show persistence mechanisms. Type the value of imagePath for a persistence mechanism that took place on the host DB01.",
+      "extra": [],
+      "answer": "C:\\\\Windows\\\\PSEXESVC.exe"
+    },
+    {
+      "n": 3,
+      "text": "Identify exfiltration activity — file(s) uploaded or outbound traffic. What is the external IP address to which the file diagnostics_data.zip was uploaded?",
+      "extra": [],
+      "answer": "93.184.216.34"
+    },
+    {
+      "n": 4,
+      "text": "Which user tried to connect to the file share \\\\fs01\\projects?",
+      "extra": [],
+      "answer": "svc_admin"
+    }
+  ]
+}

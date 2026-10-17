@@ -1,0 +1,16 @@
+{
+  "module": 211,
+  "section": {
+    "id": 2253,
+    "title": "SIEM Use Case Development",
+    "page": 5,
+    "group": "SIEM & SOC Fundamentals",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "05-siem-use-case-development"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

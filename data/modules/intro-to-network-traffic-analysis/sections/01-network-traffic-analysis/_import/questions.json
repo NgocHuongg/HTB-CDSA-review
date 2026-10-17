@@ -1,0 +1,16 @@
+{
+  "module": 81,
+  "section": {
+    "id": 773,
+    "title": "Network Traffic Analysis",
+    "page": 1,
+    "group": "Introduction",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "01-network-traffic-analysis"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

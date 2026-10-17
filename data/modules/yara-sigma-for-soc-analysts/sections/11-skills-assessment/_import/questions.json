@@ -1,0 +1,41 @@
+{
+  "module": 234,
+  "section": {
+    "id": 2573,
+    "title": "Skills Assessment",
+    "page": 11,
+    "group": "Skills Assessment",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "11-skills-assessment"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2024,
+      "question": "The \"C:\\Rules\\yara\\seatbelt.yar\" YARA rule aims to detect instances of the \"Seatbelt.exe\" .NET assembly on disk. Analyze both \"C:\\Rules\\yara\\seatbelt.yar\" and \"C:\\Samples\\YARASigma\\Seatbelt.exe\" and specify the appropriate string inside the \"$class2\" variable so that the rule successfully identifies \"C:\\Samples\\YARASigma\\Seatbelt.exe\". Answer format: L________r",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "Lsawrapper"
+    },
+    {
+      "n": 2,
+      "id": 2023,
+      "question": "Use Chainsaw with the \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\powershell\\powershell_script\\posh_ps_susp_win32_shadowcopy.yml\" Sigma rule to hunt for shadow volume deletion inside \"C:\\Events\\YARASigma\\lab_events_6.evtx\". Enter the identified ScriptBlock ID as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "faaeba08-01f0-4a32-ba48-bd65b24afd28"
+    }
+  ]
+}

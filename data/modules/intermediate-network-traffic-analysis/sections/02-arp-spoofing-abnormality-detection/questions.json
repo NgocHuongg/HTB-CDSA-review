@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Inspect the ARP_Poison.pcapng file, part of this module's resources, and submit the total count of ARP requests (opcode 1) that originated from the address 08:00:27:53:0c:ba as your answer.",
+      "vi": "Kiểm tra file ARP_Poison.pcapng (thuộc tài nguyên của module này) và nộp tổng số ARP request (opcode 1) xuất phát từ địa chỉ 08:00:27:53:0c:ba làm câu trả lời."
+    },
+    "answer": "507"
+  }
+]

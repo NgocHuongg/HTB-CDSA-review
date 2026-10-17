@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng sigmac để chuyển Sigma rule \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\builtin\\windefend\\win_defender_threat.yml\" thành lệnh PowerShell tương đương. Sau đó, chạy lệnh PowerShell đó trên \"C:\\Events\\YARASigma\\lab_events_4.evtx\" và nhập tên driver độc hại làm đáp án. Answer format: _.sys",
+    "hint": null
+  }
+]

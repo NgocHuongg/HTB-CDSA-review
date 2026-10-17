@@ -1,0 +1,113 @@
+{
+  "module": 81,
+  "section": {
+    "id": 963,
+    "title": "Networking Primer - Layers 5-7",
+    "page": 3,
+    "group": "Introduction",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "03-networking-primer-layers-5-7"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 590,
+      "question": "What is the default operational mode method used by FTP?",
+      "hint": "it is engaged in the process, not just sitting idle..",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "active"
+    },
+    {
+      "n": 2,
+      "id": 591,
+      "question": "FTP utilizes what two ports for command and data transfer? (separate the two numbers with a space)",
+      "hint": "one port is used to send commands to the server, the other is used to send data to the host.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "20 21"
+    },
+    {
+      "n": 3,
+      "id": 592,
+      "question": "Does SMB utilize TCP or UDP as its transport layer protocol?",
+      "hint": "SMB likes stable connections",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "TCP"
+    },
+    {
+      "n": 4,
+      "id": 593,
+      "question": "SMB has moved to using what TCP port?",
+      "hint": "almost 500",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "445"
+    },
+    {
+      "n": 5,
+      "id": 586,
+      "question": "Hypertext Transfer Protocol uses what well known TCP port number?",
+      "hint": "double digit number",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "80"
+    },
+    {
+      "n": 6,
+      "id": 587,
+      "question": "What HTTP method is used to request information and content from the webserver?",
+      "hint": "you are trying to GET something from the server.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "GET"
+    },
+    {
+      "n": 7,
+      "id": 588,
+      "question": "What web based protocol uses TLS as a security measure?",
+      "hint": "secure HTTP",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "HTTPS"
+    },
+    {
+      "n": 8,
+      "id": 589,
+      "question": "True or False: when utilizing HTTPS, all data sent across the session will appear as TLS Application data?",
+      "hint": "we are encapsulating the data so it is hidden from view.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "True"
+    }
+  ]
+}

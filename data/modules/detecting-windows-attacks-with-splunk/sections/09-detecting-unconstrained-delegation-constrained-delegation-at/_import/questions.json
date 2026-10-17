@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2530,
+    "title": "Detecting Unconstrained Delegation/Constrained Delegation Attacks",
+    "page": 9,
+    "group": "Leveraging Windows Event Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "09-detecting-unconstrained-delegation-constrained-delegation-at"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1990,
+      "question": "Employ the Splunk search provided at the \"Detecting Unconstrained Delegation Attacks With Splunk\" part of this section on all ingested data (All time). Enter the name of the other computer on which there are traces of reconnaissance related to Unconstrained Delegation as your answer. Answer format: _.corp.local",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "DC01.corp.local"
+    }
+  ]
+}

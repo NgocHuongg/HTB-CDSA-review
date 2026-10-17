@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What port does the attacker use for communication during the Golden Ticket attack?",
+      "vi": "Kẻ tấn công dùng cổng nào để liên lạc trong cuộc tấn công Golden Ticket?"
+    },
+    "answer": "88"
+  }
+]

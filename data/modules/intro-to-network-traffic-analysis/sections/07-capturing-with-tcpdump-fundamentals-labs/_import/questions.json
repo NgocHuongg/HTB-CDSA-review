@@ -1,0 +1,125 @@
+{
+  "module": 81,
+  "section": {
+    "id": 786,
+    "title": "Capturing With Tcpdump (Fundamentals Labs)",
+    "page": 7,
+    "group": "Tcpdump",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "07-capturing-with-tcpdump-fundamentals-labs"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 597,
+      "question": "What TCPDump switch will allow us to pipe the contents of a pcap file out to another function such as 'grep'?",
+      "hint": "we are -l ooking for something in the pipe redirection.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "-l"
+    },
+    {
+      "n": 2,
+      "id": 598,
+      "question": "True or False: The filter \"port\" looks at source and destination traffic.",
+      "hint": "port is looking for that port # in either direction.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "True"
+    },
+    {
+      "n": 3,
+      "id": 599,
+      "question": "If we wished to filter out ICMP traffic from our capture, what filter could we use? ( word only, not symbol please.)",
+      "hint": "we are saying NOT to capture any ICMP packets..",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "not icmp"
+    },
+    {
+      "n": 4,
+      "id": 488,
+      "question": "What command will show you where / if TCPDump is installed?",
+      "hint": "how can you see __WHICH__ directory hosts a file?",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "which tcpdump"
+    },
+    {
+      "n": 5,
+      "id": 489,
+      "question": "How do you start a capture with TCPDump to capture on eth0?",
+      "hint": "command < switch to specify an interface > << interface name or number>>",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "tcpdump -i eth0"
+    },
+    {
+      "n": 6,
+      "id": 490,
+      "question": "What switch will provide more verbosity in your output?",
+      "hint": "to answer put the `-` before your answer.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "-v"
+    },
+    {
+      "n": 7,
+      "id": 491,
+      "question": "What switch will write your capture output to a .pcap file?",
+      "hint": "put the `-` before your letter answer.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "-w"
+    },
+    {
+      "n": 8,
+      "id": 492,
+      "question": "What switch will read a capture from a .pcap file?",
+      "hint": "Put the `-` before your answer",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "-r"
+    },
+    {
+      "n": 9,
+      "id": 493,
+      "question": "What switch will show the contents of a capture in Hex and ASCII?",
+      "hint": "Put the `-` before your answer.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "-X"
+    }
+  ]
+}

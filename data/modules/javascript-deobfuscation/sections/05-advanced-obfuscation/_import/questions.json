@@ -1,0 +1,16 @@
+{
+  "module": 41,
+  "section": {
+    "id": 448,
+    "title": "Advanced Obfuscation",
+    "page": 5,
+    "group": "Obfuscation",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "05-advanced-obfuscation"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

@@ -1,0 +1,29 @@
+{
+  "module": 211,
+  "section": {
+    "id": 2251,
+    "title": "SOC Definition & Fundamentals",
+    "page": 3,
+    "group": "SIEM & SOC Fundamentals",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "03-soc-definition-fundamentals"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1685,
+      "question": "True or false? SOC 2.0 follows a proactive defense approach.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "True"
+    }
+  ]
+}

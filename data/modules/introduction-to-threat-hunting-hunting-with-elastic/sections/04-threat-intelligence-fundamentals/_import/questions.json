@@ -1,0 +1,65 @@
+{
+  "module": 214,
+  "section": {
+    "id": 2281,
+    "title": "Threat Intelligence Fundamentals",
+    "page": 4,
+    "group": "Threat Hunting & Threat Intelligence Fundamentals",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "04-threat-intelligence-fundamentals"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1725,
+      "question": "It’s useful for the CTI team to provide a single IP with no context to the SOC team. Answer format: True, False.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "False"
+    },
+    {
+      "n": 2,
+      "id": 1726,
+      "question": "When an incident occurs on the network and the CTI team is made aware, what should they do? Choose one of the following as your answer: \"Do Nothing\", \"Reach out to the Incident Handler/Incident Responder\", \"Provide IOCs on all research being conducted, regardless if the IOC is verified\".",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Reach out to the Incident Handler/Incident Responder"
+    },
+    {
+      "n": 3,
+      "id": 1727,
+      "question": "When an incident occurs on the network and the CTI team is made aware, what should they do? Choose one of the following as your answer: \"Provide IOCs on all research being conducted, regardless if the IOC is verified\", \"Do Nothing\", \"Provide further IOCs and TTPs associated with the incident\".",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Provide further IOCs and TTPs associated with the incident"
+    },
+    {
+      "n": 4,
+      "id": 1728,
+      "question": "Cyber Threat Intelligence, if curated and analyzed properly, can ... ? Choose one of the following as your answer: \"be used for security awareness\", \"be used for fine-tuning network segmentation\", \"provide insight into adversary operations\".",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "provide insight into adversary operations"
+    }
+  ]
+}

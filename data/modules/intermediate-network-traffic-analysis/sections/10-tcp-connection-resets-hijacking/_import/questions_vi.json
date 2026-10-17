@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Kiểm tra file TCP-hijacking.pcap (thuộc tài nguyên của module này) và nhập username đã được sử dụng qua giao thức telnet làm câu trả lời.",
+    "hint": null
+  }
+]

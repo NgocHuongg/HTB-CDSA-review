@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What mechanism can we use to block phishing emails pretending to originate from our mail server?",
+      "vi": "Cơ chế nào có thể dùng để chặn email phishing giả mạo như được gửi từ mail server của chúng ta?"
+    },
+    "answer": "DMARC"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "True or False: The \"Summer2021!\" password meets the complex password criteria but can be easily guessed or brute-forced.",
+      "vi": "Đúng hay Sai: Mật khẩu \"Summer2021!\" đáp ứng tiêu chí mật khẩu phức tạp nhưng vẫn dễ bị đoán hoặc brute-force."
+    },
+    "answer": "True"
+  }
+]

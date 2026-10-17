@@ -1,0 +1,12 @@
+[
+  {
+    "n": 1,
+    "question": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle) rồi bấm \"Discover\". Sau đó, bấm vào biểu tượng lịch, chọn \"last 15 years\" và bấm \"Apply\". Cuối cùng, chọn index pattern \"windows*\". Bây giờ, thực thi query KQL được nêu trong phần \"Comparison Operators\" của section này và nhập username của tài khoản bị vô hiệu hoá (disabled) làm đáp án. Chỉ nhập username; không cần tính đến domain.",
+    "hint": null
+  },
+  {
+    "n": 2,
+    "question": "Bây giờ, thực thi query KQL được nêu trong phần \"Wildcards and Regular Expressions\" của section này và nhập số kết quả trả về (hits) làm đáp án.",
+    "hint": null
+  }
+]

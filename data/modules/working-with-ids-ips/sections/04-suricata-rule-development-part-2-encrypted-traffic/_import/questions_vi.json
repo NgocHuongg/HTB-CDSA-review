@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Trong thư mục /home/htb-student/pcaps có một file tên là trickbot.pcap, chứa network traffic liên quan đến một biến thể nhất định của malware Trickbot. Hãy nhập chính xác chuỗi cần được chỉ định trong keyword content của rule có sid 100299 trong file local.rules để alert được kích hoạt.",
+    "hint": null
+  }
+]

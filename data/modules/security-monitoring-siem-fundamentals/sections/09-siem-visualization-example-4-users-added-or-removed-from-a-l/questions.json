@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Navigate to http://[Target IP]:5601, click on the side navigation toggle, and click on \"Dashboard\". Extend the visualization we created or the \"User added or removed from a local group\" visualization, if it is available, and enter the common date on which all returned events took place as your answer. Answer format: 20XX-0X-0X",
+      "vi": "Truy cập http://[Target IP]:5601, bấm vào nút bật/tắt thanh điều hướng bên (side navigation toggle), rồi bấm vào \"Dashboard\". Mở rộng visualization mà ta đã tạo hoặc visualization \"User added or removed from a local group\" (nếu có), và nhập ngày chung mà tất cả các event trả về đều diễn ra làm câu trả lời. Answer format: 20XX-0X-0X"
+    },
+    "hint": {
+      "en": "Use the absolute time range from March 1st to March 31st, 2023.",
+      "vi": "Dùng khoảng thời gian tuyệt đối (absolute time range) từ ngày 1 tháng 3 tới ngày 31 tháng 3 năm 2023."
+    },
+    "answer": "2023-03-05"
+  }
+]

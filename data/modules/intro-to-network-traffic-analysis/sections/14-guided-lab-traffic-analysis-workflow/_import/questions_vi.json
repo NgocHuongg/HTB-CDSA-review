@@ -1,0 +1,5 @@
+[
+  {"n": 1, "question": "Tên của user mới được tạo trên host của mrb3n là gì?", "hint": "Nó nằm trong dữ liệu pcap. Hãy xem TCP conversation."},
+  {"n": 2, "question": "Có tổng cộng bao nhiêu packet trong PCAP Guided-analysis?", "hint": "Tổng số được hiển thị trên GUI của Wireshark."},
+  {"n": 3, "question": "Cổng đáng ngờ đã được sử dụng là cổng nào?", "hint": "Meterpreter rất thích cổng này."}
+]

@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2452,
+    "title": "Fragmentation Attacks",
+    "page": 6,
+    "group": "Detecting Network Abnormalities",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "06-fragmentation-attacks"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1921,
+      "question": "Inspect the nmap_frag_fw_bypass.pcapng file, part of this module's resources, and enter the total count of packets that have the TCP RST flag set as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "66535"
+    }
+  ]
+}

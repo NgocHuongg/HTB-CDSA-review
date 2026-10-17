@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "True or False: We should train junior team members as part of these post-incident activities.",
+      "vi": "Đúng hay Sai: Chúng ta nên đào tạo các thành viên junior trong đội như một phần của các hoạt động sau sự cố (post-incident activities)."
+    },
+    "answer": "True"
+  }
+]

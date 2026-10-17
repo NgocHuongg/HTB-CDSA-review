@@ -1,0 +1,29 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1785,
+    "title": "Golden Ticket",
+    "page": 10,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "10-golden-ticket"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1637,
+      "question": "Practice the techniques shown in this section. What is the NTLM hash of the krbtgt user?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "bob",
+      "password": "Slavi123",
+      "answer": "db0d0630064747072a7da3f7c3b4069e"
+    }
+  ]
+}

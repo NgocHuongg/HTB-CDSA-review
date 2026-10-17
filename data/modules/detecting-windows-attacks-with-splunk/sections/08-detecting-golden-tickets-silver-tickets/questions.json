@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "For which \"service\" did the user named Barbi generate a silver ticket?",
+      "vi": "Người dùng tên Barbi đã tạo silver ticket cho \"service\" nào?"
+    },
+    "answer": "cifs"
+  }
+]

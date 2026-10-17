@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Connect to the target and perform a Kerberoasting attack. What is the password for the svc-iam user? RDP to TARGET_IP with user \"bob\" and password \"Slavi123\".",
+      "vi": "Kết nối tới target và thực hiện cuộc tấn công Kerberoasting. Password của user svc-iam là gì? RDP tới TARGET_IP với user \"bob\" và mật khẩu \"Slavi123\"."
+    },
+    "hint": {
+      "en": "Use the SecLists/Passwords/Leaked-Databases/rockyou.txt password list",
+      "vi": "Dùng danh sách password SecLists/Passwords/Leaked-Databases/rockyou.txt"
+    },
+    "answer": "mariposa"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "After performing the Kerberoasting attack, connect to DC1 (172.16.18.3) as 'htb-student:HTB_@cademy_stdnt!' and look at the logs in Event Viewer. What is the ServiceSid of the webservice user?",
+      "vi": "Sau khi thực hiện cuộc tấn công Kerberoasting, kết nối tới DC1 (172.16.18.3) với tư cách 'htb-student:HTB_@cademy_stdnt!' và xem các log trong Event Viewer. ServiceSid của user webservice là gì?"
+    },
+    "hint": {
+      "en": "We need to look at both the \"General\" and \"Details\" tabs of the event.",
+      "vi": "Ta cần xem cả tab \"General\" lẫn tab \"Details\" của event."
+    },
+    "answer": "S-1-5-21-1518138621-4282902758-752445584-2110"
+  }
+]

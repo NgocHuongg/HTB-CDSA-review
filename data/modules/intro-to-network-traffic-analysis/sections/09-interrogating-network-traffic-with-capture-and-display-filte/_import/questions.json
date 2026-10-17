@@ -1,0 +1,41 @@
+{
+  "module": 81,
+  "section": {
+    "id": 787,
+    "title": "Interrogating Network Traffic With Capture and Display Filters",
+    "page": 9,
+    "group": "Tcpdump",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "09-interrogating-network-traffic-with-capture-and-display-filte"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 640,
+      "question": "What are the client and server port numbers used in first full TCP three-way handshake? (low number first then high number)",
+      "hint": "Look for tcp traffic or web traffic. you will notice the client using a large number and the server using a well known port for HTTP.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "80 43806"
+    },
+    {
+      "n": 2,
+      "id": 641,
+      "question": "Based on the traffic seen in the pcap file, who is the DNS server in this network segment? (ip address)",
+      "hint": "look at traffic with a source port of 53.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "172.16.146.1"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Open the alert \"[InsightNexus] Admin Login via ManageEngine Web Console.\" Find the foreign IP address starting with \"203\" in the comments. Check VirusTotal for the information related to this IP address, and add the details as a comment in this alert. In VirusTotal, what is the name of the file starting with \"Mango\" in the Files Referring section? Authenticate to TARGET_IP with user \"htb-analyst\" and password \"P3n#31337@LOG\".",
+      "vi": "Mở alert \"[InsightNexus] Admin Login via ManageEngine Web Console.\" Tìm địa chỉ IP bên ngoài bắt đầu bằng \"203\" trong phần comment. Tra cứu IP này trên VirusTotal và thêm thông tin vào alert dưới dạng comment. Trên VirusTotal, tên file bắt đầu bằng \"Mango\" trong mục Files Referring là gì? Đăng nhập vào TARGET_IP với user \"htb-analyst\" và mật khẩu \"P3n#31337@LOG\"."
+    },
+    "answer": "MangoJava.EXE"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "In VirusTotal, go to the details of the IP address starting with \"198.\" What is the name of the city shown in the Whois Lookup? Authenticate to TARGET_IP with user \"htb-analyst\" and password \"P3n#31337@LOG\".",
+      "vi": "Trên VirusTotal, xem chi tiết địa chỉ IP bắt đầu bằng \"198.\" Tên thành phố hiển thị trong mục Whois Lookup là gì? Đăng nhập vào TARGET_IP với user \"htb-analyst\" và mật khẩu \"P3n#31337@LOG\"."
+    },
+    "answer": "Los Angeles"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "If malware downloads files from a C2 (Command and Control) server into the victim network, under what MITRE technique ID does this tool transfer technique fall? Type it as your answer. The format is T1***.",
+      "vi": "Nếu malware tải file từ C2 (Command and Control) server vào mạng nạn nhân, kỹ thuật tool transfer này thuộc MITRE technique ID nào? Định dạng T1***."
+    },
+    "answer": "T1105"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "Open TheHive and check the rule ID 92153 related to the VaultCli.dll module. What is the MITRE technique ID for this activity? The format is T1***. Authenticate to TARGET_IP with user \"htb-analyst\" and password \"P3n#31337@LOG\".",
+      "vi": "Mở TheHive và kiểm tra rule ID 92153 liên quan tới module VaultCli.dll. MITRE technique ID của hoạt động này là gì? Định dạng T1***. Đăng nhập vào TARGET_IP với user \"htb-analyst\" và mật khẩu \"P3n#31337@LOG\"."
+    },
+    "answer": "T1555"
+  },
+  {
+    "id": "q5",
+    "question": {
+      "en": "Download the \"logs-wazuh.zip\" file from resources, and identify the suspicious PowerShell command in the logs. Type the suspicious IP address after decoding the command. File: [logs-wazuh.zip](/content/incident-handling-process/11-skills-assessment/resources/logs-wazuh.zip)",
+      "vi": "Tải file \"logs-wazuh.zip\" từ phần resources và xác định lệnh PowerShell đáng ngờ trong log. Nhập địa chỉ IP đáng ngờ sau khi giải mã (decode) lệnh. File: [logs-wazuh.zip](/content/incident-handling-process/11-skills-assessment/resources/logs-wazuh.zip)"
+    },
+    "answer": "198.51.100.24"
+  },
+  {
+    "id": "q6",
+    "question": {
+      "en": "In the same file (i.e., logs-wazuh.zip), identify the user who executed the suspicious PowerShell command. The format is domain\\user. File: [logs-wazuh.zip](/content/incident-handling-process/11-skills-assessment/resources/logs-wazuh.zip)",
+      "vi": "Trong cùng file (logs-wazuh.zip), xác định user đã chạy lệnh PowerShell đáng ngờ. Định dạng domain\\user. File: [logs-wazuh.zip](/content/incident-handling-process/11-skills-assessment/resources/logs-wazuh.zip)"
+    },
+    "answer": "CORP\\svc-update"
+  }
+]

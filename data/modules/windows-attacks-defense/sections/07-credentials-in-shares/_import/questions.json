@@ -1,0 +1,29 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1782,
+    "title": "Credentials in Shares",
+    "page": 7,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "07-credentials-in-shares"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1634,
+      "question": "Connect to the target and enumerate the available network shares. What is the password of the Administrator2 user?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "bob",
+      "password": "Slavi123",
+      "answer": "Slavi920"
+    }
+  ]
+}

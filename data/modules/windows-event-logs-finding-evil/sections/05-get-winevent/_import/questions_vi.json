@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng cmdlet Get-WinEvent để duyệt qua tất cả event log nằm trong thư mục \"C:\\Tools\\chainsaw\\EVTX-ATTACK-SAMPLES\\Lateral Movement\" và xác định thời điểm share \\\\*\\PRINT được thêm vào. Nhập thời điểm của event tìm được theo định dạng HH:MM:SS làm câu trả lời.",
+    "hint": null
+  }
+]

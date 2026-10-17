@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Use the \"empire\" index and the \"bro:http:json\" sourcetype. Identify beaconing activity by modifying the Splunk search of the \"Detecting Beaconing Malware\" section and enter the value of the \"TimeInterval\" field as your answer.",
+      "vi": "Dùng index \"empire\" và sourcetype \"bro:http:json\". Nhận diện hoạt động beaconing bằng cách sửa Splunk search của section \"Detecting Beaconing Malware\" và nhập giá trị của field \"TimeInterval\" làm đáp án."
+    },
+    "answer": "4.680851063829787"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Use the \"printnightmare\" index and the \"bro:dce_rpc:json\" sourcetype to create a Splunk search that will detect possible exploitation of the PrintNightmare vulnerability. Enter the IP included in the \"id.orig_h\" field as your answer.",
+      "vi": "Dùng index \"printnightmare\" và sourcetype \"bro:dce_rpc:json\" để tạo một Splunk search phát hiện khả năng khai thác lỗ hổng PrintNightmare. Nhập IP có trong field \"id.orig_h\" làm đáp án."
+    },
+    "answer": "192.168.1.149"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "Use the \"bloodhound_all_no_kerberos_sign\" index and the \"bro:dce_rpc:json\" sourcetype to create a Splunk search that will detect possible BloodHound activity (https://www.lares.com/blog/active-directory-ad-attacks-enumeration-at-the-network-layer/). Enter the IP included in the \"id.orig_h\" field as your answer.",
+      "vi": "Dùng index \"bloodhound_all_no_kerberos_sign\" và sourcetype \"bro:dce_rpc:json\" để tạo một Splunk search phát hiện khả năng có hoạt động của BloodHound (https://www.lares.com/blog/active-directory-ad-attacks-enumeration-at-the-network-layer/). Nhập IP có trong field \"id.orig_h\" làm đáp án."
+    },
+    "answer": "192.168.109.105"
+  }
+]

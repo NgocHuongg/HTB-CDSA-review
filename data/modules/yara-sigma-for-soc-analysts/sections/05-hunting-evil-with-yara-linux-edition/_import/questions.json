@@ -1,0 +1,29 @@
+{
+  "module": 234,
+  "section": {
+    "id": 2574,
+    "title": "Hunting Evil with YARA (Linux Edition)",
+    "page": 5,
+    "group": "Leveraging YARA",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "05-hunting-evil-with-yara-linux-edition"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2019,
+      "question": "Study the following resource https://blogs.vmware.com/security/2022/09/threat-report-illuminating-volume-shadow-deletion.html to learn how WannaCry performs shadow volume deletion. Then, use yarascan when analyzing \"/home/htb-student/MemoryDumps/compromised_system.raw\" to identify the process responsible for deleting shadows. Enter the name of the process as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "@WanaDecryptor@"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "module": 238,
+  "section": {
+    "id": 2582,
+    "title": "The Incident Reporting Process",
+    "page": 2,
+    "group": "Introduction",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "02-the-incident-reporting-process"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 2028,
+      "question": "Name the step responsible for writing down every information that could be used and be classified as important. (2 words)",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "Incident Logging"
+    }
+  ]
+}

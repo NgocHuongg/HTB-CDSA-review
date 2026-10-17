@@ -1,0 +1,12 @@
+{
+  "order": 14,
+  "htb_id": 233,
+  "title": {
+    "en": "Detecting Windows Attacks with Splunk",
+    "vi": "Detecting Windows Attacks with Splunk"
+  },
+  "description": {
+    "en": "This Hack The Box Academy module is focused on pinpointing attacks on Windows and Active Directory. Utilizing Splunk as the cornerstone for investigation, this training will arm participants with the expertise to adeptly identify Windows-based threats leveraging Windows Event Logs and Zeek network logs. Furthermore, participants will benefit from actual PCAP files associated with the discussed Windows and Active Directory attacks, enhancing their understanding of the respective attack patterns and techniques.",
+    "vi": "Module này của Hack The Box Academy tập trung vào việc xác định chính xác các cuộc tấn công nhắm vào Windows và Active Directory. Lấy Splunk làm nền tảng cốt lõi cho việc điều tra, khoá học này sẽ trang bị cho người học chuyên môn để nhận diện thành thạo các mối đe doạ trên nền Windows, tận dụng Windows Event Logs và network log của Zeek. Ngoài ra, người học còn được làm việc với các file PCAP thực tế gắn với các cuộc tấn công Windows và Active Directory được thảo luận, giúp hiểu sâu hơn các pattern và kỹ thuật tấn công tương ứng."
+  }
+}

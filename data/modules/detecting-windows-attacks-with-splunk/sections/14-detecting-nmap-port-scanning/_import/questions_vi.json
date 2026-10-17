@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng index \"cobaltstrike_beacon\" và sourcetype \"bro:conn:json\". Kẻ tấn công có quét cổng 505 không? Answer format: Yes, No",
+    "hint": null
+  }
+]

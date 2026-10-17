@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "There is a file named pipekatposhc2.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to WMI execution. Add yet another content keyword right after the msg part of the rule with sid 2024233 within the local.rules file so that an alert is triggered and enter the specified payload as your answer. Answer format: C____e SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Có một file tên pipekatposhc2.pcap trong thư mục /home/htb-student/pcaps, chứa lưu lượng mạng liên quan tới việc thực thi WMI. Hãy thêm một content keyword nữa ngay sau phần msg của rule có sid 2024233 trong file local.rules để alert được kích hoạt, rồi nhập payload đã chỉ định làm câu trả lời. Answer format: C____e SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "Create"
+  }
+]

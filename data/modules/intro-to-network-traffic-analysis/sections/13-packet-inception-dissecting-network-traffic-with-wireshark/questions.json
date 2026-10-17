@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "What was the filename of the image that contained a certain Transformer Leader? (name.filetype) RDP to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Tên file của hình ảnh có chứa một Transformer Leader nhất định là gì? (name.filetype) RDP tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "hint": {
+      "en": "You should have seen three image files pulled in the traffic. water.jpg, htb.jpeg, and ..?",
+      "vi": "Lẽ ra bạn đã thấy ba file ảnh được tải về trong lưu lượng. water.jpg, htb.jpeg, và ..?"
+    },
+    "answer": "Rise-Up.jpg"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Which employee is suspected of performing potentially malicious actions in the live environment?",
+      "vi": "Nhân viên nào bị nghi ngờ thực hiện các hành động có khả năng độc hại trong môi trường live?"
+    },
+    "hint": {
+      "en": "Take a peek at all protocols to get an idea of who.",
+      "vi": "Hãy xem qua tất cả các giao thức để có ý niệm đó là ai."
+    },
+    "answer": "Bob"
+  }
+]

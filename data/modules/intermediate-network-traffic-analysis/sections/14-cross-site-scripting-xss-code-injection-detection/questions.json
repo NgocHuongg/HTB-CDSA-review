@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Inspect the first packet of the XSS_Simple.pcapng file, part of this module's resources, and enter the cookie value that was exfiltrated as your answer.",
+      "vi": "Hãy kiểm tra gói tin đầu tiên của file XSS_Simple.pcapng (thuộc tài nguyên của module này) và nhập giá trị cookie đã bị exfiltrate làm câu trả lời."
+    },
+    "answer": "mZjQ17NLXY8ZNBbJCS0O"
+  }
+]

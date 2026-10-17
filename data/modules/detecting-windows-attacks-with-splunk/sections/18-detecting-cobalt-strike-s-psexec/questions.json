@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Use the \"change_service_config\" index and the \"bro:dce_rpc:json\" sourcetype to create a Splunk search that will detect SharpNoPSExec (https://gist.github.com/defensivedepth/ae3f882efa47e20990bc562a8b052984). Enter the IP included in the \"id.orig_h\" field as your answer.",
+      "vi": "Dùng index \"change_service_config\" và sourcetype \"bro:dce_rpc:json\" để tạo một Splunk search phát hiện SharpNoPSExec (https://gist.github.com/defensivedepth/ae3f882efa47e20990bc562a8b052984). Nhập IP có trong field \"id.orig_h\" làm đáp án."
+    },
+    "answer": "192.168.38.104"
+  }
+]

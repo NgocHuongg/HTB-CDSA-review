@@ -1,0 +1,29 @@
+{
+  "module": 226,
+  "section": {
+    "id": 2413,
+    "title": "Snort Fundamentals",
+    "page": 5,
+    "group": "Snort",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "05-snort-fundamentals"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1903,
+      "question": "There is a file named wannamine.pcap in the /home/htb-student/pcaps directory. Run Snort on this PCAP file and enter how many times the rule with sid 1000001 was triggered as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "234"
+    }
+  ]
+}

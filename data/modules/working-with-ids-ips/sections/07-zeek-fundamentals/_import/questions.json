@@ -1,0 +1,16 @@
+{
+  "module": 226,
+  "section": {
+    "id": 2414,
+    "title": "Zeek Fundamentals",
+    "page": 7,
+    "group": "Zeek",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "07-zeek-fundamentals"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

@@ -1,0 +1,12 @@
+{
+  "order": 3,
+  "htb_id": 216,
+  "title": {
+    "en": "Windows Event Logs & Finding Evil",
+    "vi": "Windows Event Logs & Finding Evil"
+  },
+  "description": {
+    "en": "This module covers the exploration of Windows Event Logs and their significance in uncovering suspicious activities. Throughout the course, we delve into the anatomy of Windows Event Logs and highlight the logs that hold the most valuable information for investigations. The module also focuses on utilizing Sysmon and Event Logs for detecting and analyzing malicious behavior. Additionally, we delve into Event Tracing for Windows (ETW), explaining its architecture and components, and provide ETW-based detection examples. To streamline the analysis process, we introduce the powerful Get-WinEvent cmdlet.",
+    "vi": "Module này đề cập đến việc khám phá Windows Event Logs và tầm quan trọng của chúng trong việc phát hiện các hoạt động đáng ngờ. Xuyên suốt khoá học, ta đi sâu vào cấu trúc (anatomy) của Windows Event Logs và làm nổi bật những log chứa thông tin giá trị nhất cho công tác điều tra. Module cũng tập trung vào việc tận dụng Sysmon và Event Logs để phát hiện và phân tích hành vi độc hại. Ngoài ra, ta đi sâu vào Event Tracing for Windows (ETW), giải thích kiến trúc và các thành phần của nó, đồng thời cung cấp các ví dụ phát hiện dựa trên ETW. Để hợp lý hoá quá trình phân tích, ta giới thiệu cmdlet mạnh mẽ Get-WinEvent."
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Replicate executing Seatbelt and SilkETW as described in this section and provide the ManagedInteropMethodName that starts with \"G\" and ends with \"ion\" as your answer. \"c:\\Tools\\SilkETW_SilkService_v8\\v8\" and \"C:\\Tools\\GhostPack Compiled Binaries\" on the spawned target contain everything you need. RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Thực hiện lại việc chạy Seatbelt và SilkETW như mô tả trong section này và nhập ManagedInteropMethodName bắt đầu bằng \"G\" và kết thúc bằng \"ion\" làm câu trả lời. \"c:\\Tools\\SilkETW_SilkService_v8\\v8\" và \"C:\\Tools\\GhostPack Compiled Binaries\" trên máy target được spawn chứa mọi thứ bạn cần. RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "GetTokenInformation"
+  }
+]

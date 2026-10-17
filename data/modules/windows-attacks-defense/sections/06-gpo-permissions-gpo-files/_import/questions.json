@@ -1,0 +1,29 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1781,
+    "title": "GPO Permissions/GPO Files",
+    "page": 6,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "06-gpo-permissions-gpo-files"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1644,
+      "question": "From WS001 RDP again into DC1 (172.16.18.3) as 'htb-student:HTB_@cademy_stdnt!' and abuse GPO directly. Once completed type DONE as the answer",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "bob",
+      "password": "Slavi123",
+      "answer": "DONE"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Inspect the SSL_renegotiation_edited.pcapng file, part of this module's resources, and enter the total count of \"Client Hello\" requests as your answer.",
+      "vi": "Hãy kiểm tra file SSL_renegotiation_edited.pcapng (thuộc tài nguyên của module này) và nhập tổng số request \"Client Hello\" làm câu trả lời."
+    },
+    "answer": "16"
+  }
+]

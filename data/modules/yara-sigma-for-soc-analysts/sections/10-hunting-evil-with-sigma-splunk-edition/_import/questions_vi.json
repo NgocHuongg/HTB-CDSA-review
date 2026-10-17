@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Dùng sigmac để chuyển rule Sigma \"C:\\Rules\\sigma\\file_event_win_app_dropping_archive.yml\" thành Splunk search tương đương. Sau đó, mở http://[Target IP]:8000, mở ứng dụng \"Search & Reporting\" và chạy Splunk search mà sigmac đã cung cấp. Nhập giá trị TargetFilename của event trả về làm đáp án.",
+    "hint": "Bạn có thể tìm thấy sigmac trên máy target của section trước, nếu bạn chưa có sẵn nó."
+  }
+]

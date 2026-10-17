@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Nghiên cứu YARA rule \"C:\\Rules\\yara\\shell_detector.yar\" nhằm phát hiện \"C:\\Samples\\MalwareAnalysis\\shell.exe\" bên trong bộ nhớ process. Sau đó, chỉ định các giá trị hex phù hợp bên trong biến \"$sandbox\" để đảm bảo thông báo \"Sandbox detected\" cũng sẽ bị phát hiện. Nhập các giá trị hex đúng làm đáp án. Answer format: Remove any spaces",
+    "hint": null
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2531,
+    "title": "Detecting DCSync/DCShadow",
+    "page": 10,
+    "group": "Leveraging Windows Event Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "10-detecting-dcsync-dcshadow"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1991,
+      "question": "Modify the last Splunk search in this section by replacing the two hidden characters (XX) to align the results with those shown in the screenshot. Enter the correct characters as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "GC"
+    }
+  ]
+}

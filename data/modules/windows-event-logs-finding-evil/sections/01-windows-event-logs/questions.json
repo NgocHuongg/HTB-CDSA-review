@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Analyze the event with ID 4624, that took place on 8/3/2022 at 10:23:25. Conduct a similar investigation as outlined in this section and provide the name of the executable responsible for the modification of the auditing settings as your answer. Answer format: T_W_____.exe RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Phân tích event có ID 4624, xảy ra vào 8/3/2022 lúc 10:23:25. Thực hiện một cuộc điều tra tương tự như đã trình bày trong section này và đưa ra tên file thực thi (executable) chịu trách nhiệm sửa đổi các cài đặt audit làm câu trả lời. Answer format: T_W_____.exe RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "TiWorker.exe"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Build an XML query to determine if the previously mentioned executable modified the auditing settings of C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\WPF\\wpfgfx_v0400.dll. Enter the time of the identified event in the format HH:MM:SS as your answer. RDP to TARGET_IP with user \"Administrator\" and password \"HTB_@cad3my_lab_W1n10_r00t!@0\".",
+      "vi": "Xây dựng một XML query để xác định liệu file thực thi nêu trên có sửa đổi các cài đặt audit của C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\WPF\\wpfgfx_v0400.dll hay không. Nhập thời điểm của event tìm được theo định dạng HH:MM:SS làm câu trả lời. RDP tới TARGET_IP với user \"Administrator\" và mật khẩu \"HTB_@cad3my_lab_W1n10_r00t!@0\"."
+    },
+    "answer": "10:23:50"
+  }
+]

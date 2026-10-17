@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2468,
+    "title": "Strange Telnet & UDP Connections",
+    "page": 17,
+    "group": "Application Layer Attacks",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "17-strange-telnet-udp-connections"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1942,
+      "question": "Inspect the telnet_tunneling_ipv6.pcapng file, part of this module's resources, and enter the hidden flag as your answer. Answer format: HTB(___) (Replace all spaces with underscores)",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "HTB(Ipv6_is_my_best_friend)"
+    }
+  ]
+}

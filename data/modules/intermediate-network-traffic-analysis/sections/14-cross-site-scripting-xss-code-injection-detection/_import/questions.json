@@ -1,0 +1,29 @@
+{
+  "module": 229,
+  "section": {
+    "id": 2465,
+    "title": "Cross-Site Scripting (XSS) & Code Injection Detection",
+    "page": 14,
+    "group": "Application Layer Attacks",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "14-cross-site-scripting-xss-code-injection-detection"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1939,
+      "question": "Inspect the first packet of the XSS_Simple.pcapng file, part of this module's resources, and enter the cookie value that was exfiltrated as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "mZjQ17NLXY8ZNBbJCS0O"
+    }
+  ]
+}

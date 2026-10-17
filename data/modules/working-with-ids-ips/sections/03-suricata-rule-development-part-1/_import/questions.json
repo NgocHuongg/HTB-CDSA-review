@@ -1,0 +1,29 @@
+{
+  "module": 226,
+  "section": {
+    "id": 2415,
+    "title": "Suricata Rule Development Part 1",
+    "page": 3,
+    "group": "Suricata",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "03-suricata-rule-development-part-1"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1890,
+      "question": "In the /home/htb-student directory of this section's target, there is a file called local.rules. Within this file, there is a rule with sid 2024217, which is associated with the MS17-010 exploit. Additionally, there is a PCAP file named eternalblue.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to MS17-010. What is the minimum offset value that can be set to trigger an alert?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "SSH",
+      "username": "htb-student",
+      "password": "HTB_@cademy_stdnt!",
+      "answer": "4"
+    }
+  ]
+}

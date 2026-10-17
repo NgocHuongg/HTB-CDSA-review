@@ -1,0 +1,16 @@
+{
+  "module": 214,
+  "section": {
+    "id": 2282,
+    "title": "Threat Hunting Glossary",
+    "page": 3,
+    "group": "Threat Hunting & Threat Intelligence Fundamentals",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "03-threat-hunting-glossary"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Study the following resource https://blogs.vmware.com/security/2022/09/threat-report-illuminating-volume-shadow-deletion.html to learn how WannaCry performs shadow volume deletion. Then, use yarascan when analyzing \"/home/htb-student/MemoryDumps/compromised_system.raw\" to identify the process responsible for deleting shadows. Enter the name of the process as your answer. SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Nghiên cứu tài liệu sau https://blogs.vmware.com/security/2022/09/threat-report-illuminating-volume-shadow-deletion.html để tìm hiểu cách WannaCry thực hiện xoá shadow volume. Sau đó, dùng yarascan khi phân tích \"/home/htb-student/MemoryDumps/compromised_system.raw\" để xác định process chịu trách nhiệm xoá các shadow copy. Nhập tên của process làm đáp án. SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "@WanaDecryptor@"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "There is a file named trickbot.pcap in the /home/htb-student/pcaps directory, which contains network traffic related to a certain variation of the Trickbot malware. Enter the precise string that should be specified in the content keyword of the rule with sid 100299 within the local.rules file so that an alert is triggered as your answer. SSH to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Trong thư mục /home/htb-student/pcaps có một file tên là trickbot.pcap, chứa network traffic liên quan đến một biến thể nhất định của malware Trickbot. Hãy nhập chính xác chuỗi cần được chỉ định trong keyword content của rule có sid 100299 trong file local.rules để alert được kích hoạt. SSH tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "72a589da586844d7f0818ce684948eea"
+  }
+]

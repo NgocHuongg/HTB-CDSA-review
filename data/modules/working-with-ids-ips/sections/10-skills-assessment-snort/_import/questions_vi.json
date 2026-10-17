@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Có một file tên wannamine.pcap trong thư mục /home/htb-student/pcaps, chứa lưu lượng mạng liên quan tới kỹ thuật Overpass-the-hash, vốn liên quan tới việc hạ cấp (downgrade) kiểu mã hoá Kerberos. Hãy thay XX bằng giá trị phù hợp trong content keyword cuối cùng của rule có sid XXXXXXX trong file local.rules để alert được kích hoạt, và nhập giá trị đó làm câu trả lời.",
+    "hint": "Giá trị byte (XX)"
+  }
+]

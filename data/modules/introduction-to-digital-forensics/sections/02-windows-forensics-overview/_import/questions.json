@@ -1,0 +1,16 @@
+{
+  "module": 237,
+  "section": {
+    "id": 2629,
+    "title": "Windows Forensics Overview",
+    "page": 2,
+    "group": "Introduction",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "02-windows-forensics-overview"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

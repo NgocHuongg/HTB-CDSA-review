@@ -1,0 +1,7 @@
+[
+  {"n": 1, "question": "Tab plugin nào có thể cung cấp cho ta cách xem metadata của các conversation và thậm chí phân tách theo giao thức cho toàn bộ file PCAP?", "hint": "chỉ một từ thôi. Ta đang tìm Stats đúng không?"},
+  {"n": 2, "question": "Tab plugin nào cho phép tôi thực hiện các tác vụ như áp dụng filter, follow stream và xem expert info?", "hint": "không phải statistics. ta đang thực hiện phân tích.."},
+  {"n": 3, "question": "Giao thức Transport hướng luồng (stream oriented) nào cho phép ta follow và tái dựng các conversation cùng dữ liệu đi kèm?", "hint": "không phải UDP"},
+  {"n": 4, "question": "True or False: Wireshark có thể trích xuất file từ lưu lượng HTTP.", "hint": "http dùng TCP để truyền tải, nghĩa là từng byte đều được kiểm soát đầy đủ.."},
+  {"n": 5, "question": "True or False: Filter ftp-data sẽ hiển thị cho ta mọi dữ liệu được gửi qua cổng TCP 21.", "hint": "ftp dùng cổng tcp 21 cho việc điều khiển lệnh (command control) của FTP. FTP còn dùng cổng nào khác?"}
+]

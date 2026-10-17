@@ -1,0 +1,29 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1788,
+    "title": "Coercing Attacks & Unconstrained Delegation",
+    "page": 13,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "13-coercing-attacks-unconstrained-delegation"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1640,
+      "question": "Repeat the example shown in the section, and type DONE as the answer when you are finished.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "kali",
+      "password": "kali",
+      "answer": "DONE"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "module": 233,
+  "section": {
+    "id": 2527,
+    "title": "Detecting Pass-the-Hash",
+    "page": 5,
+    "group": "Leveraging Windows Event Logs",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "05-detecting-pass-the-hash"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1986,
+      "question": "A Pass-the-Hash attack took place during the following timeframe earliest=1690543380 latest=1690545180. Enter the involved ComputerName as your answer.",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "BLUE.corp.local"
+    }
+  ]
+}

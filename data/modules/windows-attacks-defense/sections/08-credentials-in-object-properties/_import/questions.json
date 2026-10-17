@@ -1,0 +1,53 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1783,
+    "title": "Credentials in Object Properties",
+    "page": 8,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "08-credentials-in-object-properties"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1635,
+      "question": "Connect to the target and use a script to enumerate object property fields. What password can be found in the Description field of the bonni user?",
+      "hint": null,
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "bob",
+      "password": "Slavi123",
+      "answer": "Slavi1234"
+    },
+    {
+      "n": 2,
+      "id": 1648,
+      "question": "Using the password discovered in the previous question, try to authenticate to DC1 as the bonni user. Is the password valid?",
+      "hint": "Yes or No",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "No"
+    },
+    {
+      "n": 3,
+      "id": 1649,
+      "question": "Connect to DC1 as 'htb-student:HTB_@cademy_stdnt!' and look at the logs in Event Viewer. What is the TargetSid of the bonni user?",
+      "hint": "Filter by Event ID 4771.",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "S-1-5-21-1518138621-4282902758-752445584-3102"
+    }
+  ]
+}

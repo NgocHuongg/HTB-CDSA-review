@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "The \"C:\\Rules\\yara\\seatbelt.yar\" YARA rule aims to detect instances of the \"Seatbelt.exe\" .NET assembly on disk. Analyze both \"C:\\Rules\\yara\\seatbelt.yar\" and \"C:\\Samples\\YARASigma\\Seatbelt.exe\" and specify the appropriate string inside the \"$class2\" variable so that the rule successfully identifies \"C:\\Samples\\YARASigma\\Seatbelt.exe\". Answer format: L________r RDP to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Rule YARA \"C:\\Rules\\yara\\seatbelt.yar\" nhằm phát hiện các bản sao của .NET assembly \"Seatbelt.exe\" trên ổ đĩa. Phân tích cả \"C:\\Rules\\yara\\seatbelt.yar\" và \"C:\\Samples\\YARASigma\\Seatbelt.exe\", rồi chỉ ra chuỗi phù hợp cần đặt trong biến \"$class2\" để rule nhận diện thành công \"C:\\Samples\\YARASigma\\Seatbelt.exe\". Answer format: L________r RDP tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "Lsawrapper"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Use Chainsaw with the \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\powershell\\powershell_script\\posh_ps_susp_win32_shadowcopy.yml\" Sigma rule to hunt for shadow volume deletion inside \"C:\\Events\\YARASigma\\lab_events_6.evtx\". Enter the identified ScriptBlock ID as your answer. RDP to TARGET_IP with user \"htb-student\" and password \"HTB_@cademy_stdnt!\".",
+      "vi": "Dùng Chainsaw với rule Sigma \"C:\\Tools\\chainsaw\\sigma\\rules\\windows\\powershell\\powershell_script\\posh_ps_susp_win32_shadowcopy.yml\" để săn lùng việc xoá shadow volume trong \"C:\\Events\\YARASigma\\lab_events_6.evtx\". Nhập ScriptBlock ID tìm được làm đáp án. RDP tới TARGET_IP với user \"htb-student\" và mật khẩu \"HTB_@cademy_stdnt!\"."
+    },
+    "answer": "faaeba08-01f0-4a32-ba48-bd65b24afd28"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "q1",
+    "question": {
+      "en": "Try to study the HTML code of the webpage, and identify used JavaScript code within it. What is the name of the JavaScript file being used?",
+      "vi": "Hãy thử nghiên cứu code HTML của trang web và xác định code JavaScript được dùng trong đó. Tên của file JavaScript đang được dùng là gì?"
+    },
+    "answer": "api.min.js"
+  },
+  {
+    "id": "q2",
+    "question": {
+      "en": "Once you find the JavaScript code, try to run it to see if it does any interesting functions. Did you get something in return?",
+      "vi": "Khi đã tìm thấy code JavaScript, hãy thử chạy nó để xem nó có thực hiện chức năng nào đáng chú ý không. Bạn có nhận lại được gì không?"
+    },
+    "hint": {
+      "en": "HTB{flag}",
+      "vi": "HTB{flag}"
+    },
+    "answer": "HTB{j4v45cr1p7_3num3r4710n_15_k3y}"
+  },
+  {
+    "id": "q3",
+    "question": {
+      "en": "As you may have noticed, the JavaScript code is obfuscated. Try applying the skills you learned in this module to deobfuscate the code, and retrieve the 'flag' variable.",
+      "vi": "Như bạn có thể đã nhận thấy, code JavaScript đã bị obfuscate. Hãy thử áp dụng các kỹ năng đã học trong module này để deobfuscate code và lấy ra biến 'flag'."
+    },
+    "hint": {
+      "en": "Don't forget to stitch it together!",
+      "vi": "Đừng quên ghép các phần lại với nhau!"
+    },
+    "answer": "HTB{n3v3r_run_0bfu5c473d_c0d3!}"
+  },
+  {
+    "id": "q4",
+    "question": {
+      "en": "Try to Analyze the deobfuscated JavaScript code, and understand its main functionality. Once you do, try to replicate what it's doing to get a secret key. What is the key?",
+      "vi": "Hãy thử phân tích code JavaScript đã deobfuscate và hiểu chức năng chính của nó. Sau khi hiểu, hãy thử tái hiện những gì nó làm để lấy một secret key. Key đó là gì?"
+    },
+    "answer": "4150495f70336e5f37333537316e365f31355f66756e"
+  },
+  {
+    "id": "q5",
+    "question": {
+      "en": "Once you have the secret key, try to decide it's encoding method, and decode it. Then send a 'POST' request to the same previous page with the decoded key as \"key=DECODED_KEY\". What is the flag you got?",
+      "vi": "Khi đã có secret key, hãy thử xác định phương pháp encode của nó và decode nó. Sau đó gửi một request 'POST' tới chính trang trước đó với key đã decode dưới dạng \"key=DECODED_KEY\". Flag bạn nhận được là gì?"
+    },
+    "answer": "HTB{r34dy_70_h4ck_my_w4y_1n_2_HTB}"
+  }
+]

@@ -1,0 +1,3 @@
+[
+  {"n": 1, "question": "Nhập giá trị sau khi decode của chuỗi được encode base64 ba lần đã được nhắc tới trong section này làm câu trả lời. Answer format: HTB{___}", "hint": "Một chuỗi base64 có thể đã được encode vài lần."}
+]

@@ -1,0 +1,16 @@
+{
+  "module": 237,
+  "section": {
+    "id": 2608,
+    "title": "Introduction to Digital Forensics",
+    "page": 1,
+    "group": "Introduction",
+    "type": "theory",
+    "interactive": 0,
+    "folder": "01-introduction-to-digital-forensics"
+  },
+  "type": "theory",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": []
+}

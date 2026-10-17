@@ -1,0 +1,7 @@
+[
+  {
+    "n": 1,
+    "question": "Vận dụng những gì đã học trong phần này, hãy thử deobfuscate 'secret.js' để lấy nội dung của flag. Flag là gì?",
+    "hint": "Đừng chỉ beautify, hãy deobfuscate nó!"
+  }
+]

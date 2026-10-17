@@ -1,0 +1,41 @@
+{
+  "module": 176,
+  "section": {
+    "id": 1787,
+    "title": "Print Spooler & NTLM Relaying",
+    "page": 12,
+    "group": "Attacks & Defense",
+    "type": "interactive",
+    "interactive": 1,
+    "folder": "12-print-spooler-ntlm-relaying"
+  },
+  "type": "interactive",
+  "exercises": 0,
+  "imgErr": [],
+  "questions": [
+    {
+      "n": 1,
+      "id": 1639,
+      "question": "What is Kerberos des-cbc-md5 key for user Administrator?",
+      "hint": "We might need to run the tools as root.",
+      "file": null,
+      "has_file": false,
+      "protocol": "RDP",
+      "username": "kali",
+      "password": "kali",
+      "answer": "d9b53b1f6d7c45a8"
+    },
+    {
+      "n": 2,
+      "id": 1661,
+      "question": "After performing the previous attack, connect to DC1 (172.16.18.3) as 'htb-student:HTB_@cademy_stdnt!' and make the appropriate change to the registry to prevent the PrinterBug attack. Then, restart DC1 and try the same attack again. What is the error message seen when running dementor.py?",
+      "hint": "Copy and paste the entire error message, starting with [-]",
+      "file": null,
+      "has_file": false,
+      "protocol": null,
+      "username": null,
+      "password": null,
+      "answer": "[-] unhandled exception occured: SMB SessionError: STATUS_OBJECT_NAME_NOT_FOUND(The object name is not found.)"
+    }
+  ]
+}
